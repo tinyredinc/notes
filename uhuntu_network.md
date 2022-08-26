@@ -1,0 +1,3 @@
+# STATIC IP
+
+SASA
