@@ -1,4 +1,66 @@
+# HEADING
 
+# H1 HEADING
+## H2 HEADING
+### H3 HEADING
+#### H4 HEADING
+##### H5 HEADING
+###### H6 HEADING
+
+---
+# STYLE
+
+**bold text**  __bold text__
+
+*italic text* _italic text_
+
+***bold and italic text***
+
+~~strikethrough text~~ 	
+
+To create a line break or new line,  
+end a line with two or more spaces.
+<br> br tag works the same.
+
+> ## Blockquote title
+> 
+> blockquote text line 1
+>  
+> blockquote text line 2
+>> 
+>> nested blockquote text
+
+Ordered List
+1. First item
+2. Second item
+3. Third item
+
+Unordered List
+- First item
+- Second item
+- Third item
+
+Mixed List
+1. First item
+2. Second item
+3. Third item
+    - Indented item
+    - Indented item
+4. Fourth item
+
+Horizontal Line  
+
+---
+
+# LINK
+
+EMAIL - <fake@example.com>
+
+URL - <https://www.example.com>
+
+HYPERLINK - [EXAMPLE.COM](https://www.example.com)
+
+FILE LINK - [README.md](README.md)
 
 # CODE BLOCK
 
@@ -42,8 +104,23 @@ You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
+$$ f(x) = ax^2 + bx +c $$ 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+$$
+\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
+$$
+
+$$
+f(n) =
+\begin{cases}
+\frac{n}{2},  & \text{if $n$ is even} \\[2ex]
+3n+1, & \text{if $n$ is odd}
+\end{cases}
+$$
+$$
+SD_i = \frac{exp(-0.05*S_i)-exp(-0.05*E_i)}{0.05}
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
