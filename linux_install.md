@@ -11,7 +11,7 @@ Download Link <https://ubuntu.com/download/server>
 
 Installation Guide - <https://ubuntu.com/tutorials/install-ubuntu-server>
 
-## UBUNTU PACKAGE MGMT
+## UBUNTU PACKAGE
 
 ```
 # list packages(list packages based on package names)
