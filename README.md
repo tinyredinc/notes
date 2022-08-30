@@ -2,5 +2,6 @@
 
 * THE CHEAT SHEET FOR MARKDOWN - [md_cheatsheet.md](md_cheatsheet.md)
 
-## SYSTEM
+# OS
 * Linux Installation - [linux_install.md](linux_install.md)
+* Linux Network - [linux_network.md](linux_netword.md)
