@@ -4,4 +4,4 @@
 
 # OS
 * Linux Installation - [linux_install.md](linux_install.md)
-* Linux Network - [linux_network.md](linux_netword.md)
+* Linux Network - [linux_network.md](linux_network.md)
