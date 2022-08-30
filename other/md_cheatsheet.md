@@ -209,14 +209,12 @@ f(n) =
 $$
 $$SD_i = \frac{exp(-0.05*S_i)-exp(-0.05*E_i)}{0.05}$$
 ```
-$$
-f(x) = ax^2 + bx +c
-$$
+$$f(x) = ax^2 + bx +c $$ 
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
+
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
 $$
 f(n) =
 \begin{cases}
@@ -224,6 +222,7 @@ f(n) =
 3n+1, & \text{if $n$ is odd}
 \end{cases}
 $$
+
 $$SD_i = \frac{exp(-0.05*S_i)-exp(-0.05*E_i)}{0.05}$$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
