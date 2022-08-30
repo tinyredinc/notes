@@ -197,7 +197,7 @@ You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 ```
-$$f(x) = ax^2 + bx +c $$ 
+$$f(x) = ax^2 + bx +c$$ 
 
 $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
 
