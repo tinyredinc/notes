@@ -1,5 +1,5 @@
 # BREIF
-This repo is all about the notes that I made exploring the technology world. There is no promise on the accuracy of the information; feel free to use it at your own risk.
+This repo is all about the notes that I made. There is no promise on the accuracy of the information; feel free to use it at your own risk.
 
 --- by Sam
 
