@@ -199,7 +199,7 @@ The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ i
 ```
 $$f(x) = ax^2 + bx +c$$ 
 
-$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
+$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt$$
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
@@ -207,7 +207,7 @@ $$SD_i = \frac{exp(-0.05*S_i)-exp(-0.05*E_i)}{0.05}$$
 ```
 $$f(x) = ax^2 + bx +c $$ 
 
-$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
+$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt$$
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
