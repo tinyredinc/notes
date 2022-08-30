@@ -1,6 +1,6 @@
 # MENU
 
-* THE CHEAT SHEET FOR MARKDOWN - [md_cheatsheet.md](md_cheatsheet.md)
+* Cheatsheet for markdown - [md_cheatsheet.md](md_cheatsheet.md)
 
 # OS
 * Linux Installation - [linux_install.md](os/linux_install.md)
