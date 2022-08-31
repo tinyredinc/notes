@@ -124,6 +124,9 @@ sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf
 # bind address to eth static ip
 bind-address            = 10.10.10.20
 ...
+# disable secure_file_priv
+secure_file_priv=""
+...
 ```
 ```
 #######################
