@@ -118,7 +118,7 @@ Bye
 ```
 
 - tuning config file  
-vim vim /etc/mysql/mysql.conf.d/mysqld.cnf
+sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf
 ```
 ...
 # bind address to eth static ip
