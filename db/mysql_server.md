@@ -136,11 +136,12 @@ innodb_buffer_pool_size = 4G
 
 # innodb_log_file_size
 # When data is changes in InnoDB table, Mysql will write changes to buffer pool first. After that it will log change operations (in a low-level format) to a log file (so called “redo log”). If those log files are small, Mysql have to make a lot of writes to disk directly to data files. So set log files large (as big as buffer pool, if possible).
-innodb_log_file_size = 4G
 # warning, when you change innodb_log_file_size, you have to remove old log files and restart mysql:
 # sudo systemctl stop mysql
 # sudo rm /var/lib/mysql/ib_logfile*
 # sudo systemctl start mysql
+innodb_log_file_size = 4G
+
 
 # innodb_log_buffer_size
 # If log buffer is smaller than the transaction impact, Mysql will have to wait till it writes everything to disk. Increase log buffers if you have queries that insert/update/delete many rows at once.
