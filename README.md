@@ -9,7 +9,7 @@ This repo is all about the notes that I made. There is no promise on the accurac
 * Linux Storage - [linux_storage.md](os/linux_storage.md)
 
 # DB
-- MYSQL SERVER - [mysql_server](db/mysql_server.md)
+- MYSQL SERVER - [mysql_server.md](db/mysql_server.md)
 
 # OHTER
 * Cheatsheet for markdown - [md_cheatsheet.md](other/md_cheatsheet.md)
