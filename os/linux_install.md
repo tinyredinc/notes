@@ -11,7 +11,7 @@ Download Link <https://ubuntu.com/download/server>
 
 Installation Guide - <https://ubuntu.com/tutorials/install-ubuntu-server>
 
-## UBUNTU PACKAGE MGMT
+## PACKAGE MGMT
 
 ```
 # list packages(list packages based on package names)
@@ -39,6 +39,19 @@ sudo apt upgrade {app_name}
 
 # edit source
 sudo apt edit-sources
+```
+
+## USER CONFIG
+```
+sudo adduser red
+sudo passwd red
+sudo addgroup dev
+sudo adduser red dev
+sudo visudo
+...
+# Allow members of group dev to sudo without password
+%dev    ALL=(ALL) NOPASSWD: ALL
+...
 ```
 
 # CENTOS
