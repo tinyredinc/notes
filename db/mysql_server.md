@@ -145,7 +145,6 @@ innodb_buffer_pool_size = 4G
 # sudo systemctl start mysql
 innodb_log_file_size = 4G
 
-
 # innodb_log_buffer_size
 # If log buffer is smaller than the transaction impact, Mysql will have to wait till it writes everything to disk. Increase log buffers if you have queries that insert/update/delete many rows at once.
 innodb_log_buffer_size = 128M
@@ -158,3 +157,5 @@ innodb_flush_log_at_trx_commit = 0
 # [fsync] uses the fsync() system call to flush both the data and log files; [O_DSYNC] uses O_SYNC to open and flush the log files, and fsync() to flush the data files. Long story short, fsync = compatible and O_DSYNC = fast
 innodb_flush_method = O_DSYNC
 ```
+
+- sudo systemctl restart mysql
