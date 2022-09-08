@@ -7,6 +7,7 @@ This repo is all about the notes that I made. There is no promise on the accurac
 * Linux Installation - [linux_install.md](os/linux_install.md)
 * Linux Network - [linux_network.md](os/linux_network.md)
 * Linux Storage - [linux_storage.md](os/linux_storage.md)
+* Linux OpenSSH - [linux_openssh.md](os/linux_openssh.md)
 
 # DB
 - MYSQL SERVER - [mysql_server.md](db/mysql_server.md)
