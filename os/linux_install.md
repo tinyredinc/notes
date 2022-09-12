@@ -53,6 +53,22 @@ sudo visudo
 %dev    ALL=(ALL) NOPASSWD: ALL
 ...
 ```
+* more refers to [linux_openssh.md](linux_openssh.md)
+
+## Service Mgmt - systemctl
+```
+systemctl list-units --type=service
+sudo systemctl status application.service
+
+sudo systemctl start application.service
+sudo systemctl stop application.service
+sudo systemctl restart application.service
+
+sudo systemctl enable application.service
+sudo systemctl disable application.service
+
+sudo systemctl edit --full application.service
+```
 
 # CENTOS
 Download Link <https://www.centos.org/download/>
