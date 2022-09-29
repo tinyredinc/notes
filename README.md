@@ -9,7 +9,10 @@ This repo is all about the notes that I made. There is no promise on the accurac
 * Linux Storage - [linux_storage.md](os/linux_storage.md)
 * Linux OpenSSH - [linux_openssh.md](os/linux_openssh.md)
 
-# DB
+# Service
+* Apache2 Setup - [apache2_setup.md](service/apache2_setup.md)
+
+# Database
 - MYSQL SERVER - [mysql_server.md](db/mysql_server.md)
 
 # OHTER
