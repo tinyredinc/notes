@@ -1,11 +1,11 @@
 
 # jQuery
--jQuery 3.6.1
+- jQuery 3.6.1
 ```
 https://cdn.sideai.com/lib/jquery/3.6.1.min.js
 https://cdn.sideai.com/lib/jquery/3.6.1.slim.min.js
 ```
--jQuery 2.2.4
+- jQuery 2.2.4
 ```
 https://cdn.sideai.com/lib/jquery/2.2.4.min.js
 ```
@@ -83,5 +83,4 @@ https://cdn.sideai.com/lib/bootstrap/5.2.1/css/bootstrap.rtl.css.map
 
 https://cdn.sideai.com/lib/bootstrap/5.2.1/css/bootstrap.rtl.min.css
 https://cdn.sideai.com/lib/bootstrap/5.2.1/css/bootstrap.rtl.min.css.map
-
 ```
