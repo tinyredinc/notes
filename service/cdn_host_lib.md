@@ -13,6 +13,33 @@ https://cdn.sideai.com/lib/jquery/2.2.4.min.js
 ```
 https://cdn.sideai.com/lib/jquery/1.12.4.min.js
 ```
+# Echarts
+- Echarts 5.4.0
+```
+https://cdn.sideai.com/lib/echarts/5.4.0/bmap.js
+https://cdn.sideai.com/lib/echarts/5.4.0/bmap.js.map
+https://cdn.sideai.com/lib/echarts/5.4.0/bmap.min.js
+
+https://cdn.sideai.com/lib/echarts/5.4.0/dataTool.js
+https://cdn.sideai.com/lib/echarts/5.4.0/dataTool.js.map
+https://cdn.sideai.com/lib/echarts/5.4.0/dataTool.min.js
+
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.common.js
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.common.js.map
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.common.min.js
+
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.esm.js
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.esm.js.map
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.esm.min.js
+
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.js
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.js.map
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.min.js
+
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.simple.js
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.simple.js.map
+https://cdn.sideai.com/lib/echarts/5.4.0/echarts.simple.min.js
+```
 
 # Bootstrap
 - Bootstrap 5.2.1
