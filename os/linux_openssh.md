@@ -88,7 +88,7 @@ PasswordAuthentication yes
 ~~~
 * restart ssh service
 ~~~
-sudo systemcrl restart ssh
+sudo systemctl restart ssh
 ~~~
 
 * connect from remote with rsa-key
