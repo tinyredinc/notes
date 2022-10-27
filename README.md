@@ -8,6 +8,7 @@ This repo is all about the notes that I made. There is no promise on the accurac
 * Linux Network - [linux_network.md](os/linux_network.md)
 * Linux Storage - [linux_storage.md](os/linux_storage.md)
 * Linux OpenSSH - [linux_openssh.md](os/linux_openssh.md)
+* Linux Shell - [linux_shell.md](os/linux_shell.md)
 
 # Service
 * CDN Host Library - [cdn_host_lib.md](service/cdn_host_lib.md)
