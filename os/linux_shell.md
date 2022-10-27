@@ -115,6 +115,9 @@ else
 	done
 fi
 
+#tar -czvf $DUMP_PATH/../$DB_NAME.tar.gz -C $DUMP_PATH .
+zip -rj $DUMP_PATH/../$DB_NAME.zip  $DUMP_PATH
+
 date +"%Y-%m-%d.%H.%M.%S"
 echo "###### MYSQL DUMP END ######"
 ```
