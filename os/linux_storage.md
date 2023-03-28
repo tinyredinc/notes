@@ -95,14 +95,14 @@ bind interfaces only = yes
     create mask = 0755
 ;   valid users = @red @root
 
-;[netdisk1}. Represents the directory name. This is the directory location Windows users see.
-;comment. Serves as a shared directory description.
-;path. This parameter specifies the shared directory location. The example uses a directory in /home, but users can also place the shared files under /samba.
-;read only. This parameter allows users to modify the directory and add or change files when set to no.
-;writeable. Grants read and write access when set to yes.
-;browseable. This parameter allows other machines in the network to find the Samba server and Samba share when set to yes. Otherwise, users must know the exact Samba server name and type in the path to access the shared directory.
-;guest ok. When set to no, this parameter disables guest access. Users need to enter a username and password to access the shared directory.
-;valid users. Only the users mentioned have access to the Samba share.
+;[netdisk1] - Represents the directory name. This is the directory location Windows users see.
+;comment - Serves as a shared directory description.
+;path - This parameter specifies the shared directory location. The example uses a directory in /home, but users can also place the shared files under /samba.
+;read only - This parameter allows users to modify the directory and add or change files when set to no.
+;writeable - Grants read and write access when set to yes.
+;browseable - This parameter allows other machines in the network to find the Samba server and Samba share when set to yes. Otherwise, users must know the exact Samba server name and type in the path to access the shared directory.
+;guest ok - When set to no, this parameter disables guest access. Users need to enter a username and password to access the shared directory.
+;valid users - Only the users mentioned have access to the Samba share.
 
 red@data1066:~$ testparm
 Load smb config files from /etc/samba/smb.conf
