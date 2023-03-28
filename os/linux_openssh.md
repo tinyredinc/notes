@@ -70,7 +70,7 @@ sudo vim /etc/sudoers
 
 ...
 # Allow members of group poweruser to sudo without password
-%poweruser    ALL=(ALL) NOPASSWD: ALL
+%poweruser    ALL=(ALL) NOPASSWD:ALL
 ...
 ~~~
 * allow password login and disable root
