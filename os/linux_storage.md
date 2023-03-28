@@ -57,3 +57,51 @@ sudo vim /etc/fstab
 10.10.10.10:/volume1/nuc_server /red_nas    nfs defaults    0   0
 ...
 ```
+
+# DISK SHARE(FOR WIN)
+- Install Samba
+```
+sudo apt install samba -y
+...
+red@data1066:~$ whereis samba
+samba: /usr/sbin/samba /usr/lib/x86_64-linux-gnu/samba /etc/samba /usr/share/samba /usr/share/man/man7/samba.7.gz /usr/share/man/man8/samba.8.gz
+
+red@data1066:~$ samba -V
+Version 4.15.13-Ubuntu
+
+red@data1066:~$ systemctl status smbd
+● smbd.service - Samba SMB Daemon
+     Loaded: loaded (/lib/systemd/system/smbd.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-03-28 17:50:53 UTC; 2min 45s ago
+       Docs: man:smbd(8)
+...
+```
+- Config Samba
+```
+sudo vim /etc/samba/smb.conf
+
+workgroup = WORKGROUP
+server string = data1066
+interfaces = lo enp5s0
+bind interfaces only = yes
+
+red@data1066:~$ testparm
+Load smb config files from /etc/samba/smb.conf
+Loaded services file OK.
+Server role: ROLE_STANDALONE
+```
+
+- Add Shareuser
+```
+sudo vim /etc/samba/smb.conf
+
+workgroup = WORKGROUP
+server string = data1066
+interfaces = lo enp5s0
+bind interfaces only = yes
+
+red@data1066:~$ testparm
+Load smb config files from /etc/samba/smb.conf
+Loaded services file OK.
+Server role: ROLE_STANDALONE
+```
