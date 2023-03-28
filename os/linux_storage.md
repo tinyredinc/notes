@@ -101,3 +101,8 @@ Load smb config files from /etc/samba/smb.conf
 Loaded services file OK.
 Server role: ROLE_STANDALONE
 ```
+- Restart Service
+```
+sudo chown nobody:nogroup /netdisk1
+sudo systemctl restart smbd.service nmbd.service
+```
