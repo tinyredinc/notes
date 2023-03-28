@@ -1,6 +1,6 @@
 # NETWORK STORAGE
 
-## UBUNTU
+## MOUNT NFS NET DISK
 
 - **install nfs package**  
 sudo apt install nfs-common
@@ -58,7 +58,7 @@ sudo vim /etc/fstab
 ...
 ```
 
-# DISK SHARE(FOR WIN)
+## SHARE NETDISK VIA SAMBA(FOR WIN)
 - Install Samba
 ```
 sudo apt install samba -y
