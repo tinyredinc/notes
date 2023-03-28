@@ -85,20 +85,16 @@ server string = data1066
 interfaces = lo enp5s0
 bind interfaces only = yes
 
-red@data1066:~$ testparm
-Load smb config files from /etc/samba/smb.conf
-Loaded services file OK.
-Server role: ROLE_STANDALONE
-```
+[netdisk1]
+    comment = DATA1066-NETDISK1
+    path = /netdisk1
+    browsable = yes
+    writable = yes
+    guest ok = yes
+    read only = no
+    create mask = 0755
+;   valid users = @red @root
 
-- Add Shareuser
-```
-sudo vim /etc/samba/smb.conf
-
-workgroup = WORKGROUP
-server string = data1066
-interfaces = lo enp5s0
-bind interfaces only = yes
 
 red@data1066:~$ testparm
 Load smb config files from /etc/samba/smb.conf
