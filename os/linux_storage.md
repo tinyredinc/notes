@@ -58,7 +58,7 @@ sudo vim /etc/fstab
 ...
 ```
 
-## SHARE NETDISK VIA SAMBA(FOR WIN)
+## SHARE NETDISK SAMBA(FOR WIN)
 - Install Samba
 ```
 sudo apt install samba -y
@@ -85,7 +85,7 @@ server string = data1066
 interfaces = lo enp5s0
 bind interfaces only = yes
 
-[netdisk1]
+[netdisk]
     comment = DATA1066-NETDISK1
     path = /netdisk1
     browsable = yes
@@ -95,7 +95,7 @@ bind interfaces only = yes
     create mask = 0755
 ;   valid users = @red @root
 
-;[netdisk1] - Represents the directory name. This is the directory location Windows users see.
+;[netdisk] - Represents the directory name. This is the directory location Windows users see.
 ;comment - Serves as a shared directory description.
 ;path - This parameter specifies the shared directory location. The example uses a directory in /home, but users can also place the shared files under /samba.
 ;read only - This parameter allows users to modify the directory and add or change files when set to no.
@@ -113,4 +113,86 @@ Server role: ROLE_STANDALONE
 ```
 sudo chown nobody:nogroup /netdisk1
 sudo systemctl restart smbd.service nmbd.service
+```
+
+## SOFTWARE RAID 1
+- List Disks
+```
+lsblk
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+loop0    7:0    0  63.3M  1 loop /snap/core20/1822
+loop1    7:1    0 111.9M  1 loop /snap/lxd/24322
+loop2    7:2    0  49.8M  1 loop /snap/snapd/18357
+sda      8:0    0 476.9G  0 disk
+├─sda1   8:1    0     1M  0 part
+├─sda2   8:2    0 428.9G  0 part /
+└─sda3   8:3    0    48G  0 part [SWAP]
+sdb      8:16   0   1.8T  0 disk
+└─sdb1   8:17   0   1.8T  0 part
+sdc      8:32   0   1.8T  0 disk
+└─sdc1   8:33   0   1.8T  0 part
+```
+- Create RAID
+```
+root@data1066:/home/red# sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sdb /dev/sdc
+mdadm: Note: this array has metadata at the start and
+    may not be suitable as a boot device.  If you plan to
+    store '/boot' on this device please ensure that
+    your boot-loader understands md/v1.x metadata, or use
+    --metadata=0.90
+mdadm: size set to 1953382464K
+mdadm: automatically enabling write-intent bitmap on large array
+Continue creating array? y
+mdadm: Defaulting to version 1.2 metadata
+mdadm: array /dev/md0 started.
+```
+- Check RAID status
+```
+cat /proc/mdstat
+Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10]
+md0 : active raid1 sdc[1] sdb[0]
+      1953382464 blocks super 1.2 [2/2] [UU]
+      [>....................]  resync =  1.7% (35079616/1953382464) finish=264.5min speed=120832K/sec
+      bitmap: 15/15 pages [60KB], 65536KB chunk
+
+unused devices: <none>
+```
+- Create Partition
+```
+sudo mkfs.ext4 -F /dev/md0
+mke2fs 1.46.5 (30-Dec-2021)
+Creating filesystem with 488345616 4k blocks and 122093568 inodes
+Filesystem UUID: a9322e49-4706-4cdf-b378-7ff1197af4bd
+Superblock backups stored on blocks:
+        32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208,
+        4096000, 7962624, 11239424, 20480000, 23887872, 71663616, 78675968,
+        102400000, 214990848
+
+Allocating group tables: done
+Writing inode tables: done
+Creating journal (262144 blocks): done
+Writing superblocks and filesystem accounting information: done
+```
+- Mount RAID
+```
+sudo mkdir -p /netdisk
+sudo mount /dev/md0 /netdisk
+```
+- Add RAID to Boot
+```
+sudo mdadm --detail --scan
+ARRAY /dev/md0 metadata=1.2 name=data1066:0 UUID=5bce11ea:ced7ca7e:54713008:187545f8
+
+sudo vim /etc/mdadm/mdadm.conf
+...
+ARRAY /dev/md0 metadata=1.2 name=data1066:0 UUID=5bce11ea:ced7ca7e:54713008:187545f8
+
+sudo update-initramfs -u
+update-initramfs: Generating /boot/initrd.img-5.15.0-69-generic
+I: The initramfs will attempt to resume from /dev/sda3
+I: (UUID=c454a1fa-6b00-4022-b75f-111d214a05ca)
+I: Set the RESUME variable to override this.
+
+sudo vim /etc/fstab
+/dev/md0 /netdisk ext4 defaults,nofail,discard 0 0
 ```
