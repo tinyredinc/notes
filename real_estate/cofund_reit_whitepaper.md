@@ -7,9 +7,9 @@ Cofund Real Estate Investment Trust (the "REIT") is a private REIT with a unique
 
 * Asset Manager: Cofund Captial Management Inc.  
 * Fund Type: Multual Fund Trust
-* Proposed Fund AUM: $30.0 Mil
+* Proposed Fund AUM: $30.0 M
 * Proposed Inception Date: Aug 31, 2023
-* Target Annualized Return: 12% to 16%
+* Target Annualized Return: 16% to 20%
 * Annual Cash Distribution: >= 6.0 % 
 * Investment Minimum: $150,000 (Accredited Investors)
 * Valuation: Quarterly(Balance Sheet Update)
@@ -30,32 +30,65 @@ Cofund Real Estate Investment Trust (the "REIT") is a private REIT with a unique
 
 # Highlights
 
-## Quarterly Income
-6% guaranteed minimum quarterly cash distribution
+* ## Quarterly Income
+* 6% guaranteed minimum quarterly cash distribution
 
-## Premium Return
-Targeted annualized return of 12% to 16%
+* ## Premium Return
+* Targeted annualized return of 16% to 20%
 
-## Managed Risk
-All investments are backed by diversified, high-quality real estate
+* ## Managed Risk  
+* All investments are backed by diversified, high-quality real estate
 
-## Stable Performance
-low volatility and low correlation to major equity markets
+* ## Stable Performance
+* Low volatility and low correlation to major equity markets
 
-## Tax Effcient
-Up to 100% of the distribution may be treated as a return of capital
-
+* ## Tax Effcient
+* Up to 100% of the distribution may be treated as a return of capital
 
 # Proposed Initial Portfolio
 
-## Uxbridge Condo Industrial Real Estate
-* project introduction here
 
-## Sheppard Mccowan Plaza MRC Real Estate
-* project introduction here
+## UT Student Housing(Condo) Real Estate  
+project introduction here
+* Project Type: Residential Condo Development
+* Project FMV: 
+* Investment Type: Mortgage
+* Investment Principal: 3.0 M
+* Investment Term: 1 Year
+* Loan-to-Value: 70%
+* Return: 14% (6% annualized return paid monthly; additional 8% paid at the term's end）
+
+## Uxbridge Condo Industrial Real Estate
+project introduction here
+* Project Type: Condo Industrial Development
+* Project FMV: 
+* Investment Type: Mortgage
+* Investment Principal: 3.0 M
+* Investment Term: 1 Year
+* Loan-to-Value: 70%
+* Return: 15% (6% annualized return paid monthly; additional 9% paid at the term's end)
 
 ## Lindsay Residential Community Real Estate
-* project introduction here
+project introduction here
+* Project Type: Residential Commercial Development
+* Project FMV: 
+* Investment Type: Mortgage
+* Investment Principal: 5.0 M
+* Investment Term: 1 Year
+* Loan-to-Value: 70%
+* Return: 15% (6% annualized return paid monthly; additional 9% paid at the term's end)
+
+## Sheppard Mccowan Plaza MRC Real Estate
+project introduction here
+* Project Type: Commercial Plaza Development
+* Project FMV: 60.0 M
+* Lot Size: 5.05 Acres
+* Rental Income: 1.8 M / Year
+* Investment Type: Equity
+* Investment Principal: 16.0 M
+* Investment Term: 3 Year
+* Projected Return: 
+
 
 # Projected Future Returns
 *Numbers are calculated via proposed convertible mortgage terms and recent appraisal reports from decent organizations.
