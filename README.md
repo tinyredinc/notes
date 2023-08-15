@@ -13,6 +13,7 @@ This repo is all about the notes that I made. There is no promise on the accurac
 # Service
 * CDN Host Library - [cdn_host_lib.md](service/cdn_host_lib.md)
 * Apache2 Setup - [apache2_setup.md](service/apache2_setup.md)
+* VPN Setup - [vpn_setup.md](service/vpn_setup.md)
 
 # Database
 - MYSQL SERVER - [mysql_server.md](db/mysql_server.md)
