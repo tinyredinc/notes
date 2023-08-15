@@ -49,46 +49,47 @@ Cofund Real Estate Investment Trust (the "REIT") is a private REIT with a unique
 
 
 ## UT Student Housing(Condo) Real Estate  
-project introduction here
+== project introduction here ==
 * Project Type: Residential Condo Development
-* Project FMV: 
+* Current Market Value: 
+* Estimated Completion Value: 
 * Investment Type: Mortgage
 * Investment Principal: 3.0 M
 * Investment Term: 1 Year
 * Loan-to-Value: 70%
-* Return: 14% (6% annualized return paid monthly; additional 8% paid at the term's end）
+* Projected Return: 14% (6% annualized return paid monthly; additional 8% paid at the term's end）
 
 ## Uxbridge Condo Industrial Real Estate
-project introduction here
+== project introduction here ==
 * Project Type: Condo Industrial Development
-* Project FMV: 
+* Current Market Value: 
+* Estimated Completion Value: 
 * Investment Type: Mortgage
 * Investment Principal: 3.0 M
 * Investment Term: 1 Year
 * Loan-to-Value: 70%
-* Return: 15% (6% annualized return paid monthly; additional 9% paid at the term's end)
+* Projected Return: 15% (6% annualized return paid monthly; additional 9% paid at the term's end)
 
 ## Lindsay Residential Community Real Estate
-project introduction here
+== project introduction here ==
 * Project Type: Residential Commercial Development
-* Project FMV: 
+* Current Market Value: 
+* Estimated Completion Value: 
 * Investment Type: Mortgage
 * Investment Principal: 5.0 M
 * Investment Term: 1 Year
 * Loan-to-Value: 70%
-* Return: 15% (6% annualized return paid monthly; additional 9% paid at the term's end)
+* Projected Return: 15% (6% annualized return paid monthly; additional 9% paid at the term's end)
 
 ## Sheppard Mccowan Plaza MRC Real Estate
-project introduction here
+== project introduction here ==
 * Project Type: Commercial Plaza Development
-* Project FMV: 60.0 M
+* Current Market Value: 
 * Lot Size: 5.05 Acres
+* Estimated Completion Value: 
 * Rental Income: 1.8 M / Year
 * Investment Type: Equity
 * Investment Principal: 16.0 M
 * Investment Term: 3 Year
 * Projected Return: 
 
-
-# Projected Future Returns
-*Numbers are calculated via proposed convertible mortgage terms and recent appraisal reports from decent organizations.
