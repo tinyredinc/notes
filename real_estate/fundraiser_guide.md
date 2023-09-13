@@ -18,7 +18,7 @@ Fundraising Partners should prioritize completing the investor registration to e
 * Contact - Provide at least two methods, such as phone, email, or social app.
 * Background - Details about education, career, family, lifestyle and more.
 * Source of Funds - Insight into how they amassed their investment capital.
-* Knowledge - An assessment of their understanding of real estate development.
+* Knowledge Level - An assessment of their understanding of real estate development.
     - Expert - Has participated in real estate projects as a builder or developer
     - Advanced - Has participated in real estate projects as a financial investor
     - Basic - Has participated in real estate investments as a landlord
