@@ -1,4 +1,5 @@
-# GUIDE FOR COSTONE FUNDRAISING PARTNER
+# GENERIC GUIDE FOR COSTONE FUNDRAISING PARTNER
+Version: 20230911
 
 ## Investor Registration
 
@@ -30,6 +31,7 @@ Fundraising Partners should prioritize completing the investor registration to e
     - Aggressive - Willing to risk losing a portion of their principal for high yields
     - Speculative - Willing to embrace extreme levels of market volatility(eg. cryptocurrency)
 
+*Before registering an investor, a status check is required. If a specific investor is already on file with 'engagement protection' status, the registration will be denied.
 
 ## Engagement Protection
 
@@ -46,8 +48,20 @@ Consider a scenario where Alice (a fundraising partner) introduces Bob (a potent
 
 ## Co-Agency
 
-COSTONE GROUP believes that individuals qualifying as our fundraising partners should possess the capability to develop and build investor relationships independently. As such, we do not officially recognize or support any co-agency or multi-layer agency structures. The person who introduces a potential investor to us and simultaneously completes the investor profile registration will be considered the exclusive representative of that particular client. Consequently, all commissions and benefits will be delivered to that individual.
+Helping us bring more high-performance fundraising partners on board is greatly appreciated, and those who contribute will be rewarded for enhancing our fundraising network.
+
+Howerver, COSTONE GROUP believes that individuals qualifying as our fundraising partners should possess the capability to develop and build investor relationships independently. As such, we do not officially recognize or support any co-agency or multi-layer agency structures. The person who introduces a potential investor to us and simultaneously completes the investor profile registration will be considered the exclusive representative of that particular client. Consequently, all commissions and benefits will be delivered to that individual.
 
 Consider a scenario in which Alice (a fundraising partner) introduces Cindy(another fundraising partner) to COSTONE GROUP. Alice mentions that they are friends and partners, planning to split the commission equally. Later on, Cindy introduces Bob (a potential investor) to COSTONE GROUP and persuades him to invest. The full commission from Bob's transaction will be given to Cindy, and it will be her sole responsibility to handle any further distribution.
 
-Howerver, helping us bring more high-performance fundraising partners on board is greatly appreciated, and those who contribute will be rewarded for enhancing our fundraising network.
+
+## Commission
+
+Fundraising commissions are influenced by a range of factors, including project quality, investment term, market conditions, interest rates, and urgency levels, among others. To ensure that our Fundraising Partners receive competitive and fair compensation, we obtain quotations from various Exempt Market Dealers (EMDs) for each specific product and adjust our commission rate to match the median rate offered.
+
+Fundraising commissions are usually paid using an M + N structure, where M is a percentage of the funds raised, disbursed upon receipt of the investment, and N is a percentage of the funds raised, paid upon the project's completion.
+
+For fundraising partners deeply committed to a project's growth potential, there is usually an option to waive a portion or even all of their commission in exchange for Limited Partner (LP) shares, General Partner (GP) shares, or Management Common shares. Terms and conditions may vary depending on the specific project or product.
+
+For example, as of August 2023, for the 4800 Sheppard Plaza MCR Development Project, we received quotations from three well-known Exempt Market Dealers(EMD) in Toronto. These dealers typically request a total commission of 5%, payable in either a 4% + 1% or a 3% + 2% structure.
+
