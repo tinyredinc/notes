@@ -40,13 +40,11 @@ Once the investor completes their due diligence and commits to make an investmen
 4. Prepare the remaining funds in anticipation of the capital call.
 
 **Stage V - Deal**  
-This is the final stage in the "Lead to Deal" workflow. By reaching this point, a potential investor officially becomes our funding partner, jointly sharing in the growth of our premium-quality projects.
+This marks the culmination of the "Lead to Deal" workflow. Upon reaching this stage, a potential lead formally becomes our financial investor. They will proactively monitor the project's progress and collectively benefit from the growth of our premium-quality projects.
 
 1. Sign the official Investor Subscription Agreement.
 2. Ensure all funds are in place following the capital call.
-3. Release the commission to FP as per the agreement.
-4. Monitor the progress of the project on a regular basis.
-
+3. Disburse the commission to the Fundraising Partner as per the agreement.
 
 ## Investor Registration
 
