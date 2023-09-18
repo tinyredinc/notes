@@ -1,6 +1,53 @@
 # GENERIC GUIDE FOR COSTONE FUNDRAISING PARTNER
 Version: 20230911
 
+## Lead to Deal
+
+From leads (potential investors) to deals, we break down the conversion procedure into 5 stages:
+
+**Stage I - Lead**  
+In the early stage, the Fundraising Partner should focus on building a healthy relationship with the potential investor and studying their investment preferences. Here's a sample todo list for reference:  
+
+1. Gather information for investor profile registration.
+2. Introduce COSTONE GROUP to the investor.
+3. Promote the appropriate investment project/product.
+4. Answer basic questions about the designated project/product.
+5. Schedule an appointment with COSTONE GROUP.
+
+**Stage II - Appointment**  
+During further communication, both the Fundraising Partner and COSTONE GROUP should collaborate to help the investor gain an in-depth understanding of the project/product. Here's a sample checklist for reference:  
+
+1. Sign NDA and NCA documents with COSTONE GROUP.
+2. Complete the Investor Profile Registration (ownership protected).
+3. Conduct a comprehensive presentation about the project/product.
+4. Provide the complete information package for the project/product.
+
+**Stage III - Due Diligence**  
+During this stage, the Fundraising Partner and COSTONE GROUP should collaborate to help the investor complete their due diligence. This process might involve visiting the underlying property and coordinating the required meetings. Below is a checklist to ensure a comprehensive due diligence process:
+
+1. Ensure that the general information is accurate.
+2. Ensure that the overall plan is feasible.
+3. Ensure that the projections are reasonable.
+4. Ensure that the calculations are precise.
+5. Ensure the investment terms are fair.
+
+**Stage IV - Commitment**
+Once the investor completes their due diligence and commits to make an investment, several procedural tasks need to be addressed:
+
+1. Sign the Commission Agreement (between the Fundraising Partner and COSTONE GROUP).
+2. Sign the Investment Term Sheet (between COSTONE GROUP and the Investor).
+3. Make a deposit of 10-20% to the designated Lawyer Trust Account.
+4. Prepare the remaining funds in anticipation of the capital call.
+
+**Stage V - Deal**  
+This is the final stage in the "Lead to Deal" workflow. By reaching this point, a potential investor officially becomes our funding partner, jointly sharing in the growth of our premium-quality projects.
+
+1. Sign the official Investor Subscription Agreement.
+2. Ensure all funds are in place following the capital call.
+3. Release the commission to FP as per the agreement.
+4. Monitor the progress of the project on a regular basis.
+
+
 ## Investor Registration
 
 Fundraising Partners should prioritize completing the investor registration to establish ownership of the customer. Typically, Fundraising Partners should have a thorough understanding and a healthy relationship with their clients and be prepared to provide the following information:
