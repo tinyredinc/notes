@@ -51,66 +51,58 @@ Different investment classes have distinct waterfall performance incentive mecha
 | Above 20% up to 25% | 25% (for the portion exceeding 20%)|
 | 25% and above | 50%  (for the portion exceeding 25%)|
 
-| CLASS I (Partnership Investors) | |
+| CLASS P (Partnership Investors) | |
 | ----------- | ----------- |  
 | Annualized ROI Buckets | GP Performance Incentive |
 | 0-15% | 1% (for the portion below 15%)|
 | Above 15% up to 20% | 3% (for the portion exceeding 15%)|
 | 20% and above | 10%  (for the portion exceeding 20%)|
 
+Since the GP/LP is a tax flow-through structure, the annualized ROI will be calculated based on earnings before taxes(EBT) in accordance with IFRS.
 
-Investment Period: The Fund will invest the proceeds from the Placement as stated below next to "Investment Objective" between the Closing and the earliest of (a) the second anniversary of the Closing, and (b) the 10th business day after all Limited Partners have contributed their subscription amounts.
+## Investment Period
 
-Restrictions on Capital Calls: The General Partner can make capital calls after the Investment Period has ended to meet certain obligations and make specific investments.
+The Fund will invest the proceeds from the Placement as stated under "Investment Objective." This will occur between the Closing and the earliest of the 3.5-year anniversary of the Closing, with a potential extension of one year.
 
-Investment Objective: The Fund aims to build a portfolio of real estate properties, with a focus on street-front retail and commercial parking in the Greater Toronto Area. The goal is to generate cash flow for investors while increasing the value of the assets through active management and refurbishment.
+## Investment Strategy
 
-Property Basket Provision: Up to 20% of the Fund's total investment may be allocated to ancillary real estate opportunities, such as residential development projects, in addition to the primary investment objective.
+The Fund aims to build a diversified portfolio of real estate investments, with a focus on mortgage and equity investments in properties with development potential in Toronto and Ontario. Mortgage investments can generate stable cash flow with collateral protection, while equity investments in development projects offer aggressive gains.
 
-Investment Restrictions: The Fund will adhere to certain investment limitations, including a maximum overall loan-to-value ratio of 65% and a maximum loan-to-value ratio of 70% for individual property acquisitions.
+- About 30-60% of the AUM will be in Mortgages Investments
+- About 30-60% of the AUM will be in Equity Investments
+- About 10-20% will be reserved as cash or cash equivalents
+- The underlying real estate assets are diversified, encompassing sectors such as residential, industrial, retail, rental apartments, and more.
 
-Distributions: The Fund intends to provide cash distributions to Unit holders once investments have been made and sufficient cash flows are available.
+Investment strategies are subject to change in order to adapt to today's fast-paced market conditions, but will be announced at investor meetings if there are any changes.
 
-Priority of Distributable Cash: Distributions will be made in a specific order: first to return the limited partners' initial investment, then to provide a preferred return to limited partners, and finally, to distribute the remaining cash to limited partners and the general partner.
+## Distributions
 
-Allocation of Net Income and Net Losses: Net income or net loss of the Fund for accounting purposes and tax purposes will be allocated among the limited partners and general partner based on the priority described above.
+The Fund intends to provide 6% annulized cash distributions to Unit holders once investments have been made and sufficient cash flows are available.
 
-General Partner Management Fee: The General Partner will be compensated for its services through a management fee. The fee will be a percentage of the total funded subscription amount, with a reduced percentage after the full investment has been made.
+## Investors
 
-Term: The Fund will have a term of ten years from the end of the Investment Period. This term may be extended with the approval of Unit holders or if there is an initial public offering or similar transaction before the term ends.
+Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
 
-Investors: Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
+## Reporting
 
-Reporting: Holders of Units will receive annual reports, unaudited interim financial statements, and applicable tax forms.
+Holders of Units will receive annual reports, unaudited interim financial statements, and applicable tax forms.
 
-Transferability of Units: Units cannot be transferred without the consent of the General Partner, subject to certain conditions and compliance with securities laws.
+## Transferability of Units
 
-Asset Managers: The Fund expects to retain affiliated asset managers to manage and provide services related to the properties in the portfolio.
+Units cannot be transferred without the consent of the General Partner, subject to certain conditions and compliance with securities laws.
 
-Committees and Related Party Matters: The General Partner will establish a Management Committee and an Independent Committee to oversee strategic decisions, investments, and related party matters.
+## Asset Managers
 
-Arrangements with ABC Developments Ltd.: ABC Developments Ltd. (ADL) will grant the Fund a right of first opportunity to purchase its commercial parking and street-front retail assets. The Fund will negotiate similar rights with ADL's business partners.
+The Fund expects to retain affiliated asset managers to manage and provide services related to the properties in the portfolio.
 
-Formation Expenses: The Fund will cover formation expenses up to a certain amount, and the General Partner will be responsible for expenses exceeding this limit.
+## Committees
 
-Operating Expenses: The Fund will be responsible for all expenses related to its operations, including fees for services provided by the General Partner.
+The General Partner will establish a Management Committee and an Independent Committee to oversee strategic decisions, investments, and related party matters.
 
-Eligibility for Registered Plans: Units are not eligible for registered savings plans, retirement income funds, or registered education savings plans.
+## Formation Expenses
 
-Canadian Federal Income Tax Considerations: The Offering Memorandum will provide details on the tax consequences of investing in the Fund.
+The Fund will cover formation expenses up to a certain amount, and the General Partner will be responsible for expenses exceeding this limit.
 
-Risk Factors: The Offering Memorandum will outline the risks associated with investing in the Fund.
+## Operating Expenses
 
-Contractual and/or Statutory Rights of Action: Unit holders will have certain contractual and/or statutory rights of action, as described in the Offering Memorandum.
-
-Promoter: ABC Developments Ltd. and Peter B. ABC are considered the promoters of the Fund.
-
-Auditor: ► LLP, Chartered Accountants, will serve as the Fund's auditor.
-
-Legal Counsel: XXX LLP will provide legal counsel to the Fund.
-
-Registrar and Transfer Agent: The General Partner will act as the registrar and transfer agent for the Units.
-
-Agents and Agents' Fees: ► Capital Inc. and ► Inc. will act as agents for the sale of Units and receive a fee based on a percentage of the gross proceeds.
-
-Please note that this document is a summary and should not be considered exhaustive. For complete and accurate information, refer to the Offering Memorandum.
+The Fund will be responsible for all expenses related to its operations, including fees for services provided by the General Partner.
