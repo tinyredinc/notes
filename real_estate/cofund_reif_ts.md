@@ -4,10 +4,6 @@
 
 Cofund Real Estate Investment Fund (the "REIF") is a private fund with a unique focus on a broad spectrum of real estate investments. These investments include mortgages, revenue generating properties, development projects, as well as securitized real estate products. Backed by a diverse portfolio of high-quality real estate assets, the Cofund REIF offers investment security while simultaneously delivering premium returns.
 
-## General Partner
-
-Cofund REIF is a limited partnership to be established in Ontario. The Fund will be managed by COFUND REIF NO1 GP INC. (the "General Partner"), a corporation incorporated in Ontario. The directors of the General Partner are Eric Yu and [Name], and its officers are Eric Yu and [Name]. The General Partner will handle the day-to-day operations of the Fund.
-
 ## Units Offered
 
 Three classes of limited partnership units (the "Units") of the Fund will be created and offered for sale:
@@ -22,14 +18,30 @@ Each class has different profit distribution mechanisms. For more information, r
 
 - Price per Unit - $1,000.00 per Unit (the "Subscription Amount").
 - Minimum Subscription - $150,000.00, or 150 Units.
-- Maximum Placement - 32,000 Units ($30,000,000)
-- Minimum Placement - 16,000 Units ($12,000,000)
-- 20% deposit is due on Term Sheet signed, starting from Sep 2023
-- 80% remaining balance is due on capital call (EST. Jan 2024)
+- Maximum Placement - 30,000 Units ($30,000,000)
+- Minimum Placement - 10,000 Units ($10,000,000)
+- For CLASS P (Partnership Investors)  
+  - 20% deposit is due on Term Sheet signed, starting from Sep 2023
+  - 80% remaining balance is due on Jan 31, 2024
+- For CLASS A/I (Accredited/Institutional Investors)  
+  - 20% deposit is due on Term Sheet signed, starting from Sep 2023
+  - 80% remaining balance is due on May 31, 2024
 
-## GP Management Fee
+## REIF Structure
 
-1% of the aggregate funded Subscription Amount annually, payable quarterly.
+![REIF STRUCTURE](img/reif_struct.png)
+
+## General Partner
+
+Cofund REIF is a limited partnership set to be established in Ontario. COFUND REIF NO1 GP INC., a corporation incorporated in Ontario, will serve as the "General Partner" of the REIF. A Fund Manager will be hired to oversee the day-to-day operations of the REIF.
+
+## Fund Manager
+
+An affiliated oranization, COFUND MANAGEMENT INC., to manage and provide services related to the investments in the portfolio.
+
+## Fund Management Fee
+
+The fund will pay the Fund Manager 2% of the Assets Under Management (AUM) per year, payable quarterly, for the day-to-day operation of the fund. If the actual operational cost of the fund exceeds the 2% of AUM, the Fund Manager is responsible for covering the difference.
 
 ## GP Performance Incentive
 
@@ -90,10 +102,6 @@ Holders of Units will receive annual reports, unaudited interim financial statem
 ## Transferability of Units
 
 Units cannot be transferred without the consent of the General Partner, subject to certain conditions and compliance with securities laws.
-
-## Asset Managers
-
-The Fund expects to retain affiliated asset managers to manage and provide services related to the properties in the portfolio.
 
 ## Committees
 
