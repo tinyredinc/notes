@@ -35,14 +35,6 @@ Each class has different profit distribution mechanisms. For more information, r
 
 Cofund REIF is a limited partnership set to be established in Ontario. COFUND REIF NO1 GP INC., a corporation incorporated in Ontario, will serve as the "General Partner" of the REIF. A Fund Manager will be hired to oversee the day-to-day operations of the REIF.
 
-## Fund Manager
-
-An affiliated oranization, COFUND MANAGEMENT INC., to manage and provide services related to the investments in the portfolio.
-
-## Fund Management Fee
-
-The fund will pay the Fund Manager 2% of the Assets Under Management (AUM) per year, payable quarterly, for the day-to-day operation of the fund. If the actual operational cost of the fund exceeds the 2% of AUM, the Fund Manager is responsible for covering the difference.
-
 ## GP Performance Incentive
 
 Different investment classes have distinct waterfall performance incentive mechanisms:  
