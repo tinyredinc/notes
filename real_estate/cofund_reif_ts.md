@@ -17,9 +17,11 @@ Each class has different profit distribution mechanisms. For more information, r
 ## Subscription  
 
 - Price per Unit - $1,000.00 per Unit (the "Subscription Amount").
-- Minimum Subscription - $150,000.00, or 150 Units.
-- Maximum Placement - 30,000 Units ($30,000,000)
-- Minimum Placement - 10,000 Units ($10,000,000)
+- Investor Minimum Subscription - 150 Units ($150,000.00)
+
+- Fund Minimum Placement - 10,000 Units ($10,000,000)
+- Fund Maximum Placement - 30,000 Units ($30,000,000)
+
 - For CLASS P (Partnership Investors)  
   - 20% deposit is due on Term Sheet signed, starting from Sep 2023
   - 80% remaining balance is due on Jan 31, 2024
