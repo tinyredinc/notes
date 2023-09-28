@@ -75,7 +75,7 @@ Typical responsiblities include:
 - Providing unaudited interim financial statements
 - Providing applicable tax forms
 - Coordinating with third party vendors  
-  - eg. lawyers, accountants, auditors, appraiser, underwriter, brokers/dealers/agents etc.
+  - eg. lawyers, accountants, auditors, appraiser, underwriters, brokers/dealers/agents etc.
 - Offering generic investor services  
   - eg. support line, investor meetings etc.
 
