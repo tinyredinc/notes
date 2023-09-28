@@ -68,22 +68,33 @@ Since the GP/LP is a tax flow-through structure, the annualized ROI will be calc
 
 An affiliated organization, COFUND MANAGEMENT INC., will be hired as the Fund Manager to manage and provide services related to the day-to-day operations of the REIF.
 
-- Manage investment portfolio
-- Coordinate with third party vendors (eg. lawyers, accountants, auditors, appraiser, brokers/dealers, agents etc.)
-- Generic investor services (eg. support line, investor meetings etc.)
-- Provide annual reports
-- Provide unaudited interim financial statements
-- Provide applicable tax forms
+Typical responsiblities include:
+
+- Managing investment portfolio
+- Providing annual reports
+- Providing unaudited interim financial statements
+- Providing applicable tax forms
+- Coordinating with third party vendors  
+  - eg. lawyers, accountants, auditors, appraiser, underwriter, brokers/dealers/agents etc.
+- Offering generic investor services  
+  - eg. support line, investor meetings etc.
 
 ## Fund Management Fee
 
-A fee of 2% of the Assets Under Management (AUM) per year, payable quarterly, will be charged to the REIF. If the actual operational cost of the REIF exceeds the 2% of AUM, it is the Fund Manager's responsibility to cover the difference.
+A fee of 2% of the fund Assets Under Management (AUM) per year, payable quarterly, will be charged to the REIF. If the actual operational cost of the REIF exceeds the 2% of AUM, it is the Fund Manager's responsibility to cover the difference.
 
-Following expenses will not be considered as operational cost of the REIF:
+The following types of services, usually provided by a third party, have related expenses that are not considered as part of the fund's operational cost. These expenses will be directly billed to the REIF:
 
-- Formation expenses of the REIF (refer to section "Formation Expenses")
--
-
+- Formation expenses
+  - Formation costs of the REIF; for details, refer to the section "Formation Expenses."
+- Investment expenses  
+  - Assignment fees for property acquisitions
+  - Commissions for property dispositions
+  - Appraisal fees for property valuation
+  - Consulting fees for property due diligence services
+  - Broker fees for mortgage investments
+  - Underwriting fees for mortgage investments
+  
 ## Investment Period
 
 The Fund will invest the proceeds from the Placement as stated under "Investment Objective." This will occur between the Closing and the earliest of the 3.5-year anniversary of the Closing, with a potential extension of one year.
