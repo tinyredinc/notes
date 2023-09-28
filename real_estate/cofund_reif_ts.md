@@ -29,7 +29,7 @@ Each class has different profit distribution mechanisms. For more information, r
 
 ## REIF Structure
 
-![REIF STRUCTURE](img/reif_struct.png)
+![REIF STRUCTURE](https://raw.githubusercontent.com/tinyredinc/notes/master/real_estate/img/reif_struct.png)
 
 ## General Partner
 
