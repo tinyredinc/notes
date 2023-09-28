@@ -2,7 +2,7 @@
 
 ## Fund
 
-Cofund Real Estate Investment Fund (the "REIF") is a private fund with a unique focus on a broad spectrum of real estate investments. These investments include mortgages, revenue generating properties, development projects, as well as securitized real estate products. Backed by a diverse portfolio of high-quality real estate assets, the Cofund REIF offers investment security while simultaneously delivering premium returns.
+Cofund Real Estate Investment Fund (the "REIF") is a closed-end private fund with a unique focus on a broad spectrum of real estate investments. These investments include mortgages, revenue generating properties, development projects, as well as securitized real estate products. Backed by a diverse portfolio of high-quality real estate assets, the Cofund REIF offers investment security while simultaneously delivering premium returns.
 
 ## Units Offered
 
@@ -19,6 +19,7 @@ Each class has different profit distribution mechanisms. For more information, r
 - Price per Unit - $1,000.00 per Unit (the "Subscription Amount").
 - Fund Minimum Placement - 10,000 Units ($10,000,000)
 - Fund Maximum Placement - 30,000 Units ($30,000,000)
+- Closing Date (Closing): May 31, 2024
 
 - For CLASS A (Accredited Investors)  
   - Minimum Subscription: $150,000.00, or 150 Units.
@@ -89,9 +90,9 @@ Typical responsiblities include:
 
 ## Fund Management Fee
 
-A fee of 2% of the fund Assets Under Management (AUM) per year, payable quarterly, will be charged to the REIF. If the actual operational cost of the REIF exceeds the 2% of AUM, it is the Fund Manager's responsibility to cover the difference.
+The Fund Manager will charge the REIF a fee of 2% of the fund's Assets Under Management (AUM) per year, payable quarterly, to cover operating expenses. If the actual operational cost of the REIF exceeds the 2% of AUM, it becomes the Fund Manager's responsibility to cover the difference.
 
-The following types of services, usually provided by a third party, have related expenses that are not considered as part of the fund's operational cost. These expenses will be directly billed to the REIF:
+The following types of services, usually provided by a third parties, have associated expenses that are not considered as the fund's operational cost. These expenses will be directly billed to the REIF:
 
 - Formation expenses
   - Formation costs of the REIF; for details, refer to the section "Formation Expenses."
@@ -120,15 +121,11 @@ Investment strategies are subject to change in order to adapt to today's fast-pa
 
 ## Distributions
 
-The Fund intends to provide 6% annulized cash distributions to Unit holders once investments have been made and sufficient cash flows are available.
+The REIF intends to provide a fixed 6% annualized cash distribution on the investment capital, payable quarterly, to Unit holders. A special distribution will be issued at fund liquidation according to the profit distribution mechanisms.
 
 ## Investors
 
 Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
-
-## Reporting
-
-Holders of Units will receive annual reports, unaudited interim financial statements, and applicable tax forms.
 
 ## Transferability of Units
 
@@ -147,3 +144,12 @@ The Fund will cover formation expenses up to a certain amount, and the General P
 The Fund will be responsible for all expenses related to its operations, including fees for services provided by the General Partner.
 
 ## Proposed Investments
+
+The following vetted investment opportunities are intended to form the initial investment portfolio of the REIF:
+
+- Industrial Park project located near Stouffville (Appendix 1.1)
+- Residential/Commercial community project located in Lindsay (Appendix 1.2)
+- Student Residence (Condo) project located at the UTSG campus (Appendix 1.3)
+- Sheppard Plaza MCR project located near Sheppard East Station (Appendix 1.4)
+
+*The actual composition of the initial investment portfolio may change due to fast-paced market conditions and the amount of funds raised.
