@@ -17,17 +17,23 @@ Each class has different profit distribution mechanisms. For more information, r
 ## Subscription  
 
 - Price per Unit - $1,000.00 per Unit (the "Subscription Amount").
-- Investor Minimum Subscription - 150 Units ($150,000.00)
-
 - Fund Minimum Placement - 10,000 Units ($10,000,000)
 - Fund Maximum Placement - 30,000 Units ($30,000,000)
 
-- For CLASS P (Partnership Investors)  
-  - 20% deposit is due on Term Sheet signed, starting from Sep 2023
-  - 80% remaining balance is due on Jan 31, 2024
-- For CLASS A/I (Accredited/Institutional Investors)  
+- For CLASS A (Accredited Investors)  
+  - Minimum Subscription: $150,000.00, or 150 Units.
   - 20% deposit is due on Term Sheet signed, starting from Sep 2023
   - 80% remaining balance is due on May 31, 2024
+
+- For CLASS I (Institutional Investors)  
+  - Minimum Subscription: $1,000,000.00, or 1,000 Units.
+  - 20% deposit is due on Term Sheet signed, starting from Sep 2023
+  - 80% remaining balance is due on May 31, 2024
+
+- For CLASS P (Partnership Investors)  
+  - Minimum Subscription: $3,000,000.00, or 3,000 Units.
+  - 20% deposit is due on Term Sheet signed, starting from Sep 2023
+  - 80% remaining balance is due on Jan 31, 2024
 
 ## REIF Structure
 
