@@ -72,6 +72,26 @@ Different investment classes have distinct waterfall performance incentive mecha
 
 Since the GP/LP is a tax flow-through structure, the annualized ROI will be calculated based on earnings before taxes(EBT) in accordance with IFRS.
 
+## Fund Manager
+
+An affiliated organization, COFUND MANAGEMENT INC., will be hired as the Fund Manager to manage and provide services related to the day-to-day operations of the REIF.
+
+- Manage investment portfolio
+- Coordinate with third party vendors (eg. lawyers, accountants, auditors, appraiser, brokers/dealers, agents etc.)
+- Generic investor services (eg. support line, investor meetings etc.)
+- Provide annual reports
+- Provide unaudited interim financial statements
+- Provide applicable tax forms
+
+## Fund Management Fee
+
+A fee of 2% of the Assets Under Management (AUM) per year, payable quarterly, will be charged to the REIF. If the actual operational cost of the REIF exceeds the 2% of AUM, it is the Fund Manager's responsibility to cover the difference.
+
+Following expenses will not be considered as operational cost of the REIF:
+
+- Formation expenses of the REIF (refer to section "Formation Expenses")
+-
+
 ## Investment Period
 
 The Fund will invest the proceeds from the Placement as stated under "Investment Objective." This will occur between the Closing and the earliest of the 3.5-year anniversary of the Closing, with a potential extension of one year.
@@ -114,3 +134,5 @@ The Fund will cover formation expenses up to a certain amount, and the General P
 ## Operating Expenses
 
 The Fund will be responsible for all expenses related to its operations, including fees for services provided by the General Partner.
+
+## Proposed Investments
