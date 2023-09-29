@@ -2,7 +2,7 @@
 
 ## Fund
 
-Cofund Real Estate Investment Fund (the "REIF") is a closed-end private fund with a unique focus on a broad spectrum of real estate investments. These investments include mortgages, revenue generating properties, development projects, as well as securitized real estate products. Backed by a diverse portfolio of high-quality real estate assets, the Cofund REIF offers investment security while simultaneously delivering premium returns.
+Cofund Real Estate Investment Fund (the "REIF" or "Fund") is a closed-end private fund with a unique focus on a broad spectrum of real estate investments. These investments include mortgages, revenue generating properties, development projects, as well as securitized real estate products. Backed by a diverse portfolio of high-quality real estate assets, the Cofund REIF offers investment security while simultaneously delivering premium returns.
 
 ## Units Offered
 
@@ -35,6 +35,10 @@ Each class has different profit distribution mechanisms. For more information, r
   - Minimum Subscription: $3,000,000.00, or 3,000 Units.
   - 20% deposit is due on Term Sheet signed, starting from Sep 2023
   - 80% remaining balance is due on Jan 31, 2024
+
+## Investors
+
+Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
 
 ## REIF Structure
 
@@ -73,37 +77,51 @@ Different investment classes have distinct waterfall performance incentive mecha
 
 Since the GP/LP is a tax flow-through structure, the annualized ROI will be calculated based on earnings before taxes(EBT) in accordance with IFRS.
 
+## Distributions
+
+The REIF intends to provide a fixed 6% annualized cash distribution on the investment capital, payable quarterly, to Unit holders. A special distribution will be issued at fund liquidation according to the profit distribution mechanisms.
+
 ## Fund Manager
 
-An affiliated organization, COFUND MANAGEMENT INC., will be hired as the Fund Manager to manage and provide services related to the day-to-day operations of the REIF.
+COFUND MANAGEMENT INC., an affiliated organization, will be engaged as the Fund Manager to oversee and provide services pertinent to the day-to-day operations of the REIF.
 
-Typical responsiblities include:
+REIF operational responsiblities include:
 
-- Managing investment portfolio
-- Providing annual reports
-- Providing unaudited interim financial statements
-- Providing applicable tax forms
-- Coordinating with third party vendors  
-  - eg. lawyers, accountants, auditors, appraiser, underwriters, brokers/dealers/agents etc.
-- Offering generic investor services  
-  - eg. support line, investor meetings etc.
+- Portfolio Management
+  - Strategy Development - Regularly refining the investment strategy based on market research
+  - Opportunity Analysis - Identifying, evaluating, and recommending high-quality investment opportunities
+  - Performance Monitor - Consistently reviewing and analyzing the performance of the investments in the portfolio
+  - Liquidity Management - Ensuring there's always adequate liquidity to fulfill the REIF's obligations
+  - Risk Management - Identifying and assessing portfolio risks, and proactively mitigating them as necessary
 
-## Fund Management Fee
+- Investor Service
+  - Milestone Updates - Keeping investors informed about key achievements and developments
+  - Investor Meetings - Holding annual meetings to review performance and discuss the future strategy
+  - Annual Reports - Providing a yearly summary of financial activities and fund performance
+  - Interim Financial Statements -  Issuing financial updates at predetermined intervals
+  - Applicable Tax Forms - Distributing necessary tax documentation
+  - Generic Support - Offering a support line and addressing Q&As
+
+- Third Party Coordination
+  - Collaborating with professionals such as lawyers, accountants, auditors, appraisers, underwriters, brokers, dealers, agents, and others as needed.
+
+## Management Fee
 
 The Fund Manager will charge the REIF a fee of 2% of the fund's Assets Under Management (AUM) per year, payable quarterly, to cover operating expenses. If the actual operational cost of the REIF exceeds the 2% of AUM, it becomes the Fund Manager's responsibility to cover the difference.
 
 The following types of services, usually provided by a third parties, have associated expenses that are not considered as the fund's operational cost. These expenses will be directly billed to the REIF:
 
-- Formation expenses
+- Formation Expenses
   - Formation costs of the REIF; for details, refer to the section "Formation Expenses."
-- Investment expenses  
+
+- Investment Expenses  
   - Assignment fees for property acquisitions
   - Commissions for property dispositions
   - Appraisal fees for property valuation
   - Consulting fees for property due diligence services
   - Broker fees for mortgage investments
   - Underwriting fees for mortgage investments
-  
+
 ## Investment Period
 
 The Fund will invest the proceeds from the Placement as stated under "Investment Objective." This will occur between the Closing and the earliest of the 3.5-year anniversary of the Closing, with a potential extension of one year.
@@ -119,14 +137,6 @@ The Fund aims to build a diversified portfolio of real estate investments, with 
 
 Investment strategies are subject to change in order to adapt to today's fast-paced market conditions, but will be announced at investor meetings if there are any changes.
 
-## Distributions
-
-The REIF intends to provide a fixed 6% annualized cash distribution on the investment capital, payable quarterly, to Unit holders. A special distribution will be issued at fund liquidation according to the profit distribution mechanisms.
-
-## Investors
-
-Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
-
 ## Transferability of Units
 
 Units cannot be transferred without the consent of the General Partner, subject to certain conditions and compliance with securities laws.
@@ -134,14 +144,6 @@ Units cannot be transferred without the consent of the General Partner, subject 
 ## Committees
 
 The General Partner will establish a Management Committee and an Independent Committee to oversee strategic decisions, investments, and related party matters.
-
-## Formation Expenses
-
-The Fund will cover formation expenses up to a certain amount, and the General Partner will be responsible for expenses exceeding this limit.
-
-## Operating Expenses
-
-The Fund will be responsible for all expenses related to its operations, including fees for services provided by the General Partner.
 
 ## Proposed Investments
 
