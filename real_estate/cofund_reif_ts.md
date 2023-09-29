@@ -124,15 +124,19 @@ The Fund Manager will charge the REIF a fee of 2% of the fund's Assets Under Man
 The following types of services, usually provided by a third parties, have associated expenses that are not considered as the fund's operational cost. These expenses will be directly billed to the REIF:
 
 - Formation Expenses
-  - Formation costs of the REIF; for details, refer to the section "Formation Expenses."
+  - Legal fees to implement the designated REIF structure
+  - Commissions for fund raising
 
 - Investment Expenses  
+  - Legal fees associated with investments.
   - Assignment fees for property acquisitions
   - Commissions for property dispositions
   - Appraisal fees for property valuation
   - Consulting fees for property due diligence services
   - Broker fees for mortgage investments
   - Underwriting fees for mortgage investments
+
+The Fund Manager is obligated to disclose if such third-party services are provided by any affiliated organization.
 
 ## Investment Strategy
 
