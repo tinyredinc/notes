@@ -48,6 +48,10 @@ Units will only be available to accredited investors and investors who meet cert
 
 Cofund REIF is a limited partnership set to be established in Ontario. COFUND REIF NO1 GP INC., a corporation incorporated in Ontario, will serve as the "General Partner" of the REIF. A Fund Manager will be hired to oversee the day-to-day operations of the REIF.
 
+## Distributions
+
+The REIF intends to provide a fixed 6% annualized cash distribution on the investment capital, payable quarterly, to Unit holders. A special distribution will be issued at fund liquidation according to the profit distribution mechanisms.
+
 ## GP Performance Incentive
 
 Different investment classes have distinct waterfall performance incentive mechanisms:  
@@ -77,9 +81,17 @@ Different investment classes have distinct waterfall performance incentive mecha
 
 Since the GP/LP is a tax flow-through structure, the annualized ROI will be calculated based on earnings before taxes(EBT) in accordance with IFRS.
 
-## Distributions
+## Investment Period
 
-The REIF intends to provide a fixed 6% annualized cash distribution on the investment capital, payable quarterly, to Unit holders. A special distribution will be issued at fund liquidation according to the profit distribution mechanisms.
+The Fund will invest the proceeds from the Placement as stated under "Investment Objective." This will occur between the Closing and the earliest of the 3.5-year anniversary of the Closing, with a potential extension of one year.
+
+## Transferability of Units
+
+Units cannot be transferred without the consent of the General Partner, subject to certain conditions and compliance with securities laws.
+
+## Committees
+
+The General Partner will establish a Management Committee and an Independent Committee to oversee strategic decisions, investments, and related party matters.
 
 ## Fund Manager
 
@@ -122,10 +134,6 @@ The following types of services, usually provided by a third parties, have assoc
   - Broker fees for mortgage investments
   - Underwriting fees for mortgage investments
 
-## Investment Period
-
-The Fund will invest the proceeds from the Placement as stated under "Investment Objective." This will occur between the Closing and the earliest of the 3.5-year anniversary of the Closing, with a potential extension of one year.
-
 ## Investment Strategy
 
 The Fund aims to build a diversified portfolio of real estate investments, with a focus on mortgage and equity investments in properties with development potential in Toronto and Ontario. Mortgage investments can generate stable cash flow with collateral protection, while equity investments in development projects offer aggressive gains.
@@ -136,14 +144,6 @@ The Fund aims to build a diversified portfolio of real estate investments, with 
 - The underlying real estate assets are diversified, encompassing sectors such as residential, industrial, retail, rental apartments, and more.
 
 Investment strategies are subject to change in order to adapt to today's fast-paced market conditions, but will be announced at investor meetings if there are any changes.
-
-## Transferability of Units
-
-Units cannot be transferred without the consent of the General Partner, subject to certain conditions and compliance with securities laws.
-
-## Committees
-
-The General Partner will establish a Management Committee and an Independent Committee to oversee strategic decisions, investments, and related party matters.
 
 ## Proposed Investments
 
