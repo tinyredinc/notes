@@ -89,10 +89,6 @@ The Fund will invest the proceeds from the Placement as stated under "Investment
 
 Units cannot be transferred without the consent of the General Partner, subject to certain conditions and compliance with securities laws.
 
-## Committees
-
-The General Partner will establish a Management Committee and an Independent Committee to oversee strategic decisions, investments, and related party matters.
-
 ## Fund Manager
 
 COFUND MANAGEMENT INC., an affiliated organization, will be engaged as the Fund Manager to oversee and provide services pertinent to the day-to-day operations of the REIF.
@@ -114,8 +110,9 @@ REIF operational responsiblities include:
   - Applicable Tax Forms - Distributing necessary tax documentation
   - Generic Support - Offering a support line and addressing Q&As
 
-- Third Party Coordination
-  - Collaborating with professionals such as lawyers, accountants, auditors, appraisers, underwriters, brokers, dealers, agents, and others as needed.
+- Vendor Management
+  - Real estate investments typically involve collaboration with a variety of professional vendors, including engineers, lawyers, accountants, auditors, appraisers, underwriters, brokers, dealers, agents, and others as required.
+  - Key responsibilities encompass Vendor Selection, Vendor Termination, Vendor Coordination, Performance Monitoring, Relationship Management, and Compliance and Risk Management.
 
 ## Management Fee
 
@@ -137,6 +134,23 @@ The following types of services, usually provided by a third parties, have assoc
   - Underwriting fees for mortgage investments
 
 The Fund Manager is obligated to disclose if such third-party services are provided by any affiliated organization.
+
+## Management Committee
+
+The General Partner is responsible for establishing a Management Committee that represents the interests of the REIF's Unitholders and votes on significant decisions.
+
+The Management Committee consists of five members: one chairman and four directors. The Chairman is appointed by the General Partner, and one director is appointed by the Fund Manager. The remaining three directors (majority), who are considered independent without any affiliations to either the General Partner or Fund Manager, are elected by the unitholders from six nominee candidates proposed by the Chairman.
+
+Each board member holds one vote on significant decisions. However, the Chairman has a special veto right. For a decision to be passed, it requires a majority of board members to agree, provided the chairman does not exercise his veto right.
+
+Significant decisions encompass:
+
+- Revising the legal structure of the REIF
+- Amending the Management Agreement with the Fund Manager
+- Acquiring or disposing of assets that exceed 10% of the AUM
+- Making or withdrawing investments that exceed 10% of the AUM
+- Issuing special cash distributions to unitholders
+- Onboarding new vendors affiliated with the General Partner or Fund Manager
 
 ## Investment Strategy
 
