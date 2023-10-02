@@ -16,6 +16,8 @@ Each class has different profit distribution mechanisms. For more information, r
 
 ## Subscription  
 
+Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
+
 - Price per Unit - $1,000.00 per Unit (the "Subscription Amount").
 - Fund Minimum Placement - 10,000 Units ($10,000,000)
 - Fund Maximum Placement - 30,000 Units ($30,000,000)
@@ -35,10 +37,6 @@ Each class has different profit distribution mechanisms. For more information, r
   - Minimum Subscription: $3,000,000.00, or 3,000 Units.
   - 20% deposit is due on Term Sheet signed, starting from Sep 2023
   - 80% remaining balance is due on Jan 31, 2024
-
-## Investors
-
-Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
 
 ## REIF Structure
 
