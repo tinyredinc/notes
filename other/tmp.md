@@ -10,13 +10,13 @@ GET
 
 ## Request Param
 
-- tile_keyword - optional, string, 关键词模糊匹配
-- tile_sku - optional, string, 瓷砖单品唯一编码
-- tile_size - optional, string, 瓷砖尺寸, 有固定选项
-- tile_color - optional, string, 瓷砖颜色, 有固定选项
-- tile_finish - optional, string, 饰面处理, 有固定选项
-- tile_location - optional, string, 存放位置编码
-- stock_level - optional, int, 库存量平尺数(大于)多少
+- tile_keyword - optional, string, 关键词模糊匹配，前端输入框
+- tile_sku - optional, string, 瓷砖单品唯一编码，前端输入框
+- tile_size - optional, string, 瓷砖尺寸, 有固定选项，前端单选
+- tile_color - optional, string, 瓷砖颜色, 有固定选项，前端单选
+- tile_finish - optional, string, 饰面处理, 有固定选项，前端单选
+- tile_location - optional, string, 存放位置编码，前端输入框
+- stock_level - optional, int, 库存量平尺数(大于)多少，前端输入框
 
 ## Response Sample
 
