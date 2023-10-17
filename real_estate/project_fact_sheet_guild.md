@@ -54,13 +54,17 @@ This condo warehouse project is part of a 60-acre industrial park master plan. I
 *For content-rich media such as images, please provide the source file or the highest possible resolution. This allows designers to crop or edit based on their needs.
 
 ### Site Overview
-![ Site Overview](http://url/to/img.png)
+
+![ Site Overview](https://raw.githubusercontent.com/tinyredinc/notes/master/real_estate/img/site_overview.png)
 
 ### Site Plan
-![ Site Plan](http://url/to/img.png)
+
+![ Site Plan](https://raw.githubusercontent.com/tinyredinc/notes/master/real_estate/img/site_plan.png)
 
 ### Site Rendering
-![ Site Rendering](http://url/to/img.png)
+
+![ Site Rendering](https://raw.githubusercontent.com/tinyredinc/notes/master/real_estate/img/site_rendering.jpg)
 
 ### Site Location Map
-![ Site Location](http://url/to/img.png)
+
+![ Site Location](https://raw.githubusercontent.com/tinyredinc/notes/master/real_estate/img/site_location.png)
