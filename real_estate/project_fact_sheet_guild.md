@@ -20,7 +20,7 @@ This condo warehouse project is part of a 60-acre industrial park master plan. I
 - Premium Return
   - Considering the risk profile, this project delivers an exceptionally competitive rate of return, both within and beyond the industry.
 - Experienced Developer
-  - Costone Group is a local developer with a solid track record, boasting dozens of successful real estate development and construction management projects.
+  - Costone Group is a local developer with solid track records in real estate development and construction management.
 
 ## Quick Facts
 
@@ -29,8 +29,8 @@ This condo warehouse project is part of a 60-acre industrial park master plan. I
 - Lot Size: 5.272 Acres
 - Total Unit: 20
 - Total GFA: 108,216 sqft
+- *Est. Serviced Land Value: $7.19 M
 - *Est. Completion Value: $43.3 M
-- *Est. Loan-to-Value: 70%
 
 *Further details are available in the project plan and proforma.
 
