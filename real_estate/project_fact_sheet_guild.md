@@ -16,11 +16,11 @@ This condo warehouse project is part of a 60-acre industrial park master plan. I
 - Prime Location
   - Situated on the urban fringe of Toronto, adjacent to a well-established industrial park with easy highway access.
 - Manageable Risk
-  - No re-zoning required, eliminating much of the uncertainty typically associated with real estate development.
+  - With no re-zoning necessary, much of the typical uncertainty in real estate development is eliminated.
 - Premium Return
-  - Given the risk level, this project offers a highly competitive rate of return both within and outside the industry.
+  - Considering the risk profile, this project delivers an exceptionally competitive rate of return, both within and beyond the industry.
 - Experienced Developer
-  - Costone Group is a reputable local developer with a strong track record, boasting dozens of successful real estate development and construction management projects.
+  - Costone Group is a local developer with a solid track record, boasting dozens of successful real estate development and construction management projects.
 
 ## Quick Facts
 
@@ -46,7 +46,7 @@ This condo warehouse project is part of a 60-acre industrial park master plan. I
 
 ## Project Plan
 
-- Current Status: The master parcel was successfully re-zoned from "Major Open Space" to "Rural Industrial (M1)" through LPAT in December 2020. Given its former use as farmland, certain land servicing tasks, such as grading, road construction, and utilities, need to be completed before construction can start.
+- Current Status: The master parcel was successfully re-zoned from "Major Open Space" to "Rural Industrial (M1)" through LPAT in December 2020. Various architectural drawings and engineering reports have already been prepared, and engagement with the township for approval has commenced. Due to its previous use as farmland, specific land servicing tasks must be addressed before construction begins.
 
 - Phase 1. Siteplan Approval
   - Subdivision of the master parcel into individual lots, with detailed site layouts subsequently reviewed and approved by the government.
