@@ -96,6 +96,13 @@ What We Do
     - Loans
     - Joint Ventures
 
+Miscellaneous
+    - Investor Login
+    - Contact Us
+    - Privacy Policy
+    - Terms And Conditions
+    - Disclaimers
+
 *Institutional Investors
     - Home
     - Approach
@@ -103,10 +110,4 @@ What We Do
     - Governance
     - Sustainability
 
-Miscellaneous
-    - Investor Login
-    - Contact Us
-    - Privacy Policy
-    - Terms And Conditions
-    - Disclaimers
 ```
