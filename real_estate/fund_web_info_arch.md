@@ -109,4 +109,10 @@ Miscellaneous
     - Strategy
     - Governance
     - Sustainability
+
+*Advisor
+    - Home
+    - PD Credits
+    - Onboarding Process
+    - Partner With Us
 ```
