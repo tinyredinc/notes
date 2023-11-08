@@ -50,12 +50,12 @@ Key factors that set CoFund apart within the industry
   - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
   - 4800 Sheppard Plaza MCR Project (Intro + Key Figures + Factsheet)
 
-## Contact Us (Page 7)
+## Contact Us (Page 6)
 
 - Offices + Map
 - Contact Form
 
-## Knowledge Base (Page 8 *Optional)
+## Knowledge Base (*Page Optional)
 
 - Knowledge, industry insight/terminology
 - Case Study, project/market analysis
