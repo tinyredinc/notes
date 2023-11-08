@@ -59,3 +59,53 @@ Key factors that set CoFund apart within the industry
 
 - Knowledge, industry insight/terminology
 - Case Study, project/market analysis
+
+## Appendix
+
+```
+
+Information Architecture of Equiton
+
+About
+    About Equiton
+    Our Difference
+    Team
+    Careers
+    News
+
+Toolbox
+    FAQs
+    Fast Facts
+    Case Studies
+    Real Estate Terminology
+    White Papers & Guides
+    On-Demand Webinars
+    Insights/Blogs
+
+Our Funds and Offerings
+    Investment Solutions
+    Apartment Fund
+    Income and Development Fund
+    Development Offerings
+
+What We Do
+    Multi-Residential
+    Development
+    Commercial
+    Loans
+    Joint Ventures
+
+Institutional Investors
+    Institutional
+    Approach
+    Strategy
+    Governance
+    Sustainability
+
+Miscellaneous
+    Investor Login
+    Contact Us
+    Privacy Policy
+    Terms And Conditions
+    Disclaimers
+```
