@@ -65,7 +65,7 @@ Key factors that set CoFund apart within the industry
 ```
 Information Architecture of Equiton
 
-Home Page
+Homepage
 
 About
     - About Equiton
