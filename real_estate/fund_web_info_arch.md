@@ -3,7 +3,35 @@
 ## Home (Page 1)
 
 - Navigation Menu
+```
+RIGHT: ABOUT, SOLUTION, ARTICLE, CONTACT
+LEFT: INVESTOR, EN, CN, SEARCH
+```
 - Image/Video with Slogans
+```
+Maximizing the Potentials of Properties,
+Developer's Vision, Investor's Reward.
+
+Building Value with Developer Insight, 
+Investing with Foresight.
+
+Development Expertise Paves the Road 
+to Investment Excellence.
+
+Invest in Real Estate with CoFund and Benefit from our Expertise ->
+```
+```
+以开发商的洞察，激发不动产最大潜能，
+为投资者带来丰厚回报。
+
+依托开发与建筑，创造不动产主动增值，
+前瞻性投资理念引领市场。
+
+我们的开发专业技能，为您的投资
+卓越之旅铺平道路。
+
+选择CoFund，专业与智慧，为不动产投资保驾护航 ->
+```
 - Breif intro of CoFund -> link to [About CoFund]
 - Investment Solutions -> link to [Investment Solutions]
   - Rental Appartment Fund
@@ -27,10 +55,36 @@
 Key factors that set CoFund apart within the industry
 
 - Premium Return
-- Real Estate Expert
-- Collaboration
+```
+## Premium Return
+CoFund Products distinguish themselves by offering higher returns than other real estate investment funds, an achievement rooted in our commitment to sharing a greater portion of profits with our investors. Before the inception of CoFund, we were a small to mid-sized developer in Toronto, primarily utilizing our own capital for land acquisition and development. This experience led to a profound realization: it's more advantageous to focus on expanding the overall scale rather than just chasing higher yields on an existing base. We are confident that this strategy of scaling up will ultimately result in more substantial returns for both us and our investors.
+
+## 卓越回报
+相较于其他房地产投资基金，CoFund产品以提供更高的回报而脱颖而出，这一成就源于我们致力于与投资者分享更大比例利润的承诺。在CoFund成立之前，我们是多伦多的一家中小型开发商，主要使用自有资金进行土地收购和开发。这段经历让我们深刻认识到：与其局限于追求更高的项目收益率，不如将目光投向扩大整体规模的长远利益。我们坚信，这种注重规模扩张的战略，最终将为我们及我们的投资者带来更加显著的收益回报。
+```
+- Proactive Growth
+```
+## Proactive Growth
+Rather than passively waiting, CoFund proactively explores ways to enhance value to its properties. Leveraging our extensive development experience, we deploy a wide range of tools, processes, and methods that are standard among professional developers and builders, aimed at maximizing the potential of our properties. Our approach includes, but is not limited to, improved site planning, re-zoning, subdivision, pursuing Minister's Zoning Order (MZO), obtaining Local Planning Appeal Tribunal (LPAT) approvals, and general construction activities.
+
+## 主动增值
+CoFund不满足于被动地"持有资产并等待市场自然增长"，而是积极主动地寻求提升不动产价值的多种途径。凭借我们在房地产开发领域的丰富经验，我们会采用专业开发商和建筑商常用的一整套方法、工具和流程，致力于充分挖掘我们不动产的价值潜力。我们的不动产主动增值策略包括但不限于优化项目规划、调整土地用途、土地分割，申请MZO命令，争取LPAT审批，以及工程建筑等多个方面。
+```
+
+- Real Estate Expertise
 - Data Driven
+```
+## Data Driven
+At CoFund, being data-driven is at the heart of our culture. We base all critical decisions on comprehensive data analysis. Our commitment to data extends beyond respect; we invest heavily in data technologies, surpassing many other organizations in the industry. Our partnerships with multiple renowned data vendors, combined with our in-house data analysis system, LREDE© (Legend Real Estate Data Engine), allow us to monitor a broad spectrum of factors. These include real estate market dynamics like housing and land prices, supply and demand, construction materials, and labor costs. Additionally, we also track economic indicators that significantly impact the real estate market, such as interest rates, CPI(s), employment rates, household income, equity indices, and foreign exchange rates.
+
+## 数据导向
+在 CoFund，数据驱动是我们企业文化的核心，我们依靠全面的数据分析来指导我们的每一个重要决策。我们对数据的尊重不仅仅停留在表面，更是在数据技术上进行了大量的投资，远远领先于同行业的其他公司。我们不仅与众多知名数据供应商建立了合作关系，还开发了自研的数据分析系统LREDE©。通过技术手段，我们能够全面监控不动产市场的各种动态，包括房产和土地价格、供求关系、建筑材料和劳动力成本等。除此之外，我们还密切关注那些对房地产市场产生重大影响的经济指标，例如利率、消费者价格指数（CPI）、就业率、家庭收入、股票指数和外汇汇率等。
+```
 - Transparency
+```
+## Transparency
+Our information and results are listed prominently on our website. through our CoFund Investor Portal, 
+```
 
 ## CoFund Team (Page 4)
 
