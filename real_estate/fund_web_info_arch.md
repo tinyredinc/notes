@@ -76,15 +76,18 @@ CoFund不满足于被动地"持有资产并等待市场自然增长"，而是积
 - Data Driven
 ```
 ## Data Driven
-At CoFund, being data-driven is at the heart of our culture. We base all critical decisions on comprehensive data analysis. Our commitment to data extends beyond respect; we invest heavily in data technologies, surpassing many other organizations in the industry. Our partnerships with multiple renowned data vendors, combined with our in-house data analysis system, LREDE© (Legend Real Estate Data Engine), allow us to monitor a broad spectrum of factors. These include real estate market dynamics like housing and land prices, supply and demand, construction materials, and labor costs. Additionally, we also track economic indicators that significantly impact the real estate market, such as interest rates, CPI(s), employment rates, household income, equity indices, and foreign exchange rates.
+At CoFund, being data-driven is fundamental to our culture. We base all critical decisions on comprehensive data analysis. We invest heavily in data technologies, surpassing many other organizations in the industry. Our data research is extensive, achieved through partnerships with multiple renowned data vendors, combined with our in-house data analysis system, LREDE© (Legend Real Estate Data Engine), enables us to monitor a broad spectrum of factors. These include real estate market dynamics like housing and land prices, supply and demand, construction materials, and labor costs. Additionally, we also track economic indicators that significantly impact the real estate market, such as interest rates, CPI(s), employment rates, household income, equity indices, and foreign exchange rates.
 
 ## 数据导向
-在 CoFund，数据驱动是我们企业文化的核心，我们依靠全面的数据分析来指导我们的每一个重要决策。我们对数据的尊重不仅仅停留在表面，更是在数据技术上进行了大量的投资，远远领先于同行业的其他公司。我们不仅与众多知名数据供应商建立了合作关系，还开发了自研的数据分析系统LREDE©。通过技术手段，我们能够全面监控不动产市场的各种动态，包括房产和土地价格、供求关系、建筑材料和劳动力成本等。除此之外，我们还密切关注那些对房地产市场产生重大影响的经济指标，例如利率、消费者价格指数（CPI）、就业率、家庭收入、股票指数和外汇汇率等。
+在 CoFund，数据驱动是我们企业文化的核心，我们依靠全面的数据分析来指导我们的每一个重要决策。我们对数据的尊重不仅仅停留在表面，更是在数据技术上进行了大量的投资，远远领先于同行业的其他公司。我们不仅与众多知名数据供应商建立了合作关系，还开发了自研的数据分析系统LREDE©。我们的数据研究非常深入，涵盖不动产市场的各种动态，包括房产和土地价格、供求关系、建筑材料和劳动力成本等。除此之外，我们还密切关注那些对房地产市场产生重大影响的经济指标，例如利率、消费者价格指数（CPI）、就业率、家庭收入、股票指数和外汇汇率等。
 ```
 - Transparency
 ```
 ## Transparency
-Our information and results are listed prominently on our website. through our CoFund Investor Portal, 
+Our information and results are prominently displayed on our website. Through the CoFund Investor Portal, you can access real-time updates, including Asset Portfolios, Appraisal Reports, Project Milestones, Notices and Keynotes from Investor Meetings, Interim Financial Statements, Annual Reports, Applicable Tax Forms, as well as General Customer Support and Q&As, among other resources. We are committed to creating transparency in investment management by providing the means for you to track the allocation of funds and understand how we add value to your investments.
+
+## 公开透明
+在我们的网站上，您可以轻松查阅到我们的最新信息和业绩成果。通过CoFund投资者服务端口，您能够实时获取各种信息更新，包括资产组合、估值报告、项目进展、投资者会议通知和既要、期中财务报告、年度报告、相关税务表格，以及客服支持和问题解答等。我们致力于提供公开透明的投资服务，帮助您清晰了解我们如何分配资金和实现价值增增长。
 ```
 
 ## CoFund Team (Page 4)
