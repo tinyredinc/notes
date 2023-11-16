@@ -73,6 +73,13 @@ CoFund不满足于被动地"持有资产并等待市场自然增长"，而是积
 ```
 
 - Real Estate Expertise
+```
+## Real Estate Expertise
+The majority of the CoFund Core Team comes from a background in real estate development, which gives us a comprehensive understanding of the entire life cycle of real estate projects. This expertise includes reliable due diligence, precise property valuation and potential analysis, along with advanced risk controls, seasoned project management, and diverse liquidation methods. Our extensive knowledge and experience in real estate development, construction, and property management bolster our confidence in delivering superior results compared to other real estate investment funds in the industry.
+
+## 不动产专精
+CoFund核心团队主要由不动产开发领域的资深专家组成，使我们对不动产项目的整个生命周期都有深刻的理解。我们的专长主要体现在提供可靠的尽职调查、准确的资产价值与潜力评估、先进的风险控制、经验丰富的项目管理以及多种多样的清算变现方法和途径。正是这些在不动产开发、建筑和物业管理方面的丰富积累，让我们对于在整个行业中提供更出色的成果充满信心。
+```
 - Data Driven
 ```
 ## Data Driven
