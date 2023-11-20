@@ -106,7 +106,7 @@ REIF operational responsiblities include:
   - Annual Reports - Providing a yearly summary of financial activities and fund performance
   - Interim Financial Statements -  Issuing financial updates at predetermined intervals
   - Applicable Tax Forms - Distributing necessary tax documentation
-  - Generic Support - Offering a support line and addressing Q&As
+  - Generic Customer Support - Offering a support line and addressing Q&As
 
 - Vendor Management
   - Real estate investments typically involve collaboration with a variety of professional vendors, including engineers, lawyers, accountants, auditors, appraisers, underwriters, brokers, dealers, agents, and others as required.
