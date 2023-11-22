@@ -19,8 +19,8 @@ Each class has different profit distribution mechanisms. For more information, r
 Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
 
 - Price per Unit - $1,000.00 per Unit (the "Subscription Amount").
-- Fund Minimum Placement - 16,000 Units ($16,000,000)
-- Fund Maximum Placement - 50,000 Units ($50,000,000)
+- Minimum Offering - 16,000 Units ($16,000,000)
+- Maximum Offering - 50,000 Units ($50,000,000)
 - Closing Date (Closing): May 31, 2024
 
 - For CLASS A (Accredited Investors)  
@@ -38,19 +38,21 @@ Units will only be available to accredited investors and investors who meet cert
   - 20% deposit is due on Term Sheet signed, starting from Sep 2023
   - 80% remaining balance is due on Jan 31, 2024
 
-The Fund Initiator, CoStone Group, is committed to subscribing to 16,000 Class P Units (equivalent to $16,000,000) through its investment Special Purpose Vehicle (SPV), COSTONE INVESTMENT CORPORATION (CIC).
 
 ## RAIF Structure
 
 ![REIF STRUCTURE](https://raw.githubusercontent.com/tinyredinc/notes/master/real_estate/img/raif_struct.png)
 
+## COSTONE INVESTMENT CORPORATION
+The Fund Initiator, CoStone Group, is committed to subscribing to 16,000 Class P Units (equivalent to $16,000,000) through its investment Special Purpose Vehicle (SPV), COSTONE INVESTMENT CORPORATION (CIC).
+
 ## General Partner
 
-Cofund REIF is a limited partnership set to be established in Ontario. COFUND REIF NO1 GP INC., a corporation incorporated in Ontario, will serve as the "General Partner" of the REIF. A Fund Manager will be hired to oversee the day-to-day operations of the REIF.
+Cofund RAIF is a limited partnership set to be established in Ontario. COFUND RAIF GP INC., a corporation incorporated in Ontario, will serve as the "General Partner" of the RAIF. An affiliated organization, CoFund Management Inc., will be appointed as the Fund Manager to oversee the day-to-day operations of the RAIF.
 
 ## Distributions
 
-The REIF intends to provide a fixed 6% annualized cash distribution on the investment capital, payable quarterly, to Unit holders. A special distribution will be issued at fund liquidation according to the profit distribution mechanisms.
+The RAIF intends to provide a fixed 6% annualized cash distribution on the investment capital, payable quarterly, to Unit holders. A special distribution will be issued at fund liquidation according to the profit distribution mechanisms.
 
 ## GP Performance Incentive
 
@@ -83,7 +85,7 @@ Since the GP/LP is a tax flow-through structure, the annualized ROI will be calc
 
 ## Investment Period
 
-The Fund will invest the proceeds from the Placement as stated under "Investment Objective." This will occur between the Closing and the earliest of the 3.5-year anniversary of the Closing, with a potential extension of one year.
+The Fund will invest the proceeds from the Placement as outlined in the 'Investment Objective.' This investment will take place between the Closing date and the earliest of either the four-year anniversary of the Closing or a potential one-year extension.
 
 ## Transferability of Units
 
@@ -91,7 +93,7 @@ Units cannot be transferred without the consent of the General Partner, subject 
 
 ## Fund Manager
 
-COFUND MANAGEMENT INC., an affiliated organization, will be engaged as the Fund Manager to oversee and provide services pertinent to the day-to-day operations of the REIF.
+COFUND MANAGEMENT INC., an affiliated organization, will be appointed as the Fund Manager to oversee and provide services pertinent to the day-to-day operations of the REIF.
 
 REIF operational responsiblities include:
 

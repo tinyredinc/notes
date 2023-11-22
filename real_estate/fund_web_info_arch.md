@@ -12,27 +12,26 @@ LEFT: INVESTOR, EN, CN, SEARCH
 Maximizing the Potentials of Properties,
 Developer's Vision, Investor's Reward.
 
-Building Value with Developer Insight, 
-Investing with Foresight.
-
-Development Expertise Paves the Road 
-to Investment Excellence.
-
-Invest in Real Estate with CoFund and Benefit from our Expertise ->
-```
-
-```
 以开发商的洞察，激发不动产最大潜能，
 为投资者带来丰厚回报。
+
+Building Value with Developer Insight, 
+Investing with Foresight.
 
 依托开发与建筑，创造不动产主动增值，
 前瞻性投资理念引领市场。
 
+Development Expertise Paves the Road 
+to Investment Excellence.
+
 我们的开发专业技能，为您的投资
 卓越之旅铺平道路。
 
+Invest in Real Estate with CoFund and Benefit from our Expertise ->
+
 选择CoFund，专业与智慧，为不动产投资保驾护航 ->
 ```
+
 - Breif intro of CoFund -> link to [About CoFund]
 - Investment Solutions -> link to [Investment Solutions]
   - Rental Appartment Fund
