@@ -43,5 +43,5 @@ ForeGrowth利益冲突章节完整的披露了各个关联公司之间的关系�
 ### 8. Agency Compensation 承销酬劳
 ForeGrowth付给Dealer两笔费用，一个是5%投资额度的Selling Commissions，另一个是0.15-0.5% NAV per year的Trailer Fees，不同CLASS有区别。
 
-### 9. RISK FACTORS 风险披露
+### 9. Rism Factors 风险披露
 ForeGrowth在ITEM 8- RISK FACTORS中使用了12页的篇幅（P34-P46）描述各种各样的风险，包括收益无保障，高度投机，缺乏流动性，现金流风险，赎回无法时效兑现，基金没有历史，没有代表投资人的独董，管理人员和组织存在重大利益冲突等等。
