@@ -4,7 +4,7 @@
 
 OM主体部分为50页，P51页起为GP/LP框架协议，P92页起为Subscription Agreement，P42页起Financial Statements。
 
-## Highlights 要点
+## OM Highlights 要点
 
 以下是我在读ForeGrowth OM过程中记录的一些值得关注的要点，排名不分先后，按内容顺序罗列。
 
