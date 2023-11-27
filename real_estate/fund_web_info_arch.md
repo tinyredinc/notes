@@ -143,14 +143,27 @@ Our information and results are prominently displayed on our website. Through th
 
 ## Investment Solutions (Page 5)
 
-- Rental Appartment Fund (Intro + Key Figures + Factsheet)
-- Real Estate Development Fund (Intro + Key Figures + Factsheet)
-- Mortgage Investment Fund (Intro + Key Figures + Factsheet)
-- Development Opportunity
-  - Stouffville Condo Warehouse (Intro + Key Figures + Factsheet)
-  - UTSG Student Residence (Intro + Key Figures + Factsheet)
-  - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
-  - 4800 Sheppard Plaza MCR Project (Intro + Key Figures + Factsheet)
+### Rental Appartment Fund (Intro + Key Figures + Factsheet)
+
+```
+## CoFund Rental Apartment Investment Fund
+
+Our Rental Apartment Fund is strategically focused on acquiring properties in urban core areas, regions witnessing population growth, and areas adjacent to major universities, especially those with potential for additional development due to government policies. Our primary objective is to substantially boost revenue streams and property values in a relatively short timeframe. This will be achieved through improvement, redevelopment, and professional management initiatives. Investors can expect institution-level returns, anchored by consistent rental income and the appreciation of property values. <strong>Targeted Annual Net Return of 12%‑15%.</strong>
+
+CoFund公寓投资基金专注于收购城市核心区、人口增长区域以及大学周边区域的物业，特别是那些因政府政策而具有额外发展潜力的区域。我们的目标是通过开发、设计、和专业管理，在相对较短的时间内显著提升收入流和物业价值。投资者可以期待获得机构级别的回报，基于持续的租金收入和物业价值的增长。<strong>目标年化收益率12%-15%。</strong>
+
+
+```
+#### Quick Fact
+#### Factsheet
+
+### Real Estate Development Fund (Intro + Key Figures + Factsheet)
+### Mortgage Investment Fund (Intro + Key Figures + Factsheet)
+### Development Opportunity
+#### Stouffville Condo Warehouse (Intro + Key Figures + Factsheet)
+#### UTSG Student Residence (Intro + Key Figures + Factsheet)
+#### Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
+#### 4800 Sheppard Plaza MCR Project (Intro + Key Figures + Factsheet)
 
 ## Contact Us (Page 6)
 
