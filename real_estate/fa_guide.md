@@ -2,7 +2,7 @@
 
 Version: 20230911
 
-## Lead to Deal
+## Engagement Process
 
 From leads (potential investors) to deals, we break down the conversion procedure into 5 stages:
 
@@ -105,8 +105,10 @@ For Financial Advisor deeply committed to a project's growth potential, there is
 
 COSTONE GROUP believes that individuals qualifying as our Financial Advisors should possess the capability to develop and build investor relationships independently. As such, we do not officially recognize or support any co-agency structure. The person who introduces a potential investor to us and simultaneously completes the investor profile registration will be considered the exclusive representative of that particular client. Consequently, all commissions and benefits will be delivered to that individual.
 
-Consider a scenario where Alice and Cindy, who are friends and partners, are both registered as Financial Advisors with COSTONE GROUP. They claim to be working jointly on the same client, Bob, and have planned to split the commission equally. However, since the COSTONE GROUP system does not officially support co-agency, Bob has been registered solely under Cindy's name. Therefore, the full commission from Bob's transaction will be awarded to Cindy. It will then be her sole responsibility to manage any further distribution of this commission.
+For example, Alice and Cindy, who are friends and partners, are both registered as Financial Advisors with COSTONE GROUP. They claim to be working jointly on the same client, Bob, and have agreed to split the commission equally. However, since the COSTONE GROUP system does not officially recognize co-agency, Bob has been registered solely under one advisor's name, in this case, Cindy's. Therefore, the full commission from Bob's transaction will be awarded to Cindy. It will then be her sole responsibility to manage any further distribution of this commission.
 
-## 
+## Referral Bonus Share
 
-Helping us bring more high-performance Financial Advisors on board is greatly appreciated, and those who contribute will be rewarded for enhancing our funding network.
+We greatly appreciate assistance in bringing more high-performance Financial Advisors on board and will reward those who contribute to expanding our funding network. The compensation package for fundraising typically includes two components: a cash commission and a bonus share. The bonus share may consist of either General Partner (GP) shares or Management Common shares, with details potentially varying depending on the project. The Financial Advisor who completes the transaction is entitled to keep 100% of the cash commission. However, they are obligated to allocate half of the bonus share to the Financial Advisor who referred them to COSTONE GROUP.
+
+For example, let's say Alice, a Financial Advisor, refers Cindy, another Financial Advisor, to the COSTONE GROUP funding network. Cindy later closes a transaction, earning a 4% cash commission and 1% in Bonus General Partner (GP) shares of the project. Cindy will retain the entire 4% cash commission but is obliged to give half of her Bonus General Partner (GP) shares from the project, which in this case amounts to 0.5%, to Alice for referring her to the funding network.
