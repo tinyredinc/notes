@@ -15,11 +15,11 @@ Cofund财富 - 合作、共赢、未来
 
 - Navigation Menu
   ```
-  LEFT: Home, About, Investment, Insight, Contact
+  LEFT: Home, About, Solutions, Insight, Contact
   RIGHT: Investor Login, ENGLISH, 中文, SEARCH
 
   左侧：主页 关于 投资 洞察 联系
-  右侧：投资者服务 ENGLISH 中文 SEARCH
+  右侧：投资者登陆 ENGLISH 中文 SEARCH
   ```
 - Image/Video with Slogans
   ```
@@ -221,7 +221,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 - Independent Board Members + Bio
 - Partnerships
 
-## Investment Solutions (Page 5) /investment
+## Investment Solutions (Page 5) /solutions
 
 - Rental Appartment Fund (Intro + Key Figures + Factsheet)
 
