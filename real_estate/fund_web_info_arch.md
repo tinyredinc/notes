@@ -1,47 +1,115 @@
 # CoFund Website Information Architecture
 
+## Tile
+
+```
+CoFund Wealth - Collaberate for Future
+Cofund财富 - 合作、共赢、未来
+```
+
 ## Home (Page 1)
 
 - Navigation Menu
-```
-RIGHT: ABOUT, SOLUTION, ARTICLE, CONTACT
-LEFT: INVESTOR, EN, CN, SEARCH
-```
+  ```
+  RIGHT: ABOUT, SOLUTION, ARTICLE, CONTACT
+  LEFT: INVESTOR, EN, CN, SEARCH
+  ```
 - Image/Video with Slogans
-```
-Maximizing the Potentials of Properties,
-Developer's Vision, Investor's Reward.
+  ```
+  Maximizing the Potentials of Properties,
+  Developer's Vision, Investor's Reward.
 
-以开发商的洞察，激发不动产最大潜能，
-为投资者带来丰厚回报。
+  Building Value with Developer Insight, 
+  Investing with Foresight.
 
-Building Value with Developer Insight, 
-Investing with Foresight.
+  Development Expertise Paves the Road 
+  to Investment Excellence.
 
-依托开发与建筑，创造不动产主动增值，
-前瞻性投资理念引领市场。
+  Invest in Real Estate with CoFund and Benefit from our Expertise ->
 
-Development Expertise Paves the Road 
-to Investment Excellence.
+  以开发商的洞察，激发不动产最大潜能，
+  为投资者带来丰厚回报。
 
-我们的开发专业技能，为您的投资
-卓越之旅铺平道路。
+  依托开发与建筑，创造不动产主动增值，
+  前瞻性投资理念引领市场。
 
-Invest in Real Estate with CoFund and Benefit from our Expertise ->
+  我们的开发专业技能，为您的投资
+  卓越之旅铺平道路。
 
-选择CoFund，专业与智慧，为不动产投资保驾护航 ->
-```
+  选择CoFund，专业与智慧，为不动产投资保驾护航 ->
+  ```
 
 - Breif intro of CoFund -> link to [About CoFund]
+
+  ```
+  CoFund is an organization specializing in the issuance and management of real estate investment funds. At CoFund, we are dedicated to delivering a unique blend of expertise, innovation, and value in the dynamic world of real estate investment. Our approach combines deep industry knowledge with a commitment to premium returns and sustainable growth.
+  Learn more ->
+
+  CoFund专业从事不动产投资基金发行与管理的机构。在CoFund，我们力求在这个充满变化的不动产投资市场中，为您带来专业知识、创新思维和非凡价值的完美结合。我们深入了解行业，致力于为投资者带来优质的回报和持续的增长。
+  了解更多 ->
+  ```
+
 - Investment Solutions -> link to [Investment Solutions]
-  - Rental Appartment Fund
-  - Real Estate Development Fund
-  - Mortgage Investment Fund
-  - Development Projects
+  - Rental Appartment Investment Fund 公寓投资基金
+  - Real Estate Development Fund 不动产开发基金
+  - Mortgage Investment Fund 贷款投资基金
+  - Development Projects 不动产开发项目
+
 - Why CoFund(Highlights) -> link to [Why CoFund]
+  ```
+  Premium Return
+  "We are committed to sharing more profit with investors."
+
+  Proactive Growth
+  "Actively enhancing property value through expert development strategies."
+
+  Real Estate Expertise
+  "Deep real estate knowledge ensuring superior investment outcomes."
+
+  Data Driven
+  "Making strategic decisions powered by advanced data analytics."
+
+  Transparency
+  "Ensuring investment clarity through open and accessible information."
+
+  Learn more ->
+
+  卓越回报
+  "我们愿意与投资者分享更大比例的利润。"
+
+  主动增值
+  "通过不动产开发，实现资产主动增值。"
+
+  领域专家
+  "深厚的不动产开发商背景，确保卓越投资成果。"
+
+  数据导向
+  "以数据为核心，依托数据分析，做数据导向决策。"
+
+  公开透明
+  "提供实时更新和全面报告，确保投资透明度。"
+
+  了解更多 ->
+  ```
 - Footer
   - Call to Action -> link to [Contact Us]
+  ```
+  Questions?
+  Contact us anytime to learn more about private real estate investing.
+  Contact Us ->
+
+  有兴趣？
+  您可以随时联系我们，获得更多私人房地产投资方面的咨询和信息。
+  联系我们 ->
+  ```
   - Disclaimer & Copy Right
+  ```
+  Disclaimer: The content presented on this website, despite rigorous scrutiny, is provided without warranty of its authenticity, accuracy, currency, completeness, or suitability for any particular purpose. This website is intended solely for general reference purposes and should not be considered as providing investment advice or as a basis for entering into any type of contract or commitment. Decisions to invest in any specific product should not be based solely on the information provided here, but rather on the confidential offering memorandum of the specific product. Potential investors are hereby advised that all investment activities carry risks, and past performance is not indicative of future results.
+  © CoFund Wealth 2024
+
+  免责声明: 本网站所载信息和资料皆为严谨审核后的内容，但对其真实性、准确性、实时性、完整性及其使用的适当性等不作任何担保。网站内容仅供一般性参考，不构成任何投资建议，也不应被用作签订任何种类合同或承诺的依据或动因。有意投资任何产品的用户，决策不应基于本网站所含信息，而应基于该特定产品的保密发行备忘录。此外，投资有风险，过往的业绩并不代表未来的表现。
+  © CoFund财富 2024
+  ```
 
 ## About CoFund (Page 2)
 
@@ -51,7 +119,7 @@ Invest in Real Estate with CoFund and Benefit from our Expertise ->
 - Value
 
 ```
-### Introduction
+  ### Introduction
 Welcome to CoFund, an organization specializing in the issuance and management of real estate investment funds. At CoFund, we are dedicated to delivering a unique blend of expertise, innovation, and value in the dynamic world of real estate investment. Our approach combines deep industry knowledge with a commitment to premium returns and sustainable growth.
 
 ### 介绍
