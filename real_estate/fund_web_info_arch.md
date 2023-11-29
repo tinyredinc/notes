@@ -16,10 +16,10 @@ Cofund财富 - 合作、共赢、未来
 - Navigation Menu
   ```
   LEFT: Home, About, Solutions, Insight, Contact
-  RIGHT: Investor Login, ENGLISH, 中文, SEARCH
+  RIGHT: Investor Portal, ENGLISH, 中文, SEARCH
 
   左侧：主页 关于 投资 洞察 联系
-  右侧：投资者登陆 ENGLISH 中文 SEARCH
+  右侧：投资者端口 ENGLISH 中文 SEARCH
   ```
 - Image/Video with Slogans
   ```
