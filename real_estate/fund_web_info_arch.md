@@ -1,18 +1,25 @@
 # CoFund Website Information Architecture
 
-## Tile
+## Memo
 
 ```
+中英文双语言，两套
+
+Title:
+
 CoFund Wealth - Collaberate for Future
 Cofund财富 - 合作、共赢、未来
 ```
 
-## Home (Page 1)
+## Home (Page 1) - /
 
 - Navigation Menu
   ```
-  RIGHT: ABOUT, SOLUTION, ARTICLE, CONTACT
-  LEFT: INVESTOR, EN, CN, SEARCH
+  LEFT: Home, About, Investment, Insight, Contact
+  RIGHT: Investor Login, ENGLISH, 中文, SEARCH
+
+  左侧：主页 关于 投资 洞察 联系
+  右侧：投资者服务 ENGLISH 中文 SEARCH
   ```
 - Image/Video with Slogans
   ```
@@ -55,8 +62,11 @@ Cofund财富 - 合作、共赢、未来
   - Mortgage Investment Fund 贷款投资基金
   - Development Projects 不动产开发项目
 
-- Why CoFund(Highlights) -> link to [Why CoFund]
+- Why Invest with CoFund -> link to [Why CoFund]
+
   ```
+  Invest with CoFund to partner with a professional real estate developer offering premium returns and unique proactive growth strategies. Our team's expertise in managing the full life cycle of real estate projects, coupled with our data-driven and transparent approach, leads to superior results for our clients:
+
   Premium Return
   "We are committed to sharing more profit with investors."
 
@@ -73,6 +83,8 @@ Cofund财富 - 合作、共赢、未来
   "Ensuring investment clarity through open and accessible information."
 
   Learn more ->
+
+  选择CoFund，携手领先的专业开发商，共享高额回报和前瞻性增值策略。我们团队对整个房地产项目周期的精通管理，加上数据驱动和透明度高的运作方式，确保为客户实现非凡业绩:
 
   卓越回报
   "我们愿意与投资者分享更大比例的利润。"
@@ -91,6 +103,7 @@ Cofund财富 - 合作、共赢、未来
 
   了解更多 ->
   ```
+
 - Footer
   - Call to Action -> link to [Contact Us]
   ```
@@ -111,7 +124,7 @@ Cofund财富 - 合作、共赢、未来
   © CoFund财富 2024
   ```
 
-## About CoFund (Page 2)
+## About CoFund (Page 2) /about
 
 - Introduction
 - Mission
@@ -146,7 +159,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
 ```
 
-## Why CoFund (Page 3)
+## Why CoFund (Page 3) /why
 
 ### Why invest with CoFund?
 
@@ -202,14 +215,14 @@ Our information and results are prominently displayed on our website. Through th
 在我们的网站上，您可以轻松查阅到我们的最新信息和业绩成果。通过CoFund投资者服务端口，您能够实时获取各种信息更新，包括资产组合、估值报告、项目进展、投资者会议通知和既要、期中财务报告、年度报告、相关税务表格，以及客服支持和问题解答等。我们致力于提供公开透明的投资服务，帮助您清晰了解我们如何分配资金和实现价值增增长。
 ```
 
-## CoFund Team (Page 4)
+## CoFund Team (Page 4) /team
 
 - Fund Executives + Bio
 - Affiliated Organization Executives + Bio
 - Independent Board Members + Bio
 - Partnerships
 
-## Investment Solutions (Page 5)
+## Investment Solutions (Page 5) /investment
 
 ### Rental Appartment Fund (Intro + Key Figures + Factsheet)
 
@@ -234,14 +247,14 @@ Targeted Annual Net Return
 #### Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
 #### 4800 Sheppard Plaza MCR Project (Intro + Key Figures + Factsheet)
 
-## Contact Us (Page 6)
+## Contact Us (Page 6) /contact
 
 - Offices + Map
 - Contact Form
 
-## Knowledge Base (*Page Optional)
+## Insight (*Page) /insight
 
-- Knowledge, industry insight/terminology
+- Knowledge, industry terminology
 - Case Study, project/market analysis
 
 ## Appendix
