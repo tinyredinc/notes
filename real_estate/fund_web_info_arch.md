@@ -253,64 +253,13 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 - Offices + Map
 - Contact Form
 
-## Insight (*Page) /insight
+## Insight (Page 7) /insight
+
+*暂时不做，预留空页面
 
 - Knowledge, industry terminology
 - Case Study, project/market analysis
 
-## Appendix
+## Inverstor Portal (Page 8) /investor
 
-```
-Information Architecture of Equiton
-
-Homepage
-
-About
-    - About Equiton
-    - Our Difference
-    - Team
-    - Careers
-    - News
-
-Toolbox
-    - FAQs
-    - Fast Facts
-    - Case Studies
-    - Real Estate Terminology
-    - White Papers & Guides
-    - On-Demand Webinars
-    - Insights/Blogs
-
-Our Funds and Offerings
-    - Investment Solutions
-    - Apartment Fund
-    - Income and Development Fund
-    - Development Offerings
-
-What We Do
-    - Multi-Residential
-    - Development
-    - Commercial
-    - Loans
-    - Joint Ventures
-
-Miscellaneous
-    - Investor Login
-    - Contact Us
-    - Privacy Policy
-    - Terms And Conditions
-    - Disclaimers
-
-*Institutional Investors
-    - Home
-    - Approach
-    - Strategy
-    - Governance
-    - Sustainability
-
-*Advisor
-    - Home
-    - PD Credits
-    - Onboarding Process
-    - Partner With Us
-```
+*暂时做个假登陆页面，输入什么都提示"Invalid username or password. Please try again."
