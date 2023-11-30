@@ -1,5 +1,7 @@
 # Frequently Used ChatGPT Prompts
 
+I have extensively tested these prompts in my day-to-day work, and they should consistently deliver outstanding results. However, please be mindful of the potential for unpredictable outcomes when using AI-generated content and use them at your own risk.
+
 ## Translation
 
 These prompts will generate two versions of the translation: Version 1 provides a word-for-word translation, while Version 2 delivers a more natural-sounding interpretation. For optimal results, combine these with human intelligence.
