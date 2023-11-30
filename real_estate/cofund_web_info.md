@@ -57,10 +57,76 @@ CoFund合盈财富 - 合作、共盈、未来
   ```
 
 - Investment Solutions -> link to [Investment Solutions]
-  - Rental Appartment Investment Fund 公寓投资基金
-  - Real Estate Development Fund 不动产开发基金
-  - Mortgage Investment Fund 贷款投资基金
-  - Development Projects 不动产开发项目
+  ```
+  CoFund provides a range of private real estate investment options, each with its own yield and risk profile, designed to grow your wealth responsibly.
+
+  CoFund提供了一系列不动产投资产品，涵盖不同的收益和风险偏好，致力于帮您安全、稳健地增加财富.
+  ```
+
+  - Mortgage Investment Fund -> LINK to [/solutions#mortgage_fund]
+    ```
+    [Conservative]
+    Mortgage Investment Fund
+
+    Primary focus on offering innovative land and development convertible mortgages for real estate developers.
+
+    Yield: Prime Rate + 2%
+    Risk: Collateralized
+    Distribution：Quarterly
+    分红：每季度发放
+
+    [安全保守型]
+    抵押贷款投资基金
+
+    基金专注于为房地产开发商提供创新型的土地及开发项目可转换抵押贷款方案。
+
+    收益：最优利率(Prime) + 2%
+    风险：抵押品保障
+    ```
+
+  - Rental Appartment Investment Fund -> LINK to [/solutions#appartment_fund]
+    ```
+    [Steady Growth]
+    Rental Appartment Investment Fund 
+
+    A diversified portfolio comprising student residences, rental apartments, affordable housing, and mortgage investments.
+
+    Yield: 12%-15%
+    Risk: Diversified
+    Distribution：Quarterly
+
+    [稳健增长型]
+    出租公寓投资基金
+
+    基金的投资组合多样化，涵盖学生公寓、出租型住宅公寓、廉租房以及抵押贷款等。
+
+    收益：12%-15%
+    风险：多元化分散
+    分红：每季度发放
+
+    ```
+
+  - Development Opportunities -> LINK to [/solutions#development_opportunities]
+    ```
+    [High Yield]
+    Development Opportunity
+
+    Exclusive access to various kinds of real estate development projects that offer the potential for higher returns.
+
+    Yield: Above 20%
+    Risk: Concentrated
+    Distribution：at Completion
+
+    [高额收益型]
+
+    不动产开发项目
+
+    提供独家专属渠道，与开发商共同参与潜力优秀的不动产开发项目，分享高额回报。
+
+    收益：20%以上
+    风险：集中在项目本身
+    分红：项目完成后
+    ```
 
 - Why Invest with CoFund -> link to [Why CoFund]
 
@@ -132,31 +198,29 @@ CoFund合盈财富 - 合作、共盈、未来
 - Value
 
 ```
-  ### Introduction
+### Introduction
 Welcome to CoFund, an organization specializing in the issuance and management of real estate investment funds. At CoFund, we are dedicated to delivering a unique blend of expertise, innovation, and value in the dynamic world of real estate investment. Our approach combines deep industry knowledge with a commitment to premium returns and sustainable growth.
-
-### 介绍
-欢迎光临CoFund，我们是专业从事不动产投资基金发行与管理的机构。在CoFund，我们力求在这个充满变化的不动产投资市场中，为您带来专业知识、创新思维和非凡价值的完美结合。我们深入了解行业，致力于为投资者带来优质的回报和持续的增长。
 
 ### Mission
 Our mission is to empower investors by offering exceptional real estate investment opportunities. We strive to achieve this through our proactive strategies and robust management practices, ensuring every investment maximizes its potential. Our focus is not just on generating returns, but also on fostering sustainable growth and long-term value for our investors.
 
-### 使命
-我们的使命是通过优质的房地产投资机会赋能投资者。我们致力于通过主动的战略和稳健的管理实践来实现这一目标，确保每一项投资都能发挥其最大价值。我们关注的不仅是回报的生成，更重视为投资者创造持久增长和长期价值。
-
 ### Vision
 CoFund envisions being at the forefront of real estate investment, leading with innovation and insight. Our vision is to expand our reach and influence in the market while maintaining the highest standards of integrity and quality. We aim to redefine the real estate investment landscape by consistently outperforming expectations and setting new benchmarks in the industry.
-
-### 愿景
-CoFund致力于成为不动产投资领域的领导者，引领创新和洞察力。我们的愿景是在市场中扩大影响力，同时坚守最高的诚信和质量标准。我们期望通过不断超越业界预期，在不动产投资领域树立新的里程碑。
 
 ### Value
 At the core of CoFund’s values are transparency, data-driven, and real estate expertise. We believe in keeping our investors informed and involved, providing real-time insights into their investments through our CoFund Investor Portal. Our data-driven culture ensures decisions are based on comprehensive analysis, aligning with market dynamics and economic indicators. With a team deeply rooted in real estate development, we bring unparalleled proficiency in managing the full life cycle of real estate projects, from inception to liquidation.
 
+### 介绍
+欢迎光临CoFund，我们是专业从事不动产投资基金发行与管理的机构。在CoFund，我们力求在这个充满变化的不动产投资市场中，为您带来专业知识、创新思维和非凡价值的完美结合。我们深入了解行业，致力于为投资者带来优质的回报和持续的增长。
+
+### 使命
+我们的使命是通过优质的房地产投资机会赋能投资者。我们致力于通过主动的战略和稳健的管理实践来实现这一目标，确保每一项投资都能发挥其最大价值。我们关注的不仅是回报的生成，更重视为投资者创造持久增长和长期价值。
+
+### 愿景
+CoFund致力于成为不动产投资领域的领导者，引领创新和洞察力。我们的愿景是在市场中扩大影响力，同时坚守最高的诚信和质量标准。我们期望通过不断超越业界预期，在不动产投资领域树立新的里程碑。
+
 ### 价值观
-
 CoFund的价值观核心是公开透明、数据驱动及保持专业。我们致力于让投资者全面实时的了解投资动态和信息，坚信这将有助于建立与投资者的长期信任。我们依靠数据驱动的文化，确保所有决策都建立在全面分析的基础上，并与市场趋势及经济指标紧密相连。我们团队将深耕不动产领域，持续学习支持，使我们能够熟练地管理房地产项目的每一个环节，从启动到结束。
-
 ```
 
 ## Why CoFund (Page 3) /why
@@ -223,7 +287,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
 ## Investment Solutions (Page 5) /solutions
 
-- Rental Appartment Fund (Intro + Key Figures + Factsheet)
+- Rental Appartment Investment Fund (Intro + Key Figures + Factsheet)
 
   ```
   ## CoFund Rental Apartment Investment Fund
@@ -242,7 +306,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
   - Real Estate Development Fund (Intro + Key Figures + Factsheet)
   - Mortgage Investment Fund (Intro + Key Figures + Factsheet)
-  - Development Opportunity
+  - Development Opportunities
     - Stouffville Condo Warehouse (Intro + Key Figures + Factsheet)
     - UTSG Student Residence (Intro + Key Figures + Factsheet)
     - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
