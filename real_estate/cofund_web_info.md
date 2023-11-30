@@ -68,20 +68,22 @@ CoFund合盈财富 - 合作、共盈、未来
     [Conservative]
     Mortgage Investment Fund
 
+    Target Annualized Return: Prime Rate + 2%
+
     Primary focus on offering innovative land and development convertible mortgages for real estate developers.
 
-    Yield: Prime Rate + 2%
-    Risk: Collateralized
+    Risk Profile: Collateral Protected
     Distribution：Quarterly
-    分红：每季度发放
-
+    
     [安全保守型]
     抵押贷款投资基金
 
+    目标年化收益：最优利率(Prime) + 2%
+
     基金专注于为房地产开发商提供创新型的土地及开发项目可转换抵押贷款方案。
 
-    收益：最优利率(Prime) + 2%
-    风险：抵押品保障
+    风险类型：有抵押品保障
+    收益分红：每季度发放
     ```
 
   - Rental Appartment Investment Fund -> [LINK to /solutions#appartment_fund]
@@ -89,20 +91,22 @@ CoFund合盈财富 - 合作、共盈、未来
     [Steady Growth]
     Rental Appartment Investment Fund 
 
+    Target Annualized Return: 12%-15%
+
     A diversified portfolio comprising student residences, rental apartments, affordable housing, and mortgage investments.
 
-    Yield: 12%-15%
-    Risk: Diversified
+    Risk Profile: Diversified Risk
     Distribution：Quarterly
 
     [稳健增长型]
     出租公寓投资基金
 
+    目标年化收益：12%-15%
+
     基金的投资组合多样化，涵盖学生公寓、出租型住宅公寓、廉租房以及抵押贷款等。
 
-    收益：12%-15%
-    风险：多元化分散
-    分红：每季度发放
+    风险类型：多元化分散型
+    收益分红：每季度发放
 
     ```
 
@@ -111,21 +115,23 @@ CoFund合盈财富 - 合作、共盈、未来
     [High Yield]
     Development Opportunity
 
+    Target Annualized Return: Above 20%
+
     Exclusive access to various kinds of real estate development projects that offer the potential for higher returns.
 
-    Yield: Above 20%
-    Risk: Concentrated
+    Risk Profile: Project Concentrated
     Distribution：at Completion
 
     [高额收益型]
 
     不动产开发项目
 
+    目标年化收益：20%以上
+
     提供独家专属渠道，与开发商共同参与潜力优秀的不动产开发项目，分享高额回报。
 
-    收益：20%以上
-    风险：集中在项目本身
-    分红：项目完成后
+    风险类型：集中在项目本身
+    收益分红：项目完成后
     ```
 
 - Why Invest with CoFund
@@ -188,7 +194,7 @@ CoFund合盈财富 - 合作、共盈、未来
   © CoFund Wealth 2024
 
   免责声明: 本网站所载信息和资料皆为严谨审核后的内容，但对其真实性、准确性、实时性、完整性及其使用的适当性等不作任何担保。网站内容仅供一般性参考，不构成任何投资建议，也不应被用作签订任何种类合同或承诺的依据或动因。有意投资任何产品的用户，决策不应基于本网站所含信息，而应基于该特定产品的保密发行备忘录。此外，投资有风险，过往的业绩并不代表未来的表现。
-  
+
   © CoFund合盈财富 2024
   ```
 
