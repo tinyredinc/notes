@@ -32,7 +32,7 @@ CoFund合盈财富 - 合作、共盈、未来
   Development Expertise Paves the Road 
   to Investment Excellence.
 
-  Invest in Real Estate with CoFund and Benefit from our Expertise ->
+  Invest in Real Estate with CoFund and Benefit from our Expertise -> [LINK to /solutions]
 
   以开发商的洞察，激发不动产最大潜能，
   为投资者带来丰厚回报。
@@ -43,10 +43,10 @@ CoFund合盈财富 - 合作、共盈、未来
   我们的开发专业技能，为您的投资
   卓越之旅铺平道路。
 
-  选择CoFund，专业与智慧，为不动产投资保驾护航 ->
+  选择CoFund，专业与智慧，为不动产投资保驾护航 -> [LINK to /solutions]
   ```
 
-- Breif intro of CoFund -> link to [About CoFund]
+- Breif intro of CoFund -> [LINK to /about]
 
   ```
   CoFund is an organization specializing in the issuance and management of real estate investment funds. At CoFund, we are dedicated to delivering a unique blend of expertise, innovation, and value in the dynamic world of real estate investment. Our approach combines deep industry knowledge with a commitment to premium returns and sustainable growth.
@@ -56,14 +56,14 @@ CoFund合盈财富 - 合作、共盈、未来
   了解更多 ->
   ```
 
-- Investment Solutions -> link to [Investment Solutions]
+- Investment Solutions
   ```
   CoFund provides a range of private real estate investment options, each with its own yield and risk profile, designed to grow your wealth responsibly.
 
   CoFund提供了一系列不动产投资产品，涵盖不同的收益和风险偏好，致力于帮您安全、稳健地增加财富.
   ```
 
-  - Mortgage Investment Fund -> LINK to [/solutions#mortgage_fund]
+  - Mortgage Investment Fund -> [LINK to /solutions#mortgage_fund]
     ```
     [Conservative]
     Mortgage Investment Fund
@@ -84,7 +84,7 @@ CoFund合盈财富 - 合作、共盈、未来
     风险：抵押品保障
     ```
 
-  - Rental Appartment Investment Fund -> LINK to [/solutions#appartment_fund]
+  - Rental Appartment Investment Fund -> [LINK to /solutions#appartment_fund]
     ```
     [Steady Growth]
     Rental Appartment Investment Fund 
@@ -106,7 +106,7 @@ CoFund合盈财富 - 合作、共盈、未来
 
     ```
 
-  - Development Opportunities -> LINK to [/solutions#development_opportunities]
+  - Development Opportunities -> [LINK to /solutions#development_projects]
     ```
     [High Yield]
     Development Opportunity
@@ -128,7 +128,7 @@ CoFund合盈财富 - 合作、共盈、未来
     分红：项目完成后
     ```
 
-- Why Invest with CoFund -> link to [Why CoFund]
+- Why Invest with CoFund
 
   ```
   Invest with CoFund to partner with a professional real estate developer offering premium returns and unique proactive growth strategies. Our team's expertise in managing the full life cycle of real estate projects, coupled with our data-driven and transparent approach, leads to superior results for our clients:
@@ -148,7 +148,7 @@ CoFund合盈财富 - 合作、共盈、未来
   Transparency
   "Ensuring investment clarity through open and accessible information."
 
-  Learn more ->
+  Learn more -> [LINK to /why]
 
   选择CoFund，携手领先的专业开发商，共享高额回报和前瞻性增值策略。我们团队对整个房地产项目周期的精通管理，加上数据驱动和透明度高的运作方式，确保为客户实现非凡业绩:
 
@@ -167,26 +167,28 @@ CoFund合盈财富 - 合作、共盈、未来
   公开透明
   "提供实时更新和全面报告，确保投资透明度。"
 
-  了解更多 ->
+  了解更多 -> [LINK to /why]
   ```
 
 - Footer
-  - Call to Action -> link to [Contact Us]
+  - Call to Action
   ```
   Questions?
   Contact us anytime to learn more about private real estate investing.
-  Contact Us ->
+  Contact Us -> [LINK to /contact]
 
   有兴趣？
   您可以随时联系我们，获得更多私人房地产投资方面的咨询和信息。
-  联系我们 ->
+  联系我们 -> [LINK to /contact]
   ```
   - Disclaimer & Copy Right
   ```
   Disclaimer: The content presented on this website, despite rigorous scrutiny, is provided without warranty of its authenticity, accuracy, currency, completeness, or suitability for any particular purpose. This website is intended solely for general reference purposes and should not be considered as providing investment advice or as a basis for entering into any type of contract or commitment. Decisions to invest in any specific product should not be based solely on the information provided here, but rather on the confidential offering memorandum of the specific product. Potential investors are hereby advised that all investment activities carry risks, and past performance is not indicative of future results.
+
   © CoFund Wealth 2024
 
   免责声明: 本网站所载信息和资料皆为严谨审核后的内容，但对其真实性、准确性、实时性、完整性及其使用的适当性等不作任何担保。网站内容仅供一般性参考，不构成任何投资建议，也不应被用作签订任何种类合同或承诺的依据或动因。有意投资任何产品的用户，决策不应基于本网站所含信息，而应基于该特定产品的保密发行备忘录。此外，投资有风险，过往的业绩并不代表未来的表现。
+  
   © CoFund合盈财富 2024
   ```
 
