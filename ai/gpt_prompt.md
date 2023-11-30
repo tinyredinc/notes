@@ -8,9 +8,9 @@ These prompts will generate two versions of the translation: Version 1 provides 
 
 - EN to CN 
 
-  ```
+  <code>
   Please translate the following paragraph(s) into Chinese and then rewrite it in a manner that sounds natural to a native Chinese speaker. The rewrite doesn't need to follow the original text word for word, as long as it conveys the same meaning：
-  ```
+  </code>
 
 - CN to EN
   ```
@@ -19,7 +19,7 @@ These prompts will generate two versions of the translation: Version 1 provides 
 
 ## Writing Aid
 
-Different writing scenarios require varying degrees of manipulation. Sometimes, paragraphs need to be entirely rephrased with a completely different tone, such as turning drafted business terms into a legal document. However, at times it's better to retain as much of the original flavor and personal style as possible, like when writing a personal email. These prompts are designed to correct your writing while offering different levels of adaptation to your original writing style.
+Different writing scenarios require varying degrees of manipulation in paragraphs. Sometimes, paragraphs need to be entirely rephrased with a completely different tone, such as turning drafted business terms into a legal document. However, at times it's better to retain as much of the original flavor and personal style as possible, like when writing a personal email. These prompts are designed to correct your writing while offering different levels of adaptation to your original writing style.
 
 - [High] Degree of Manipulation
   ```
