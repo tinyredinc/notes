@@ -8,9 +8,9 @@ These prompts will generate two versions of the translation: Version 1 provides 
 
 - EN to CN 
 
-  <code>
+  ```
   Please translate the following paragraph(s) into Chinese and then rewrite it in a manner that sounds natural to a native Chinese speaker. The rewrite doesn't need to follow the original text word for word, as long as it conveys the same meaning：
-  </code>
+  ```
 
 - CN to EN
   ```
