@@ -68,7 +68,7 @@ CoFund合盈财富 - 合作、共盈、未来
     [Conservative]
     Mortgage Investment Fund
 
-    Target Annualized Return: Prime Rate + 2%
+    Target Annualized Return: Prime Rate + 3%
 
     Primary focus on offering innovative land and development convertible mortgages for real estate developers.
 
@@ -78,7 +78,7 @@ CoFund合盈财富 - 合作、共盈、未来
     [安全保守型]
     抵押贷款投资基金
 
-    目标年化收益：最优利率(Prime) + 2%
+    目标年化收益：最优利率(Prime) + 3%
 
     基金专注于为房地产开发商提供创新型的土地及开发项目可转换抵押贷款方案。
 
@@ -300,13 +300,33 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
   Fund Fact Sheet -> (link to a pdf)
 
+  ## CoFund出租公寓投资基金
+
   CoFund公寓投资基金专注于收购城市核心区、人口增长区域以及大学周边区域的物业，特别是那些因政府政策而具有额外发展潜力的区域。我们的目标是通过开发、设计、和专业管理，在相对较短的时间内显著提升收入流和物业价值。投资者可以期待获得机构级别的回报，基于持续的租金收入和物业价值的增长。<strong>目标年化收益12%-15%。</strong>
 
   产品说明书 -> (链接到一个PDF)
   ```
 
-  - Mortgage Investment Fund (Intro + Key Figures + Factsheet)
-  - Development Opportunities
+- Mortgage Investment Fund (Intro + Key Figures + Factsheet)
+  ```
+  ### CoFund Mortgage Investment Fund
+
+  Our mortgage investment fund specializes in financing premium-quality development projects by providing mortgage loans to developers. Developers typically face tight cash flow during the development and construction phases, but their financial situation eases upon project completion. Our innovative convertible mortgages feature lower monthly payments during the development cycle, followed by a greater share of the profits at maturity. This approach aligns perfectly with the nature of development projects and generally results in a combined return that surpasses market averages.<strong>Target Annualized Return: Prime Rate + 3%.</strong>
+
+  Fund Fact Sheet -> (link to a pdf)
+
+  CoFund抵押贷款投资基金
+
+  CoFund抵押投资基金专注于为高质量的开发项目提供融资，向其开发商提供抵押贷款。开发商在项目开发阶段往往现金流相对紧张，但随着项目的完工，他们的财务状况通常会得到显著改善。我们推出的创新型可转换抵押贷款，其特点是在项目开发周期内仅需支付较低的利息，但在期满后需要分享较多的项目红利。这些特性非常的契合开发项目的本质，并且通常能带来超越市场平均水平的综合回报。
+
+  产品说明书 -> (链接到一个PDF)
+  ```
+- Development Opportunities
+  ```
+  Exclusive access to various kinds of real estate development projects that offer the potential for higher returns.
+
+  提供独家专属渠道，与开发商共同参与潜力优秀的不动产开发项目，分享高额回报。
+  ```
     - Stouffville Condo Warehouse (Intro + Key Figures + Factsheet)
     - UTSG Student Residence (Intro + Key Figures + Factsheet)
     - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
