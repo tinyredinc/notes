@@ -311,13 +311,13 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
   ```
   ### CoFund Mortgage Investment Fund
 
-  Our mortgage investment fund specializes in financing premium-quality development projects by providing mortgage loans to developers. Developers typically face tight cash flow during the development and construction phases, but their financial situation eases upon project completion. Our innovative convertible mortgages feature lower monthly payments during the development cycle, followed by a greater share of the profits at maturity. This approach aligns perfectly with the nature of development projects and generally results in a combined return that surpasses market averages.<strong>Target Annualized Return: Prime Rate + 3%.</strong>
+  Our mortgage investment fund specializes in financing premium-quality development projects by providing mortgages to developers. Developers typically face tight cash flow during the development and construction phases, but their financial situation eases upon project completion. Our innovative convertible mortgages feature lower monthly payments during the development cycle, followed by a greater share of the profits at maturity. This approach aligns perfectly with the nature of developments and results in a combined return that surpasses market averages.<strong>Target Annualized Return: Prime Rate + 3%.</strong>
 
   Fund Fact Sheet -> (link to a pdf)
 
   CoFund抵押贷款投资基金
 
-  CoFund抵押投资基金专注于为高质量的开发项目提供融资，向其开发商提供抵押贷款。开发商在项目开发阶段往往现金流相对紧张，但随着项目的完工，他们的财务状况通常会得到显著改善。我们推出的创新型可转换抵押贷款，其特点是在项目开发周期内仅需支付较低的利息，但在期满后需要分享较多的项目红利。这些特性非常的契合开发项目的本质，并且通常能带来超越市场平均水平的综合回报。
+  CoFund抵押投资基金专注于为高质量的开发项目提供融资，向其开发商提供抵押贷款。开发商在项目开发阶段往往现金流相对紧张，但随着项目的完工，他们的财务状况通常会明显改善。我们推出的创新可转换抵押贷款，其特点是在项目开发周期内仅需支付较低的利息，但在期满后需要分享较多的项目红利。这些特性非常的契合不动产开发项目的本质和特点，并且带来超越市场平均水平的综合回报。目标年化收益：<strong>最优利率(Prime) + 3%</strong>
 
   产品说明书 -> (链接到一个PDF)
   ```
