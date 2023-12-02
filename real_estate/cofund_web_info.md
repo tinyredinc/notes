@@ -327,32 +327,48 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
   提供独家专属渠道，与开发商共同参与潜力优秀的不动产开发项目，分享高额回报。
   ```
+
     - Stouffville Condo Warehouse - Phase I (Intro + Key Figures + Factsheet)
       ```
       Stouffville Condo Warehouse - Phase I
+
+      *Status: Open for Investment
 
       This condo warehouse project is an integral part of a 60-acre industrial park master plan. It's located 4km from the Town of Whitchurch-Stouffville, with convenient access to highways 404 and 407, just a 13-minute drive away. The project occupies a total lot size of 5.272 acres and includes plans to construct 20 condo industrial units, amounting to a total gross floor area (GFA) of 108,216 sqft. <strong>Target Annualized Return: 22%-26%.</strong>
 
       Estimated Completion Value: $43.2 Million
       Developer: CoStone Real Estate
-      Project Duration: 2 Years
-      Status: Open for Investment
+      Project Duration: 2.0 Years
 
       Fund Fact Sheet -> (link to a pdf)
       ```
-    - UTSG Student Residence (Intro + Key Figures + Factsheet)
-    - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
-    - 4800 Sheppard Plaza MCR Project (Intro + Key Figures + Factsheet)
-    ```
-    4800 Sheppard Plaza MCR
 
-    This prominent commercial plaza, anchored by Service Ontario and Tim Hortons, occupies a 5.04-acre lot and brings in $1.7 million in annual net rental income. It is conveniently located near the intersection of Sheppard and McCowan, just 200 meters from the Sheppard East Subway Station and 2 km from the Scarborough Town Centre. The plaza holds potential for development into commercial-residential towers, offering a Gross Floor Area (GFA) of 1.5 million sq. ft. and ranging in height from 28 to 33 storeys. <strong>Target Annualized Return: 26%-28%.</strong>
+    - UTSG Student Residence (Intro + Key Figures + Factsheet)
+      ```
+      UTSG Student Residence
+
+      *Status: Comming Soon
+
+      This project occupies one of the rare developable parcels within the University of Toronto's St. George Campus that is not university-owned. The proposed construction is an 8-storey boutique condominium, spanning an approximate Gross Floor Area (GFA) of 20,000 sq. ft. Designed to include 12 strata-titled units and 40 rooms, its unique location renders it an excellent choice for student residences, thereby offering a solid long-term investment opportunity.<strong>Target Annualized Return: 20%-22%.</strong>
+
+      Estimated Completion Value: $28.0 Million
+      Estimated Project Duration: 3.0 Years
+      Developer: CoStone Real Estate  
+      ```
+
+    - 4800 Sheppard Plaza MCR Project (Intro + Key Figures + Factsheet)
+      ```
+      4800 Sheppard Plaza MCR
+
+      *Status: Comming Soon
+
+      This prominent commercial plaza, anchored by Service Ontario and Tim Hortons, occupies a 5.04-acre lot and brings in $1.7 million in annual net rental income. It is conveniently located near the intersection of Sheppard and McCowan, just 200 meters from the Sheppard East Subway Station and 2 km from the Scarborough Town Centre. The plaza holds potential for development into commercial-residential towers, offering a Gross Floor Area (GFA) of 1.5 million sq. ft. and ranging in height from 28 to 33 storeys. <strong>Target Annualized Return: 26%-28%.</strong>
     
-    Estimated Completion Value: $135.5 Million
-    Developer: CoStone Real Estate
-    Project Duration: 3.5 Years
-    Status: Comming Soon
-    ```
+      Estimated Completion Value: $135.5 Million
+      Estimated Project Duration: 3.5 Years
+      Developer: CoStone Real Estate
+      ```
+    - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
 
 ## Contact Us (Page 6) /contact
 
