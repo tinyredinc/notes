@@ -366,7 +366,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       This prominent commercial plaza, anchored by Service Ontario and Tim Hortons, occupies a 5.04-acre lot and brings in $1.7 million in annual net rental income. It is conveniently located near the intersection of Sheppard and McCowan, just 200 meters from the Sheppard East Subway Station and 2 km from the Scarborough Town Centre. The plaza holds potential for development into commercial-residential towers, offering a Gross Floor Area (GFA) of 1.5 million sq. ft. and ranging in height from 28 to 33 storeys. <strong>Target Annualized Return: 26%-28%.</strong>
     
-      Estimated Completion Value: $135.5 Million
+      Estimated Completion Value: $120.0 Million
       Estimated Project Duration: 3.5 Years
       Developer: CoStone Real Estate
 
