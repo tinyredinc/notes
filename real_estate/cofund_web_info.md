@@ -340,7 +340,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       Estimated Project Duration: 2.0 Years
       Developer: CoStone Real Estate
 
-      Fund Fact Sheet -> (link to a pdf)
+      Project Fact Sheet -> (link to a pdf)
       ```
 
     - UTSG Student Residence (Intro + Key Figures + Factsheet)
@@ -353,7 +353,9 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       Estimated Completion Value: $28.0 Million
       Estimated Project Duration: 3.0 Years
-      Developer: CoStone Real Estate  
+      Developer: CoStone Real Estate
+
+      Project Fact Sheet -> (link to a pdf)
       ```
 
     - 4800 Sheppard Plaza MCR Project (Intro + Key Figures + Factsheet)
@@ -367,6 +369,8 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       Estimated Completion Value: $135.5 Million
       Estimated Project Duration: 3.5 Years
       Developer: CoStone Real Estate
+
+      Project Fact Sheet -> (link to a pdf)
       ```
 
     - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
@@ -380,6 +384,8 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       Estimated Completion Value: $84.0 Million
       Estimated Project Duration: 2.0 Years
       Developer: CoStone Real Estate
+
+      Project Fact Sheet -> (link to a pdf)
       ```
 
 ## Contact Us (Page 6) /contact
