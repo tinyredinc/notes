@@ -337,8 +337,8 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       This condo warehouse project is an integral part of a 60-acre industrial park master plan. It's located 4km from the Town of Whitchurch-Stouffville, with convenient access to highways 404 and 407, just a 13-minute drive away. The project occupies a total lot size of 5.272 acres and includes plans to construct 20 condo industrial units, amounting to a total gross floor area (GFA) of 108,216 sqft. <strong>Target Annualized Return: 22%-26%.</strong>
 
       Estimated Completion Value: $43.2 Million
+      Estimated Project Duration: 2.0 Years
       Developer: CoStone Real Estate
-      Project Duration: 2.0 Years
 
       Fund Fact Sheet -> (link to a pdf)
       ```
@@ -368,6 +368,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       Estimated Project Duration: 3.5 Years
       Developer: CoStone Real Estate
       ```
+
     - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
 
 ## Contact Us (Page 6) /contact
