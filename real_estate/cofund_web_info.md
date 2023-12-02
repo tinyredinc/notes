@@ -349,7 +349,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       *Status: Comming Soon
 
-      This project occupies one of the rare developable parcels within the University of Toronto's St. George Campus that is not university-owned. The proposed construction is an 8-storey boutique condominium, spanning an approximate Gross Floor Area (GFA) of 20,000 sq. ft. Designed to include 12 strata-titled units and 40 rooms, its unique location renders it an excellent choice for student residences, thereby offering a solid long-term investment opportunity.<strong>Target Annualized Return: 20%-22%.</strong>
+      This residential condo project occupies one of the rare developable parcels within the University of Toronto's St. George Campus that is not university-owned. The proposed construction is an 8-storey boutique condominium, spanning an approximate Gross Floor Area (GFA) of 20,000 sq. ft. Designed to include 12 strata-titled units and 40 rooms, its unique location renders it an excellent choice for student residences, thereby offering a solid long-term investment opportunity.<strong>Target Annualized Return: 20%-22%.</strong>
 
       Estimated Completion Value: $28.0 Million
       Estimated Project Duration: 3.0 Years
@@ -370,6 +370,17 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       ```
 
     - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
+      ```
+      Lindsay Fleming Community - Phase I
+
+      *Status: Comming Soon
+
+      This residential townhouse project is a key component of a 60-acre master plan for a mixed residential and commercial community. Located in Lindsay, City of Kawartha Lakes, and adjacent to Fleming College's Frost Campus, it is approximately a 1.5-hour drive from the City of Toronto. The project spans 10 acres and includes plans to construct 120 townhouse units, each ranging from 1,400 to 1,600 sqft, totaling a gross floor area (GFA) of 180,000 sqft. <strong>Target Annualized Return: 23%-26%.</strong>
+
+      Estimated Completion Value: $84.0 Million
+      Estimated Project Duration: 2.0 Years
+      Developer: CoStone Real Estate
+      ```
 
 ## Contact Us (Page 6) /contact
 
