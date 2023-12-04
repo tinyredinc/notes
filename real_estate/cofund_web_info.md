@@ -348,7 +348,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       Stouffville工业仓库/厂房一期工程是整体60英亩工业园区项目的一部分，该项目位于Whitchurch-Stouffville镇中心4公里处，交通便利，接近404和407号高速公路，仅13分钟车程即可到达。该项目占地总面积为5.272英亩，计划建造20个工业仓库/厂房单元，总建筑面积（GFA）为108,216平方英尺。<strong>目标年化收益：22%-26%。</strong>
 
-      预计完工价值：4300万加元
+      预计完成价值：4300万加元
       预计项目周期：2.0年
       开发商：CoStone Real Estate
 
@@ -369,11 +369,11 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       Project Fact Sheet -> (link to a pdf)
 
-      多伦多大学主校区学生公寓
+      多伦多大学圣乔治主校区学生公寓
 
-      位于多伦多大学圣乔治校区内的这个住宅公寓项目，是该校区内稀缺的非大学持有的可开发地块。计划建造一栋8层的精品公寓，总建筑面积约为20,000平方英尺。项目包括12个分层产权单元及40个房间，其独特的地理位置使其成为学生出租公寓的理想选择，同时也为投资者提供了一项长期稳定的投资机会。<strong>目标年化收益：20%-22%。</strong>
+      这个住宅公寓项目位于多伦多大学圣乔治主校区，是该校区内稀缺的非大学持有的可开发地块。计划建造一栋8层的精品公寓，总建筑面积约为20,000平方英尺。该项目设计包括12个分层产权单位，总计40个房间，其独特的地理位置使其成为经营学生出租公寓的绝佳选择，为投资者提供了一项长期稳定的投资机会。<strong>目标年化收益：20%-22%。</strong>
 
-      预计完工价值：2800万加元
+      预计完成价值：2800万加元
       预计项目周期：3.0年
       开发商：CoStone Real Estate
 
@@ -393,6 +393,16 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       Developer: CoStone Real Estate
 
       Project Fact Sheet -> (link to a pdf)
+
+      4800 Sheppard商业住宅综合体
+
+      目前该地块的业态为PLAZA商业广场，占地5.04英亩，有省政府服务中心(Service Ontario)和Tim Hortons连锁咖啡店等知名租户，年净租金收入为170万加元。它位于Sheppard和McCowan两条街道的交界处附近，距离Sheppard East地铁站仅200米，距离士嘉堡城中心2公里。该地块拥有审批高层商业住宅综合体的潜力，预计可批5栋28至33层的高塔建筑，含裙楼总计约150万平方英尺的总建筑面积（GFA）。<strong>目标年化收益：26%-28%。</strong>
+
+      预计完成价值：1.2亿加元
+      预计项目周期：3.5年
+      开发商：CoStone Real Estate
+
+      项目说明书 -> (link to a pdf)
       ```
 
     - Lindsay Residential/Commercial Community (Intro + Key Figures + Factsheet)
@@ -408,6 +418,12 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       Developer: CoStone Real Estate
 
       Project Fact Sheet -> (link to a pdf)
+
+      Lindsay Fleming 综合社区 - 一期工程
+
+      状态：即将推出
+
+      这个住宅联排别墅项目一期工程，是60英亩的Lindsay Fleming住宅和商业综合社区规划的一部分。位于Kawartha Lakes湖市的Lindsay镇，毗邻Fleming学院的Frost校区，距多伦多市大约1.5小时车程。一期工程占地10英亩，计划建造120个联排别墅单元，每个单元面积在1,400至1,600平方英尺之间，总建筑面积（GFA）为180,000平方英尺。<strong>目标年化收益：23%-26%。</strong>
       ```
 
 ## Contact Us (Page 6) /contact
