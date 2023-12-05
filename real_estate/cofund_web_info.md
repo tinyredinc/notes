@@ -348,7 +348,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       Stouffville工业仓库/厂房一期工程是整体60英亩工业园区项目的一部分，该项目位于Whitchurch-Stouffville镇中心4公里处，交通便利，接近404和407号高速公路，仅13分钟车程即可到达。该项目占地总面积为5.272英亩，计划建造20个工业仓库/厂房单元，总建筑面积（GFA）为108,216平方英尺。<strong>目标年化收益：22%-26%。</strong>
 
-      预计完成价值：4300万加元
+      预估项目价值：4300万加元
       预计项目周期：2.0年
       开发商：CoStone Real Estate
 
@@ -373,7 +373,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       这个住宅公寓项目位于多伦多大学圣乔治主校区，是该校区内稀缺的非大学持有的可开发地块。计划建造一栋8层的精品公寓，总建筑面积约为20,000平方英尺。该项目设计包括12个分层产权单位，总计40个房间，其独特的地理位置使其成为经营学生出租公寓的绝佳选择，为投资者提供了一项长期稳定的投资机会。<strong>目标年化收益：20%-22%。</strong>
 
-      预计完成价值：2800万加元
+      预估项目价值：2800万加元
       预计项目周期：3.0年
       开发商：CoStone Real Estate
 
@@ -398,7 +398,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       目前该地块的业态为PLAZA商业广场，占地5.04英亩，有省政府服务中心(Service Ontario)和Tim Hortons连锁咖啡店等知名租户，年净租金收入为170万加元。它位于Sheppard和McCowan两条街道的交界处附近，距离Sheppard East地铁站仅200米，距离士嘉堡城中心2公里。该地块拥有审批高层商业住宅综合体的潜力，预计可批5栋28至33层的高塔建筑，含裙楼总计约150万平方英尺的总建筑面积（GFA）。<strong>目标年化收益：26%-28%。</strong>
 
-      预计完成价值：1.2亿加元
+      预估项目价值：1.2亿加元
       预计项目周期：3.5年
       开发商：CoStone Real Estate
 
@@ -424,6 +424,36 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
       状态：即将推出
 
       这个住宅联排别墅项目一期工程，是60英亩的Lindsay Fleming住宅和商业综合社区规划的一部分。位于Kawartha Lakes湖市的Lindsay镇，毗邻Fleming学院的Frost校区，距多伦多市大约1.5小时车程。一期工程占地10英亩，计划建造120个联排别墅单元，每个单元面积在1,400至1,600平方英尺之间，总建筑面积（GFA）为180,000平方英尺。<strong>目标年化收益：23%-26%。</strong>
+
+      预估项目价值：8400万加
+      预计项目周期：2.0年
+      开发商：CoStone Real Estate
+      ```
+    - The Briars Resort
+      ```
+      The Briars Lake-view Golf Resort
+
+      *Status: Comming Soon
+
+      The Briars Resort, a picturesque lake-view golf resort, is located on the south side of Lake Simcoe in Jackson's Point, Georgina. Just an hour's drive from the City of Toronto, it offers an ideal retreat for a weekend getaway. The resort currently features an 18-hole golf course, a hotel with spa facilities, beaches, docks, cottages, boat houses, and areas designated for residential use. The futurn plan includes the development and construction of residential land, the renovation and room expansion of the existing hotel, and the construction of a new outdoor spring spa, a banquet hall, a waterfront restaurant, and premium lake-view cottages.<strong>Target Annualized Return: TBD.</strong>
+
+      Estimated Completion Value: TBD
+      Estimated Project Duration: TBD
+      Developer: CoStone Real Estate
+
+      Project Fact Sheet (Comming Soon) ->
+
+      Briars湖景高尔夫度假区
+
+      状态：即将推出
+
+      风景如画的Briars湖畔高尔夫度假区，位于Simcoe南岸，Jackson's Point旅游区，从多伦多市驱车约一小时即可抵达，是周末度假的绝佳去处。度假区现有设施包括18洞高尔夫球场、带有SPA的酒店、沙滩、码头、船屋、度假屋以及可开发住宅用地。未来的发展计划涉及住宅区的开发和建设、酒店的翻新及客房扩建，并将新增设户外温泉、宴会厅礼堂、滨湖高级餐厅和豪华湖景度假屋等。<strong>目标年化收益：待定。</strong>
+
+      预估项目价值：待定
+      预计项目周期：待定
+      开发商：CoStone Real Estate
+
+      项目说明书(尽请期待) ->
       ```
 
 ## Contact Us (Page 6) /contact
