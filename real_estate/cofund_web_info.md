@@ -435,7 +435,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       *Status: Comming Soon
 
-      The Briars Resort, a picturesque lake-view golf resort, is located on the south side of Lake Simcoe in Jackson's Point, Georgina. Just an hour's drive from the City of Toronto, it offers an ideal retreat for a weekend getaway. The resort currently features an 18-hole golf course, a hotel with spa facilities, beaches, docks, cottages, boat houses, and areas designated for residential use. The futurn plan includes the development and construction of residential land, the renovation and room expansion of the existing hotel, and the construction of a new outdoor spring spa, a banquet hall, a waterfront restaurant, and premium lake-view cottages.<strong>Target Annualized Return: TBD.</strong>
+      The Briars Resort, a picturesque lake-view golf resort spanning 145 acres, is located on the south side of Lake Simcoe in Jackson's Point, Georgina. Just an hour's drive from the City of Toronto, it offers an ideal retreat for a weekend getaway. The resort currently features an 18-hole golf course, a hotel with spa facilities, beaches, docks, cottages, boat houses, and areas designated for residential use. The futurn plan includes the development and construction of residential land, the renovation and room expansion of the existing hotel, and the construction of a new outdoor spring spa, a banquet hall, a waterfront restaurant, and premium lake-view cottages.<strong>Target Annualized Return: TBD.</strong>
 
       Estimated Completion Value: TBD
       Estimated Project Duration: TBD
@@ -447,7 +447,7 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
       状态：即将推出
 
-      风景如画的Briars湖畔高尔夫度假区，位于Simcoe南岸，Jackson's Point旅游区，从多伦多市驱车约一小时即可抵达，是周末度假的绝佳去处。度假区现有设施包括18洞高尔夫球场、带有SPA的酒店、沙滩、码头、船屋、度假屋以及可开发住宅用地。未来的发展计划涉及住宅区的开发和建设、酒店的翻新及客房扩建，并将新增设户外温泉、宴会厅礼堂、滨湖高级餐厅和豪华湖景度假屋等。<strong>目标年化收益：待定。</strong>
+      风景如画的Briars湖畔高尔夫度假区，占地155英亩，位于Simcoe南岸Jackson's Point旅游区，从多伦多市驱车约一小时即可抵达，是周末度假的绝佳去处。度假区现有设施包括18洞高尔夫球场、带有SPA的酒店、沙滩、码头、船屋、度假屋以及可开发住宅用地。未来的发展计划涉及住宅区的开发和建设、酒店的翻新及客房扩建，并将新增设户外温泉、宴会厅礼堂、滨湖高级餐厅和豪华湖景度假屋等。<strong>目标年化收益：待定。</strong>
 
       预估项目价值：待定
       预计项目周期：待定
