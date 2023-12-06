@@ -42,3 +42,32 @@ Different writing scenarios require varying degrees of manipulation in paragraph
   ```
   Please only review the grammar, while preserving the original style of writing as much as possible:
   ```
+
+## Quiz
+
+GPT is adept at handling quizzes across various fields, efficiently finding answers and explaining the reasoning behind them. You can use it to tackle practice quizzes found online that lack answers, or utilize its explanations as a valuable study aid. Keep in mind that although GPT typically scores high, it is not always 100% accurate.
+
+*Note: You can repeat the question to GPT and check if the answers remain consistent.
+
+*Note: For multiple-choice questions, GPT seems to struggle with handling options labeled as 1/2/3/4/5. It's better to convert these to A/B/C/D/E for clearer understanding.
+
+- Mutiple Choice - without explanation
+  ```
+  The content below is a multiple-choice question about [TOPIC] from the [SOURCE]. You don't need to explain the details; just provide the answer:
+  ```
+  ```
+  EXAMPLE: https://www.courseprovider.ca/practice-questions/
+
+  The content below is a multiple-choice question about [Real Estate Agents] from the [OREA Real Estate Course]. You don't need to explain the details; just provide the answer:
+
+  An individual becomes a Real Estate Salesperson in Ontario when:
+  A. They have enrolled with OREA
+  B. They have registered with a Brokerage and RECO has issued their license
+  C. They have completed with pre-registration courses
+  D. They have registered with the Local Authority
+  ```
+
+- Mutiple Choice - with multiple answers
+  ```
+  The content below is a multiple-choice question with multiple answers about [TOPIC] from the [SOURCE]. You don't have to explain the details; just provide the answer:
+  ```
