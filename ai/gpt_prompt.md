@@ -55,19 +55,22 @@ GPT is adept at handling quizzes across various fields, efficiently finding answ
   ```
   The content below is a multiple-choice question about [TOPIC] from the [SOURCE]. You don't need to explain the details; just provide the answer:
   ```
-  ```
-  EXAMPLE: https://www.courseprovider.ca/practice-questions/
-
-  The content below is a multiple-choice question about [Real Estate Agents] from the [OREA Real Estate Course]. You don't need to explain the details; just provide the answer:
-
-  An individual becomes a Real Estate Salesperson in Ontario when:
-  A. They have enrolled with OREA
-  B. They have registered with a Brokerage and RECO has issued their license
-  C. They have completed with pre-registration courses
-  D. They have registered with the Local Authority
-  ```
 
 - Mutiple Choice - with multiple answers
   ```
   The content below is a multiple-choice question with multiple answers about [TOPIC] from the [SOURCE]. You don't have to explain the details; just provide the answer:
   ```
+
+EXAMPLE:
+```
+Have some fun with: https://www.courseprovider.ca/practice-questions/
+
+The content below is a multiple-choice question about [Real Estate Agents] from the [OREA Real Estate Course]. You don't need to explain the details; just provide the answer:
+
+An individual becomes a Real Estate Salesperson in Ontario when:
+A. They have enrolled with OREA
+B. They have registered with a Brokerage and RECO has issued their license
+C. They have completed with pre-registration courses
+D. They have registered with the Local Authority
+```
+
