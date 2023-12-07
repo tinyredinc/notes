@@ -13,7 +13,7 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements containe
 
 The Financial Advisor shall follow the prescribed conversion process from potential investors to finalized deals, segmented into five stages as detailed below:
 
-### Stage I - Lead Generation
+### Stage I - Lead
 
 Initially, the Financial Advisor is tasked with establishing a robust relationship with the potential investor and assessing their investment preferences. The following actions should be undertaken for reference:
 
@@ -51,9 +51,9 @@ Post due diligence, upon the investor's commitment to invest, several procedural
 3. Deposition of 10-20% into the designated Lawyer Trust Account.
 4. Arrangement of the remaining funds in preparation for the capital call.
 
-### Stage V - Deal Finalization
+### Stage V - Finalization
 
-This stage signifies the completion of the 'Lead to Deal' process. Here, a prospective lead formally transitions into a financial investor. They are expected to actively monitor the project's progress and benefit from the development of our high-quality projects.
+This stage signifies the completion of the 'Engagement Process'. Here, a prospective lead formally transitions into a financial investor. They are expected to actively monitor the project's progress and benefit from the development of our high-quality projects.
 
 1. Signing of the official Investor Subscription Agreement.
 2. Confirmation that all funds are secured post-capital call.
@@ -93,15 +93,17 @@ Note: A preliminary status check is mandatory prior to investor registration. Sh
 
 ## Engagement Protection
 
-Upon the completion of an investor's registration, COSTONE GROUP will safeguard the commission and all associated benefits for our Financial Advisors. This protection is initially valid for a period of 90 days and will be extended for an additional 30 days following the last investment-related interaction.
+Upon the completion of an investor's registration, COSTONE GROUP shall ensure the protection of commissions and all associated benefits accorded to our Financial Advisors. This protection shall remain in effect for an initial term of 180 calendar days and shall be extended by an additional 90 calendar days subsequent to the most recent investment-related interaction. In instances where a financial advisor successfully convinces an investor to commit funds, the duration of engagement protection shall be extended to 1800 calendar days commencing from the date of the Subscription Agreement.
 
 Illustrative scenarios include:
 
-- Scenario 1: Alice, a Financial Advisor, ceases communication with Bob, a potential investor, after registering him. If Bob elects to invest on the 89th day post-registration, Alice retains her entitlement to the full commission and corresponding benefits from Bob's investment.
+- Scenario 1: Alice, a Financial Advisor, ceases communication with Bob, a potential investor, after registering him. If Bob elects to invest on the 179th day post-registration, Alice retains her entitlement to the full commission and corresponding benefits from Bob's investment.
 
-- Scenario 2: Should Alice maintain monthly follow-ups with Bob and, after a year, Bob chooses to invest with documented interaction between Alice and Bob regarding the investment within the preceding 30 days, Alice is entitled to receive the full commission and all resultant benefits from Bob's investment.
+- Scenario 2: Should Alice conduct periodic follow-ups with Bob and, subsequently, if Bob decides to invest after a year, Alice shall be entitled to receive the full commission and all resultant benefits from Bob's investment. This entitlement is contingent upon providing evidence of interactions between Alice and Bob regarding the investment within the 90 days prior to Bob's investment decision.
 
-- Scenario 3: In the event that Alice discontinues her efforts to secure Bob's investment and another Financial Advisor successfully facilitates Bob's investment commitment 6 months later, Alice will not be eligible to receive any benefits from Bob's investment, due to the lapse of her Engagement Protection period.
+- Scenario 3: In the event that Alice discontinues her efforts to secure Bob's investment and another Financial Advisor successfully facilitates Bob's investment commitment 180 days later, Alice will not be eligible to receive any benefits from Bob's investment, due to the lapse of her Engagement Protection period.
+
+In the event of a dispute between financial advisors regarding representation of an investor, each advisor must furnish evidence of their investment-related interactions with the investor. Acceptable forms of proof include call logs, text message records, social media chat histories, and email correspondences. COSTONE GROUP shall render the final judgment based on the presented evidence, adhering strictly to the rules of investor registration and engagement protection.
 
 ## Commission
 
@@ -111,7 +113,7 @@ Typically, fundraising commissions are disbursed utilizing an M + N structure. H
 
 For instance, in the context of the 4800 Sheppard Plaza MCR Development Project as of August 2023, quotations were sourced from three renowned Exempt Market Dealers (EMD) based in Toronto. These dealers commonly propose a total commission of 5%, structured either as 4% + 1% or 3% + 2%.
 
-Financial Advisors who demonstrate a profound commitment to the potential growth of a project are often presented with the option to forgo a part or the entirety of their commission in exchange for Limited Partner (LP) shares, General Partner (GP) shares, or Management Common shares. The specific terms and conditions of such exchanges may vary, contingent upon the particularities of the project or product at hand.
+Financial Advisors who demonstrate a profound commitment to the potential growth of a project are often presented with the option to forgo a part or the entirety of their commission in exchange for Limited Partner (LP) shares. The specific terms and conditions of such exchanges may vary, contingent upon the particularities of the project or product at hand.
 
 ## Co-Agency
 
@@ -119,11 +121,9 @@ COSTONE GROUP asserts that individuals designated as our Financial Advisors shou
 
 By way of illustration, consider the case of Alice and Cindy, who are both affiliated as Financial Advisors with COSTONE GROUP and collaborate as friends and partners. They purport to be jointly managing a client, Bob, and have concurred to divide the commission from Bob's transaction equally. However, given that COSTONE GROUP's policy does not formally recognize co-agency, Bob's registration has been completed under a single advisor's name, specifically Cindy's in this instance. Therefore, the entirety of the commission arising from Bob's engagement will be allocated to Cindy. Subsequently, it is Cindy's sole responsibility to administer any further distribution of this commission.
 
-## Referral Bonus Share
+## Referral Bonus
 
-COSTONE GROUP values the contribution of individuals who assist in recruiting high-performance Financial Advisors and is committed to rewarding such efforts that facilitate the expansion of our funding network. The compensation structure for fundraising endeavors typically encompasses two elements: a cash commission and a bonus share. The composition of the bonus share may include General Partner (GP) shares or Management Common shares, subject to variations based on specific project parameters. The Financial Advisor who successfully concludes a transaction shall retain the entirety of the cash commission. Nevertheless, they are contractually obligated to distribute half of the bonus share to the Financial Advisor who facilitated their introduction to COSTONE GROUP.
-
-To illustrate, consider the scenario where Alice, a Financial Advisor, successfully refers Cindy, another Financial Advisor, to the COSTONE GROUP funding network. Subsequently, Cindy executes a transaction that yields a 4% cash commission and 1% in Bonus General Partner (GP) shares associated with the project. While Cindy is entitled to the full 4% cash commission, she is contractually bound to transfer 0.5% of her Bonus General Partner (GP) shares from the project to Alice, in recognition of Alice's referral role in her induction into the funding network.
+COSTONE GROUP values the contribution of individuals who assist in recruiting high-performance Financial Advisors and is committed to rewarding such efforts that facilitate the expansion of our funding network. The forms of bonuses for facilitating Financial Advisor recruitment are subject to variation from time to time and depend on the specifics of each distinct product.
 
 ## Confidentiality
 
@@ -134,7 +134,8 @@ The Financial Advisor agrees to maintain the confidentiality of all proprietary 
 The Financial Advisor shall act as an independent contractor and not as an employee, agent, partner, or joint venturer of COSTONE GROUP. Nothing in this Agreement shall be interpreted as creating an employment relationship between COSTONE GROUP and the Financial Advisor.
 
 ## Term and Termination
-This Agreement shall commence on the date of signing and continue until terminated by either party with thirty (30) days written notice. Either party may terminate this Agreement immediately for cause.
+
+The Agreement shall commence upon the date of execution and shall continue in effect until either 1) the lapse of one calendar year from the date of signing, or 2) its termination by either party upon providing thirty (30) days' written notice. Furthermore, either party retains the right to terminate this Agreement.
 
 ## Governing Law
 
@@ -150,7 +151,7 @@ This Agreement constitutes the entire agreement between the parties and supersed
 
 ## Amendment
 
-No amendment to this Agreement shall be effective unless it is in writing and signed by both parties.
+Amendments are anticipated to be appended to this Framework Agreement, detailing specific compensation packages for the fundraising activities conducted by financial advisors for various projects. No amendment to this Agreement shall be deemed effective unless it is executed in writing and duly signed by both parties.
 
 ## Severability
 
@@ -162,3 +163,18 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the la
 Financial Advisor's Signature: ___________________________ Date: _______________
 
 For COSTONE GROUP: __________________________________ Date: _______________
+
+
+
+
+
+
+
+
+
+
+ Share => Move to Amendament
+
+COSTONE GROUP values the contribution of individuals who assist in recruiting high-performance Financial Advisors and is committed to rewarding such efforts that facilitate the expansion of our funding network. The compensation structure for fundraising endeavors typically encompasses two elements: a cash commission and a bonus share. The composition of the bonus share may include General Partner (GP) shares or Management Common shares, subject to variations based on specific project parameters. The Financial Advisor who successfully concludes a transaction shall retain the entirety of the cash commission. Nevertheless, they are contractually obligated to distribute half of the bonus share to the Financial Advisor who facilitated their introduction to COSTONE GROUP.
+
+To illustrate, consider the scenario where Alice, a Financial Advisor, successfully refers Cindy, another Financial Advisor, to the COSTONE GROUP funding network. Subsequently, Cindy executes a transaction that yields a 4% cash commission and 1% in Bonus General Partner (GP) shares associated with the project. While Cindy is entitled to the full 4% cash commission, she is contractually bound to transfer 0.5% of her Bonus General Partner (GP) shares from the project to Alice, in recognition of Alice's referral role in her induction into the funding network.
