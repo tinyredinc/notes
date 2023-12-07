@@ -15,7 +15,7 @@ sudo apache2ctl configtest
 # reload config
 sudo systemctl reload apache2
 
-#restart service
+# restart service
 sudo systemctl restart apache2
 ```
 
