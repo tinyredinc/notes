@@ -284,10 +284,14 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
 ## CoFund Team (Page 4) /team
 
-- Fund Executives + Bio
-- Affiliated Organization Executives + Bio
-- Independent Board Members + Bio
-- Partnerships
+- Executive Team
+  ```
+  Name: 
+  
+  Title: 
+  Bio: 
+  
+  ```
 
 ## Investment Solutions (Page 5) /solutions
 
