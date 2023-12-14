@@ -284,14 +284,68 @@ CoFund的价值观核心是公开透明、数据驱动及保持专业。我们�
 
 ## CoFund Team (Page 4) /team
 
-- Executive Team
-  ```
-  Name: 
-  
-  Title: 
-  Bio: 
-  
-  ```
+```
+ERIC YU
+President
+
+Eric Yu, the President of CoFund, is a seasoned professional with decades of experience in the real estate industry. As the founding director of CoStone Group, he has honed his expertise in real estate acquisition, development, and construction. His leadership and innovative approach in the field have been recognized with several accolades, including the 2019 Outstanding Contribution Award for Sino-Canada Urban Development at the Sci Innovation Festival and the 2022 Business Leadership Award from Fairchild TV. Prior to his current role, Eric served as the President of Landeal Developments, where he made significant contributions to the company's growth and success.
+
+At CoFund, Eric's role is pivotal in shaping the company's future. He is responsible for developing and implementing long-term strategies that align with the firm's vision and objectives in managing Real Estate Investment Funds. His expertise in partner relationship management and talent cultivation is crucial in building a strong, cohesive team and fostering successful collaborations within the industry. Eric's comprehensive understanding of the real estate sector, combined with his strategic approach, ensures that CoFund remains at the forefront of innovation and growth in real estate investment fund management.
+```
+
+```
+JOEL ETIENNE
+General Counsel
+
+Joel Etienne brings an impressive blend of legal expertise and real-world experience to his role as General Counsel at CoFund. His legal career began in New Brunswick, where he pursued his studies at the University of Montreal, culminating in a law degree from the University of Moncton Faculty of Law in 1999. Over the past 20 years, Joel has mastered the intricacies of criminal litigation and regulatory law. His commitment to legal education is evident from his frequent appearances on CBC Radio and Television, where he elucidates various aspects of litigation. In 2012, he co-founded EME Professional Corp, demonstrating his prowess as a skilled, trial-tested lawyer. Joel's multilingual capabilities in French, English, and Spanish, along with his role as a father of two, reflect his personal dedication and versatility.
+
+Within CoFund, Joel's role as General Counsel is integral to the company's success in managing Real Estate Investment Funds. His extensive experience in litigation, particularly in areas pertinent to real estate such as development, condo building, and construction law, ensures that CoFund's legal affairs are managed with the utmost proficiency and strategic insight. Joel is adept at navigating complex legal landscapes, which is crucial in overseeing multi-million dollar transactions and high-stakes negotiations inherent in the real estate investment sector. His ability to coordinate with global legal teams and manage intricate multi-jurisdictional cases positions CoFund to excel in its endeavors while upholding the highest standards of legal compliance and risk management.
+```
+
+```
+RICHARD RAMOS
+VP, Development
+
+Richard Ramos, as the Vice President of Development at CoFund, brings over 25 years of rich experience in construction management and land development. His journey in the industry is marked by significant roles, including extensive work as a senior architectural consultant and planner. Richard's expertise is not just limited to planning and development; he has also contributed to the field as an examiner for the Ontario Building Code, showcasing his in-depth understanding of industry standards and regulations. This combination of hands-on experience and regulatory knowledge makes him an invaluable asset in the realm of real estate development.
+
+At CoFund, Richard's responsibilities are crucial for the success of the company's real estate investment funds. He oversees the entire development and construction process, ensuring that projects are not only compliant with the highest standards but also align with CoFund's strategic objectives. His role involves meticulous project management, from initial planning stages through to completion, guaranteeing that each project contributes optimally to the overall portfolio. Richard's ability to manage complex development projects is essential in driving CoFund’s growth and maintaining its reputation as a leader in real estate investment fund management.
+```
+
+```
+STEVEN AQUINO
+VP, Construction
+
+Steven Aquino, Vice President of Construction at CoFund, is a seasoned professional with over 25 years of experience in Industrial, Commercial, and Institutional (ICI) construction. His career trajectory includes significant leadership roles, culminating in his position as Chief Executive Officer of Corebuild Construction in 2019. Prior to this, Steven demonstrated his expertise and leadership skills as a Director of Operations, Vice President, and President of a successful general contracting company. His commitment to high-quality business ethics and professionalism has been a constant throughout his career. A graduate of civil engineering from the University of Toronto, Steven has also played an active role in various business and community organizations, reflecting his dedication to both his profession and his community.
+
+At CoFund, Steven is instrumental in shaping the construction aspect of the real estate investment funds. He is responsible for setting both short-term and long-term goals, aligning construction projects with CoFund’s overall corporate objectives. Steven's active involvement in each project ensures that all construction activities adhere to the highest standards of quality and efficiency. His leadership and management skills are key in driving the success of CoFund's construction ventures, ensuring that the projects not only meet but exceed expectations, thereby contributing significantly to the company's growth and reputation in the real estate investment fund industry.
+```
+
+```
+SAMUEL ZHANG
+VP, Technology
+
+Samuel Zhang, Vice President of Technology at CoFund, is a gifted critical thinker and a seasoned technology leader, known for his exceptional analytical and learning abilities. With over a decade of experience in the technology industry, Sam has developed a profound expertise in designing, developing, and implementing enterprise software solutions, particularly for the banking and real estate sectors. His career has been marked by significant leadership roles, including serving as the CIO at CoStone Group, CTO at Keller Williams TeamLeads, CEO at SideAI Technology, and VP of Technology at EQ Consulting. In these positions, he has demonstrated a keen understanding of finance, real estate, and construction materials, alongside his skills in project planning, team management, and people cultivation.
+
+At CoFund, Sam's primary responsibilities encompass data and market research, as well as the implementation of technology solutions. His role is crucial in leveraging technology to enhance the company’s real estate investment fund management. Sam spearheads initiatives to analyze market trends and gather valuable data, providing CoFund with insights that drive strategic investment decisions. Additionally, his responsibility for technology implementation ensures that CoFund utilizes the most advanced and efficient tools and systems, keeping the company at the forefront of innovation in real estate investment. Sam's unique blend of skills and experiences makes him a vital asset to CoFund, ensuring the company remains competitive and successful in its operations.
+```
+
+```
+PETER ZIVONTSIS
+VP, Real Estate Finance
+
+Peter Zivontsis, as the Vice President of Real Estate Finance at CoFund, brings an exceptional depth of experience with over 25 years in commercial lending, financing, and real estate consulting across Canada. His areas of expertise are diverse, encompassing construction and project financing, land and site servicing, as well as investment and income properties, including specialty purpose properties. Peter's credentials include being a Licensed Mortgage Broker and the Broker of Record for Business Financial Mortgage Corp. (FSRA #13021), a company he owns and founded in 2018. His journey in the real estate domain began in 1989 as a Commercial Real Estate Agent, evolving significantly over the years. Peter also founded Business Financial & Realty Corp. in 2003 and has been a Registered Mortgage Agent since 2013.
+
+At CoFund, Peter’s responsibilities are integral to the company's focus on managing Real Estate Investment Funds. He oversees the financial aspects of real estate transactions, applying his extensive knowledge to the financing of construction projects, land development, and the acquisition of income-generating properties. His expertise is crucial in strategizing financial solutions for CoFund's diverse portfolio, ensuring the profitability and strategic growth of investments. Peter's comprehensive understanding of the financial and real estate markets is a key asset in guiding CoFund through the complexities of real estate finance, contributing to the firm's success and reputation in the investment fund industry.
+```
+
+```
+DAISY TANG, CPA
+Financial Controller
+
+Daisy Tang, serving as the Financial Controller at CoFund, brings over 14 years of rich experience in financial accounting, assurance, and tax. Her career is distinguished by a versatile skill set that includes a decade of teaching accounting courses and software, demonstrating her profound knowledge and ability to impart financial wisdom. Daisy's expertise extends to budget planning, risk control, cost management, payroll, and the development of metrics and reporting systems. Her approach is results-driven, a testament to her commitment to optimizing organizational efficiency and financial accuracy. This blend of hands-on experience and educational prowess has established Daisy as a key player in the realm of financial management.
+
+In her role at CoFund, Daisy's responsibilities are vital to the management of Real Estate Investment Funds. She oversees the financial operations of the company, ensuring precision in budgeting, effective risk management, and meticulous cost control. Her role in managing payroll and developing comprehensive metrics and reports is crucial for the transparency and efficiency of the company’s financial health. Daisy's expertise in streamlining operational processes underpins CoFund's ability to make informed investment decisions, thereby enhancing the overall success and sustainability of the investment funds under management.
+```
 
 ## Investment Solutions (Page 5) /solutions
 
