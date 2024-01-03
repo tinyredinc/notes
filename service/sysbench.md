@@ -177,3 +177,33 @@ Throughput:
     written, MiB/s:               1615.10
 
 ```
+
+## MYSQL READ/WRITE
+
+```
+CREATE SCHEMA `sbtest` ;
+
+sysbench --threads=64 --table_size=1000000 --tables=8 --mysql-host='' --mysql-user='' --mysql-password='' oltp_read_write prepare
+
+sysbench --threads=64 --table_size=1000000 --tables=8 --mysql-host='' --mysql-user='' --mysql-password='' oltp_read_write run
+
+sysbench --threads=64 --table_size=1000000 --tables=8 --mysql-host='' --mysql-user='' --mysql-password='' oltp_read_write cleanup
+```
+- Reference result for the E5-2666v3 (10 cores, 20 threads), with 64GB DDR3 ECC RAM at 1866MHz and a 512GB NVMe SSD
+```
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 64
+
+SQL statistics:
+    queries performed:
+        read:                            571228
+        write:                           163208
+        other:                           81604
+        total:                           816040
+    transactions:                        40802  (4050.74 per sec.)
+    queries:                             816040 (81014.78 per sec.)
+    ignored errors:                      0      (0.00 per sec.)
+    reconnects:                          0      (0.00 per sec.)
+```
