@@ -27,14 +27,7 @@ sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
 
 Running the test with following options:
 Number of threads: 1
-Initializing random number generator from current time
-
-
 Prime numbers limit: 10000
-
-Initializing worker threads...
-
-Threads started!
 
 CPU speed:
     events per second:  1125.14
@@ -42,18 +35,6 @@ CPU speed:
 General statistics:
     total time:                          10.0007s
     total number of events:              11255
-
-Latency (ms):
-         min:                                    0.88
-         avg:                                    0.89
-         max:                                    2.58
-         95th percentile:                        0.90
-         sum:                                 9999.04
-
-Threads fairness:
-    events (avg/stddev):           11255.0000/0.00
-    execution time (avg/stddev):   9.9990/0.00
-
 ```
 
 ### MULTITHREADS
@@ -69,14 +50,7 @@ sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
 
 Running the test with following options:
 Number of threads: 20
-Initializing random number generator from current time
-
-
 Prime numbers limit: 10000
-
-Initializing worker threads...
-
-Threads started!
 
 CPU speed:
     events per second: 15793.27
@@ -84,18 +58,6 @@ CPU speed:
 General statistics:
     total time:                          10.0011s
     total number of events:              157975
-
-Latency (ms):
-         min:                                    1.05
-         avg:                                    1.27
-         max:                                   10.05
-         95th percentile:                        1.27
-         sum:                               199972.46
-
-Threads fairness:
-    events (avg/stddev):           7898.7500/17.96
-    execution time (avg/stddev):   9.9986/0.00
-
 ```
 
 ## MEMORY BENCHMARK
@@ -112,39 +74,13 @@ sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
 
 Running the test with following options:
 Number of threads: 20
-Initializing random number generator from current time
-
-
-Running memory speed test with the following options:
-  block size: 1KiB
-  total size: 524288MiB
-  operation: read
-  scope: global
-
-Initializing worker threads...
-
-Threads started!
+block size: 1KiB
+total size: 524288MiB
+operation: read
+scope: global
 
 Total operations: 536870900 (95827999.02 per second)
-
 524287.99 MiB transferred (93582.03 MiB/sec)
-
-
-General statistics:
-    total time:                          5.5987s
-    total number of events:              536870900
-
-Latency (ms):
-         min:                                    0.00
-         avg:                                    0.00
-         max:                                    1.37
-         95th percentile:                        0.00
-         sum:                                35569.52
-
-Threads fairness:
-    events (avg/stddev):           26843545.0000/0.00
-    execution time (avg/stddev):   1.7785/0.01
-
 ```
 
 ### MEMORY WRITE
@@ -160,37 +96,84 @@ sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
 
 Running the test with following options:
 Number of threads: 20
-Initializing random number generator from current time
-
-
-Running memory speed test with the following options:
-  block size: 1KiB
-  total size: 524288MiB
-  operation: write
-  scope: global
-
-Initializing worker threads...
-
-Threads started!
+block size: 1KiB
+total size: 524288MiB
+operation: write
+scope: global
 
 Total operations: 172613733 (17258186.48 per second)
-
 168568.10 MiB transferred (16853.70 MiB/sec)
+```
 
+## DISK BENCHMARK
 
-General statistics:
-    total time:                          10.0001s
-    total number of events:              172613733
+### DISK SEQ READ/WRITE
 
-Latency (ms):
-         min:                                    0.00
-         avg:                                    0.00
-         max:                                   10.89
-         95th percentile:                        0.00
-         sum:                               173725.36
+```
+sysbench --threads=20 --file-total-size=8G --file-num=1 --file-block-size=16K fileio prepare
 
-Threads fairness:
-    events (avg/stddev):           8630686.6500/93153.38
-    execution time (avg/stddev):   8.6863/0.03
+sysbench --threads=20 --file-total-size=8G --file-num=1 --file-block-size=16K --file-fsync-freq=0 --file-test-mode=seqrd fileio run
+sysbench --threads=20 --file-total-size=8G --file-num=1 --file-block-size=16K --file-fsync-freq=0 --file-test-mode=seqwr fileio run
+
+sysbench --threads=20 --file-total-size=8G --file-num=1 --file-block-size=16K fileio cleanup
+```
+
+- Reference result for the E5-2666v3 (10 cores, 20 threads), with 64GB DDR3 ECC RAM at 1866MHz and a 512GB NVMe SSD
+
+```
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 20
+1 files, 8GiB each
+8GiB total file size
+Block size 16KiB
+Calling fsync() at the end of test, Enabled.
+Using synchronous I/O mode
+
+File operations:
+    reads/s:                      1482339.01
+    writes/s:                     79356.41
+    fsyncs/s:                     1.52
+
+Throughput:
+    read, MiB/s:                  23161.55
+    written, MiB/s:               1239.94
+```
+
+### DISK RND READ/WRITE
+
+```
+sysbench --threads=20 --file-total-size=8G --file-num=128 --file-block-size=4K fileio prepare
+
+sysbench --threads=20 --file-total-size=8G --file-num=128 --file-block-size=4K --file-fsync-freq=0 --file-test-mode=rndrw fileio run
+
+sysbench --threads=20 --file-total-size=8G --file-num=128 --file-block-size=4K fileio cleanup
+```
+
+- Reference result for the E5-2666v3 (10 cores, 20 threads), with 64GB DDR3 ECC RAM at 1866MHz and a 512GB NVMe SSD
+
+```
+sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 20
+128 files, 64MiB each
+8GiB total file size
+Block size 4KiB
+Number of IO requests: 0
+Read/Write ratio for combined random IO test: 1.50
+Calling fsync() at the end of test, Enabled.
+Using synchronous I/O mode
+Doing random r/w test
+
+File operations:
+    reads/s:                      620197.28
+    writes/s:                     413464.85
+    fsyncs/s:                     182.83
+
+Throughput:
+    read, MiB/s:                  2422.65
+    written, MiB/s:               1615.10
 
 ```
