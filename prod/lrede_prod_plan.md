@@ -22,4 +22,8 @@ The engine comprises six major engines/components, each serving a different func
     - The Neural Network Engine leverages deep learning models trained with an extensive amount of historical data from the data warehouse and facilitates advanced data analysis using cutting-edge AI approaches for functionalities like future prediction and value assessment. The forecasting models, designed for trend prediction, are built on hybrid-tuned Multivariate Recurrent Neural Networks. The appraisal models, designed for value assessment, are built on hybrid-tuned Multilayer Perceptrons.
 
 - Data Maintenance Engine
-    - The Maintenance Engine archives deprecated data to improve efficiency, resyncs corrupted data through ETL jobs, constructs memory caches for both frequently accessed ('hot') data and complex report inquiries, and performs data backups to both local and remote locations for disaster recovery.
+    - The Maintenance Engine archives deprecated data to improve efficiency, resyncs corrupted data through ETL jobs, constructs memory caches for both frequently accessed ('hot') data and complex report ainquiries, and performs data backups to both local and remote locations for disaster recovery.
+
+- Application API Engine
+    - The Application API Engine, a RESTful API framework, is designed to allow applications to access LREDE™'s internal components, including the Data Warehouse, Analytics, and Neural Network Engines. This facilitates the development of a wide range of applications, each with its own unique and complex business logic, leveraging a robust infrastructure of data, analytics, and AI.
+
