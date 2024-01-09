@@ -74,7 +74,34 @@ Positive prompt: 1girl, black eyes, blurry background, blurry foreground, depth 
 Negative prompt: disfigured, ugly, bad, immature
 Steps: 35, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 4219467701, Size: 1024x683, Model hash: 59ffe2243a, Model: Chilloutmix-Ni-pruned-fp16-fix, Denoising strength: 0.75, ControlNet 0: "Module: dw_openpose_full, Model: control_v11p_sd15_openpose [cab727d4], Weight: 1, Resize Mode: Crop and Resize, Low Vram: False, Processor Res: 512, Guidance Start: 0, Guidance End: 1, Pixel Perfect: True, Control Mode: Balanced, Save Detected Map: True", Lora hashes: "JapaneseDollLikeness_v15: 50b3f6a2ecf7", Version: v1.6.1
 ```
-![REIF STRUCTURE](img/controlnet_openpose_demo.jpg)
+![REIF STRUCTURE](img/controlnet_openpose_demo1.jpg)
 ![REIF STRUCTURE](img/controlnet_openpose_demo2.png)
 ![REIF STRUCTURE](img/controlnet_openpose_demo3.png)
 
+## Use Case 2 - Upscale with detail
+
+Stable Diffusion checkpoint: dreamshaper_8.safetensors [879db523c3]
+
+img2img
+- Sampling steps: 50
+- CFG Scale: 7 (6 ~ 8)
+- Denoising strength: 0.3 (0.2 ~ 0.5)
+
+ControlNet
+- Control Type: Tile/Blur
+- Preprocessor: tile_resample
+- Model: control_v11f1e_sd15_tile
+- Control Mode: ControlNet is more important
+
+Script
+- Script: Ultimate SD Upscale
+- Target size type: Scale from image size
+- Scale: 4
+- Upscaler: 4xUltrasharp
+- Tile width: 512
+
+Comparisons: [Original] VS [R-ESRGAN] VS [ControlNet]
+
+![REIF STRUCTURE](img/controlnet_upscale_demo1.png)
+![REIF STRUCTURE](img/controlnet_upscale_demo2.png)
+![REIF STRUCTURE](img/controlnet_upscale_demo3.png)
