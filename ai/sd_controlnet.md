@@ -105,3 +105,24 @@ Comparisons: [Original] VS [R-ESRGAN] VS [ControlNet]
 ![REIF STRUCTURE](img/controlnet_upscale_demo1.png)
 ![REIF STRUCTURE](img/controlnet_upscale_demo2.png)
 ![REIF STRUCTURE](img/controlnet_upscale_demo3.png)
+
+
+## Use Case 3 - Sketch to Rendering
+
+Stable Diffusion checkpoint: dreamshaper_8.safetensors [879db523c3]
+
+Positive prompt: architecture, building, 3d rendering,(tree:0.5), bush plants, modern style, sunshine, clear sky, ultra detailed, panel garage door
+
+img2img
+- Sampling steps: 40
+- CFG Scale: 7
+- Denoising strength: 0.75
+
+ControlNet
+- Control Type: Lineart
+- Preprocessor: lineart_standard
+- Model: control_v11p_sd15_lineart
+- Control Mode: Balanced
+
+![REIF STRUCTURE](img/controlnet_rendering_demo1.jpg)
+![REIF STRUCTURE](img/controlnet_rendering_demo2.png)
