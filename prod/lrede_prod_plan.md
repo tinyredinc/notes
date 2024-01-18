@@ -66,7 +66,7 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 ### GemHunt Realty™
 
 - Description
-    - The next-generation property search site, powered by AI, that enables consumers to find properties listed below their actual value, a feature we call "Gem Hunt".
+    - The next-generation property search site, powered by AI, enables consumers to find properties listed below their actual value, a feature we call "Gem Hunt".
 
 - Highlight Feature
 
@@ -81,5 +81,5 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 - Business Model
     - Consumer User: Free to use
     - Business User
-        - Advertising space bidding
-        - Pre-qualified leads Referral
+        - Lead Generation, advertising space bidding
+        - Lead Referral, pre-qualified lead refering
