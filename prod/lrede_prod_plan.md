@@ -34,9 +34,11 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 ### Future Analytics™
 
 - Description
+
     - Future Analytics provides comprehensive data for analyzing the real estate market, enabling you to study past patterns, understand current dynamics, and predict future trends. The data, presented in a visually intuitive format, include not only direct real estate market information (such as transactions and supply and demand metrics), but also indirect factors that influence the market (such as mortgage and exchange rates, construction material indices, and economic indicators). 
 
 - Highlight Feature
+
     - AI Trend Prediction: Powered by the LREDE™ Neural Network Engine, this feature utilizes RNN models to predict future trends in real estate market metrics. The design benchmarks, established using 10 years of historical data, are detailed as follows:
       | Forecast Period | Accuracy |
       | --- | --- |
@@ -47,9 +49,11 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
     - AI Appraisal Report: Powered by the LREDE™ Neural Network Engine, this feature utilizes MLP models to estimate property value and generate appraisal reports. The design benchmark, based on tests using recent 1 year of transactions, is ± 10% accuracy.
 
 - Target Customer
+
     - Professionals and agencies involved in real estate investment, such as developers, land bankers, realtors, market researchers, and high-net-worth individuals.
 
 - Business Model
+
     - Subscription Fee:  Each user will purchase their account for a fixed monthly fee. 
     - Enterprise Customization: Customized reports and neural network models based on specific requirements.
 
@@ -66,6 +70,7 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 ### GemHunt Realty™
 
 - Description
+
     - The next-generation property search site, powered by AI, enables consumers to find properties listed below their actual value, a feature we call "Gem Hunt".
 
 - Highlight Feature
@@ -75,10 +80,12 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
     - Tender Marker: This feature identifies properties listed for sale by tender, meaning they are listed without a set price or at a price significantly below market value, thereby inviting buyers to submit their bids (tenders). Tender Marker tags properties declared for sale by tender and also flags listing brokers who have frequently employed this strategy in the past, as determined by algorithms. These listings can be filtered using the Gem Hunt Search.
     
 - Target Customer
+
     - Consumer User: Home Buyer and Sellers
     - Business User: Real Estate Agency
     
 - Business Model
+
     - Consumer User: Free to use
     - Business User
         - Lead Generation, advertising space bidding
