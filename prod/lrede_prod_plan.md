@@ -86,7 +86,12 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
     
 - Business Model
 
-    - Consumer User: Free to use
-    - Business User
+    - Consumer User: Free for registered user
+    - Business User:
         - Lead Generation, advertising space bidding
         - Lead Referral, pre-qualified lead refering
+
+
+- User Scenarios
+
+    - Consumer User: Search for properties within their budget and designated area as usual. The Gem Rating provides significant upfront value, helping consumers find the best deals available on the market. 
