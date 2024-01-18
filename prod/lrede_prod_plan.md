@@ -7,7 +7,7 @@ LREDE™ comprises a series of engines and products designed to empower the real
 
 ## LREDE™ - Legend Real Estate Data Engine
 
-The engine comprises six major engines/components, each serving a different functionality:
+The LREDE™ infrastructure comprises six major engines/components, each serving a different functionality:
 
 - Universal ETL Engine
     - Universal ETL acts as a gateway to various data vendors, synchronizing data in real-time. This includes, but is not limited to, demographic and economic data from Statistics Canada, real estate market data from various Regional Real Estate Boards, and financial data from Bloomberg and Reuters.

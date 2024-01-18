@@ -126,3 +126,21 @@ ControlNet
 
 ![REIF STRUCTURE](img/controlnet_rendering_demo1.jpg)
 ![REIF STRUCTURE](img/controlnet_rendering_demo2.png)
+
+Stable Diffusion checkpoint: photoRealV15_photorealv21.safetensors [5250136ce9]
+
+Positive prompt: building, crosswalk, street, city, cityscape,sunny sky, day, sunshine outdoors,  photo realistic, 3D rendering
+
+txt2img
+- Sampling steps: 30
+- CFG Scale: 8
+- Denoising strength: 0.75
+
+ControlNet
+- Control Type: Lineart
+- Preprocessor: lineart_standard
+- Model: control_v11p_sd15_lineart
+- Control Mode: Balanced
+
+![REIF STRUCTURE](img/controlnet_rendering_demo3.png)
+![REIF STRUCTURE](img/controlnet_rendering_demo4.png)
