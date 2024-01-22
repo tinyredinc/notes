@@ -108,6 +108,15 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 
     - Business User: Users have the ability to bid for advertising space targeted at specific municipalities and property types (such as Richmond Hill Townhouse/Detached or Toronto C01 Condo). Their advertisements will appear on the relevant property detail pages. Additionally, users can apply to become affiliated professionals. Once approved, they are eligible to receive pre-qualified referrals from GemHunt Realty.
 
+### ForSales CRM™
+
+- Description
+    - A lean design CRM specialized for low frequency but high net worth sales, for example, real estate transactions. With the shared LREDE™ Infrastructure, Leads generated from GemHunt Realty™ can sealessly flow into ForSales CRM™.
+
+- Highlight
+    - Sales Pipeline: 
+
+
 
 ## System Architecture
 
@@ -137,3 +146,51 @@ The LREDE™ infrastructure comprises six major engines/components, each serving
 
 ## SWOT Analysis
 
+- Strengths
+
+    - Advanced Technology: The utilization of sophisticated data analytics and AI technology provides a very strong competitive advantage in terms of product features.
+
+    - Experienced Team: The team's diverse expertise encompasses all the necessary knowledge and experience to successfully deliver such a suite of products.
+
+    - Robust Infrastructure: The system architecture is thoughtfully designed for future growth, focusing not only on the development of features and products but also on scalability.
+
+- Weaknesses
+
+    - Research Nature: Employing cutting-edge AI technology involves scientific research and experimental development, which means there is no certainty about the performance of AI models. They may either exceed or fall short of the design benchmarks.
+
+    - Marketing Challenge: The core team is heavily tech-oriented and lacks individuals with hands-on experience in promoting and marketing the product.
+
+    - Resource Intensive: For startups, the maintenance of a complex enterprise system, which includes multiple products and hundreds of features, can be both technically challenging and resource-intensive.
+
+- Opportunities
+
+    - High Value-Added: Real estate is one of the industries with the highest value addition, where new technology products can easily justify their value, far surpassing the cost.
+
+    - Growing Market: The GTA region has experienced steady growth in both population and economy over the past 50 years, ensuring a long-term market boom in real estate.
+
+    - Horizontal Expansion: The business model and software system can be replicated in other growing cities and regions, as long as they have reliable data vendors such as regional MLS.
+
+
+- Threats
+
+    - Intense Competition: The real estate technology sector is highly competitive, with sufficient capital supporting both new and established players to continuously innovate.
+
+    - Market Volatility: The real estate market is subject to economic cycles and transaction volume fluctuates from time to time, which can impact the demand for LREDE™ products.
+
+    - Privacy and Regulatory: The LREDE™ infrastructure handles large volumes of sensitive data for both end-users and the market. Changes in regulatory or compliance requirements can significantly impact the operational feasibility of LREDE™.
+
+## Equity Financing
+
+- Investment Requirement: 1.2 Million
+- Equity Offering: 20%
+- Post-money Valuation: 6.0 Million
+
+The fund will be used to support the product's research and development for one year, with over 80% allocated to R&D-related expenses. This includes the costs associated with a full-stack engineering team, consulting fees from external experts, and the required R&D infrastructure, such as office development servers, cloud computing resources, and staff laptops:
+
+| Allocation | Purpose |
+| --- | --- |
+| 60% | Employee Cost (R&D) |
+| 15% | Consulting Cost (R&D) |
+| 10% | Infrastructure Cost (R&D) |
+| 10% | Office Cost |
+| 5% | Other Cost |
