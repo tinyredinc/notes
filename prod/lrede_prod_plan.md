@@ -58,7 +58,7 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 
 - Target Customer
 
-    - Professionals and agencies involved in real estate investment, such as developers, land bankers, realtors, market researchers, and high-net-worth individuals.
+    - Professionals and agencies involved in real estate investment, such as developers, land bankers, realtors, market researchers, lenders and wealthy individuals.
 
 - Business Model
 
@@ -92,7 +92,7 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 - Target Customer
 
     - Consumer User: Home Buyer and Sellers
-    - Business User: Real Estate Agency
+    - Business User: Real Estate Agent, Mortgate Broker
     
 - Business Model
 
@@ -111,11 +111,26 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 ### ForSales CRM™
 
 - Description
-    - A lean design CRM specialized for low frequency but high net worth sales, for example, real estate transactions. With the shared LREDE™ Infrastructure, Leads generated from GemHunt Realty™ can sealessly flow into ForSales CRM™.
+
+    - A lean CRM specialized for low frequency but high net worth sales scenarios, such as real estate transactions. With the shared LREDE™ Infrastructure, leads generated from GemHunt Realty™ can sealessly flow into ForSales CRM™.
 
 - Highlight
-    - Sales Pipeline: 
 
+    - Lean Design: Modern CRMs are often overly complex, requiring 2-4 hours of initial training, followed by weeks or even months for complete adaptation. Lean Design approach prioritizes user experience, ensuring an optimal learning curve. Users can confidently start using the system after a brief 10-minute training session.
+
+    - Sales Pipeline: ForSales CRM™ is designed for sales and for sales only. With built-in lead stages, users can implement sales models like MREA and focus on the execution of a systematic conversion pipeline.
+
+    - Seamless Integration: For business users of GemHunt Realty™, ForSales CRM™ is the ideal solution for follow-up and conversion. As both products are designed and developed by the same team, they collaborate seamlessly, ensuring a smooth and efficient user experience.
+
+- Target Customer
+
+    - Real Estate Agent, Mortgate Broker
+    - Users with other low frequency but high net worth sales scenarios
+
+- Business Model
+
+    - Subscription Fee: A fixed monthly fee is charged per team, per account.
+    - Bundle Package: Available as a bundled offering with GemHunt Realty™.
 
 
 ## System Architecture
