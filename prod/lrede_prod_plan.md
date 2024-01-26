@@ -40,7 +40,7 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 
 - Highlight
 
-    - Data Analytics: The data from various vendors, presented in a visually intuitive format, include not only real estate market data (such as transactions and supply and demand metrics), but also indirect factors that influence the market (such as mortgage and exchange rates, construction material and cost indices, and economic indicators). 
+    - Data Analytics: The data from various vendors, presented in a visually intuitive format, include not only real estate market data (such as transactions and supply and demand metrics), but also indirect factors that influence the market (such as interest rates and exchange rates, construction material and labour cost indices, and economic indicators). 
 
     - AI Trend Prediction: Powered by the LREDE™ Neural Network Engine, this feature utilizes RNN models to predict future trends in real estate market metrics. The design benchmarks, established using 10 years of historical data, are detailed as follows*:
       | Forecast Period | Accuracy |
@@ -92,7 +92,7 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 - Target Customer
 
     - Consumer User: Home Buyer and Sellers
-    - Business User: Real Estate Agent, Mortgate Broker
+    - Business User: Real Estate Agent, Mortgage Broker
     
 - Business Model
 
@@ -124,7 +124,7 @@ LREDE™ applications, built on the LREDE™ infrastructure, offer a diverse set
 
 - Target Customer
 
-    - Real Estate Agent, Mortgate Broker
+    - Real Estate Agent, Mortgage Broker
     - Users with other low frequency but high net worth sales scenarios
 
 - Business Model
