@@ -166,7 +166,7 @@ Significant decisions include:
 
 The Fund is committed to constructing a diversified portfolio of real estate investments, concentrating on mortgage and equity investments in income-generating properties, including but not limited to student residences, rental apartments, and affordable housing, which possess development potential within Toronto and Ontario.
 
-- Approximately 30-60% of the Assets Under Management (AUM) shall be allocated to Mortgage Investments.
+- Approximately 30-60% of the AUM shall be allocated to Mortgage Investments.
 - Approximately 30-60% of the AUM shall be allocated to the Equity of Income-Generating Properties.
 - Approximately 10-20% shall be maintained as cash or cash equivalents.
 
