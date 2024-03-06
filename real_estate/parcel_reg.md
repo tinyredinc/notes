@@ -4,10 +4,10 @@ Parcel Register provides accurate, complete, and current registered data as it r
 
 Through a Parcel Register* you can view a property’s:
 
-- PIN, The Property Information Number is a unique nine-digit number assigned to each property, consisting of a five-digit block number and a four-digit property number
+- PIN(Property Information Number), unique identifier of property in POLARIS, five-digit block number + four-digit property number
 - Legal description
 - Current ownership and share percentage
-- history of charges, transfers, discharges, and documents registered against the property.
+- History of transfers, charges, discharges, and documents registered against the property.
 
 
 ## The Solution Provider - Teranet
@@ -17,7 +17,9 @@ Teranet, the operator of both Geowarehouse and OnLand, was established in 1991. 
 
 ## The Amount $2 Dollars
 
-The nominal amount of $2 is often used in legal documents not to signify a transaction amount but as a token consideration to satisfy legal requirements for a contract or agreement to be valid. Typical use cases can be:
-- transferring assets or shares within affiliated companies without actual payment
-- granting easements, rights of way, or in certain licensing or servicing agreements.
-- 
+In English law, as well as in other jurisdictions with similar common law systems, a legal contract requires that each party provide consideration. The nominal amount of $2 is often used in legal documents, not to signify the value of a transaction, but as token consideration to satisfy the legal requirements for a contract or agreement to be valid. Common applications include:
+
+- Granting easements, rights of way, or in specific licensing or service agreements.
+- Transferring assets or shares within affiliated companies without a real exchange of money.
+- Also seen in peppercorn leases, settlement agreements, and transfers among family members.
+
