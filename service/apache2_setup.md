@@ -46,44 +46,100 @@ sudo systemctl restart apache2
 ## VHOST CONFIG
 
 - EXAMPLE HTTP/HTTPS VHOST CONFIG
-- /etc/apache2/sites-available/fs.sideai.com.conf
+- /etc/apache2/sites-available/example.com.conf
 
 ```
 <VirtualHost *:80>
-	ServerAdmin admin@sideai.com
-	ServerName fs.sideai.com
+
+	# Domain Configuration
+	ServerAdmin admin@example.com
+	ServerName example.com
 	#ServerAlias www.example.com
+
+	# Directory Configuration
 	DocumentRoot /var/www/test
 	<Directory /var/www/test>
 		Options Indexes FollowSymLinks
 		AllowOverride All
 		Require all granted
 	</Directory>
-	ErrorLog ${APACHE_LOG_DIR}/fs.sideai.com.error.log
-	CustomLog ${APACHE_LOG_DIR}/fs.sideai.com.access.log combined
 	<IfModule mod_dir.c>
 		DirectoryIndex index.php index.html
 	</IfModule>
+	
+	# Log Configuration
+	ErrorLog ${APACHE_LOG_DIR}/example.com.http.error.log
+	CustomLog ${APACHE_LOG_DIR}/example.com.http.access.log combined
+
 </VirtualHost>
 ```
 ```
 <VirtualHost *:443>
-	SSLEngine on
-	SSLCertificateKeyFile /var/ssl/key/wildcard.sideai.com.key
-	SSLCertificateFile /var/ssl/cert/wildcard.sideai.com.231027.crt
-	ServerAdmin admin@sideai.com
-	ServerName fs.sideai.com
+
+	# Domain Configuration
+	ServerAdmin admin@example.com
+	ServerName example.com
 	#ServerAlias www.example.com
+
+	# SSL Configuration
+	SSLEngine on
+	SSLCertificateFile /path/to/your/certificate.crt
+	SSLCertificateKeyFile /path/to/your/private.key
+	# SSLCertificateChainFile /path/to/your/chainfile.pem
+
+	# Directory Configuration
 	DocumentRoot /var/www/test
 	<Directory /var/www/test>
 		Options Indexes FollowSymLinks
 		AllowOverride All
 		Require all granted
 	</Directory>
-	ErrorLog ${APACHE_LOG_DIR}/fs.sideai.com.https.error.log
-	CustomLog ${APACHE_LOG_DIR}/fs.sideai.com.https.access.log combined
 	<IfModule mod_dir.c>
 		DirectoryIndex index.php index.html
 	</IfModule>
+
+	# Log Configuration
+	ErrorLog ${APACHE_LOG_DIR}/example.com.https.error.log
+	CustomLog ${APACHE_LOG_DIR}/example.com.https.access.log combined
+
+</VirtualHost>
+```
+
+## REVERSE PROXY CONFIG
+
+- Enable required modules
+```
+sudo a2enmod proxy proxy_wstunnel proxy_http ssl rewrite
+```
+
+- VHOST config
+```
+<VirtualHost *:443>
+
+	# Domain Configuration
+	ServerName example.com
+	# ServerAlias www.example.com
+	# ServerAdmin admin@example.com
+
+	# SSL Configuration
+	SSLEngine on
+	SSLProxyEngine on
+	SSLCertificateFile /path/to/your/certificate.crt
+	SSLCertificateKeyFile /path/to/your/private.key
+	# SSLCertificateChainFile /path/to/your/chainfile.pem
+
+	# Proxy Configuration
+	ProxyRequests Off
+    ProxyPreserveHost On
+	ProxyPass / http://127.0.0.1:8080/
+	ProxyPassReverse / http://127.0.0.1:8080/
+	<Proxy *>
+		Require all granted
+	</Proxy>
+
+	# Log Configuration
+	ErrorLog ${APACHE_LOG_DIR}/example.com.https.error.log
+	CustomLog ${APACHE_LOG_DIR}/example.com.https.access.log combined
+
 </VirtualHost>
 ```

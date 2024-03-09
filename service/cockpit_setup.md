@@ -56,6 +56,32 @@ sudo podman run -it hello-world
 sudo apt install cockpit-podman
 ```
 
+### HTTPS Reverse Proxy
+- /etc/cockpit/cockpit.conf
+```
+[WebService]
+Origins = https://cockpit.example.com http://127.0.0.1:9090
+ProtocolHeader = X-Forwarded-Proto
+AllowUnencrypted = true
+```
+- /etc/apache2/sites-available/cockpit.example.com.conf
+```
+    ...
+	# Proxy Configuration
+	ProxyRequests Off
+	ProxyPreserveHost On
+	ProxyPass / http://127.0.0.1:9090/
+	ProxyPassReverse / http://127.0.0.1:9090/
+	
+	# RewriteEngine Configuration
+	RewriteEngine On
+	RewriteCond %{HTTP:Upgrade} =websocket [NC]
+	RewriteRule /(.*) ws://127.0.0.1:9090/$1 [P,L]
+	RewriteCond %{HTTP:Upgrade} !=websocket [NC]
+	RewriteRule /(.*) http://127.0.0.1:9090/$1 [P,L]
+    ...
+```
+
 ### Common Error
 
 - Error message about being offline: The software update page shows “packagekit cannot refresh cache whilst offline” on a Debian or Ubuntu system.
