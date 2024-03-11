@@ -1,14 +1,16 @@
 # MacOS on Surface
 
+Installing Hackintosh on a Microsoft Surface is a highly challenging task, and this note isn't intended to serve as a guide for everyone. As a software engineer, I started from scratch and still had to read through approximately 30 pages of various articles to get it done properly.
+
+
 ## References
-- ChatGPT4 - https://chat.openai.com/
 - OpenCorePkg - https://github.com/acidanthera/opencorepkg/releases
 - Dortania's OpenCore Guide - https://dortania.github.io/OpenCore-Install-Guide/
+- ChatGPT4 - https://chat.openai.com/
 - ProperTree - https://github.com/corpnewt/ProperTree
 - olm3ca/Surface-Laptop-Go - https://github.com/olm3ca/Surface-Laptop-Go
 - Xiashangning/BigSurface - https://github.com/Xiashangning/BigSurface
-
-
+- https://www.tonymacx86.com/threads/faq-read-first-laptop-frequent-questions.302852/
 
 ## Hardware Specs
 
@@ -35,13 +37,82 @@ CATION: YMMV with different macOS versions.
 
 ### Download MacOS
 
-"Download gibMacOS from https://github.com/corpnewt/gibMacOS. This Python script allows you to directly download macOS components from Apple. I'll assume that you have the Python environment properly set up on your Windows system. Simply run gibMacOS.bat as an administrator and select your preferred version. In my case, the macOS Big Sur 11.7.10 (20G1427):
+Download OpenCorePkg from https://github.com/acidanthera/OpenCorePkg/releases. As of March 10, 2024, the latest version is v0.9.8.
+```
+OPEN - /OpenCore/Utilities/macrecovery/
+
+READ - recovery_urls.txt for the version information
+...
+Big Sur 11: -b Mac-2BD1B31983FE1663 -m 00000000000000000
+Monterey 12: -b Mac-E43C1C25D4880AD6 -m 00000000000000000
+Ventura 13: -b Mac-B4831CEBD52A0C4C -m 00000000000000000
+...
+
+CMD - python macrecovery.py -b Mac-2BD1B31983FE1663 -m 00000000000000000 download
+
+COPY - com.apple.recovery.boot folder to USB
+- com.apple.recovery.boot
+    - BaseSystem.chunklist
+    - BaseSystem.dmg
+
+COPY - EFI(/OpenCore/X64/EFI) folder to USB
+```
+
+### EFI Preparing
+
+Gathering miscellaneous files for booting macOS is a nightmare. I now understand why the OpenCore Guide stated that time and patience are crucial prerequisites right from the beginning.
+
 
 ```
-BuildManifest.plist
-Info.plist
-InstallAssistant.pkg
-InstallInfo.plist
-MajorOSInfo.pkg
-UpdateBrain.zip
+/EFI/OC/
+- OpenCore.efi
+- config.plist
 ```
+
+```
+/EFI/OC/ACPI
+```
+
+/EFI/OC/Drivers (Firmware Drivers)
+```
+- OpenRuntime.efi
+Required critical component of the OpenCore boot loader
+
+- OpenCanopy.efi
+Official GUI for OpenCore boot loader
+
+- ResetNvramEntry.efi
+Allow resetting NVRAM from the boot picker
+
+- HfsPlus.efi
+Required for seeing HFS volumes, such as macOS Installers and Recovery partitions. 
+https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi
+
+```
+
+/EFI/OC/Kexts (Kernel Extensions)
+```
+- Lilu.kext
+Arbitrary kext and process patching on macOS. 
+https://github.com/acidanthera/Lilu/releases
+
+- VirtualSMC.kext
+Emulates the SMC chip for Real Mac Devices. 
+https://github.com/acidanthera/VirtualSMC/releases
+
+- SMCProcessor.kext
+A plugin included with the VirtualSMC release, designed to monitor Intel CPU temperatures.
+
+- SMCSuperIO.kext
+A plugin included with the VirtualSMC release, designed to monitor fan speed.
+
+- WhateverGreen.kext
+A required kernel extension for graphics patching, all GPUs benefit from this kext.
+https://github.com/acidanthera/WhateverGreen/releases
+
+- BlueToolFixup.kext
+
+```
+
+/EFI/OC/Resources
+/EFI/OC/Tools
