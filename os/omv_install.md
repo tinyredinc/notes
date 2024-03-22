@@ -49,7 +49,7 @@ Virtualization
 - openmediavault-podman: managing containers and images, and pods made from groups of containers.
 
 
-NAS Enhance
+NAS Feature
 - openmediavault-downloader: Download files with URL, FTP, BitTorrent, Metalink, Youtube, etc.
 - openmediavault-s3: Object storage based on MinIO, compatible with Amazon S3 API.
 - openmediavault-filebrowser: Provides a file managing interface within a specified directory.
