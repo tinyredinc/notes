@@ -107,6 +107,24 @@ Total operations: 172613733 (17258186.48 per second)
 
 ## DISK BENCHMARK
 
+### DROP CACHE
+Linux system caching can significantly affect your benchmarks, especially read speeds. If you're seeing unbelievably high numbers, consider dropping the cache before running benchmarks.
+```
+#Drop Page Cache: This will clear out the page cache, which includes files and other data cached from disk reads.
+
+echo 1 | sudo tee /proc/sys/vm/drop_caches
+
+
+# Drop Dentries and Inodes: This clears out the dentry and inode caches, which are used by the kernel to keep track of directories and files.
+
+echo 2 | sudo tee /proc/sys/vm/drop_caches
+
+
+# Drop Page Cache, Dentries, and Inodes: This clears out all of the above, providing a more thorough cache cleanup.
+
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+```
+
 ### DISK SEQ READ/WRITE
 
 ```
