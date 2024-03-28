@@ -15,7 +15,11 @@ Figure 1: The Structure Diagram of the SPV
 
 ### [INCOME GENERATING PROPERTY]
 
-The [INCOME GENERATING PROPERTY], located at [PROPERTY ADDRESS], features [PROPERTY DESCRIPTION].
+The [PROPERTY/PROJECT NAME], located at [PROPERTY ADDRESS], features [PROPERTY DESCRIPTION].
+
+The current status of the property is [CURRENT STATUS].
+
+The development plan, if applicable, is [DEVELOPMENT PLAN].
 
 
 ### [PROPERTY HOLDING INC.]
@@ -34,6 +38,23 @@ This entity operates under the following restrictions:
 
 - B. Beyond the management fee paid to the [PROPERTY MANAGEMENT INC.], operational costs are not to exceed [5%] of the annual gross income, reflecting its limited scope of responsibilities.
 
+
 ### [PROPERTY MANAGEMENT INC.]
 
-[PROPERTY MANAGEMENT INC.] is contracted by [PROPERTY HOLDING INC.] to manage the [INCOME GENERATING PROPERTY]. Typical responsibilities include, but are not limited to, tenant management, rent collection, ensuring compliance with laws and regulations, maintenance, and marketing. Detailed responsibilities and compensation should be defined in the [Management Agreement].
+[PROPERTY MANAGEMENT INC.] is contracted by [PROPERTY HOLDING INC.] to manage the [INCOME GENERATING PROPERTY]. 
+
+Typical responsibilities include, but are not limited to, tenant management, rent collection, ensuring compliance with laws and regulations, maintenance, and marketing. Detailed responsibilities and compensation should be defined in the [Management Agreement].
+
+
+### [Management Agreement]
+
+This is a standard [Property Management Agreement] between [PROPERTY HOLDING INC.] and [PROPERTY MANAGEMENT INC.], declaring that [PROPERTY MANAGEMENT INC.] has been hired by [PROPERTY HOLDING INC.] to manage the [INCOME GENERATING PROPERTY].
+
+
+### [OTHER SHAREHOLDERS]
+
+[OTHER SHAREHOLDER(S)] are common shareholders of [PROPERTY HOLDING INC.], alongside [INVESTMENT SPV INC.]. Together, they own 100% of the common shares of [PROPERTY HOLDING INC.], representing their total equity interests in the [INCOME GENERATING PROPERTY].
+
+
+### [INVESTMENT SPV INC.]
+[INVESTMENT SPV INC.] is the entity where various different types of return plans can be implemented to different groups of 

@@ -57,3 +57,67 @@ NAS Feature
 - openmediavault-webdav: Web interface to enable WebDAV and select a share for files.
 - openmediavault-onedrive: This plugin is synchronizing a shared folder with OneDrive cloud storage.
 - openmediavault-wireguard: extremely simple yet fast and modern VPN.
+
+## Case Study - AP Setup
+
+Set up a WiFi hotspot using a LAN connection (enp3s0, i226) and a WLAN interface (wlp2s0, ax200). NAT and IP forwarding can be enabled through the ap-mode.sh script to route traffic from the WLAN to the LAN, which is connected to a router for internet access. The wlp2s0 interface is configured with a static IP address of 10.10.100.100, and it offers DHCP service (ranging from 10.10.100.10 to 10.10.100.50) through dnsmasq.
+
+- sudo vim /etc/systemd/network/10-netplan-wlp2s0.network
+```
+[Match]
+Name=wlp2s0
+
+[Network]
+Address=10.10.100.100/24
+```
+
+- sudo apt install hostapd
+- sudo vim /etc/hostapd/hostapd.conf
+```
+# Basic Config
+interface=wlp2s0
+driver=nl80211
+
+# Wi-Fi Mode
+hw_mode=g
+channel=6
+ieee80211n=1
+country_code=CA
+
+# Wi-Fi Network
+ssid=omvhotpot
+wpa_passphrase=**PASSWD**
+wpa=2
+wpa_key_mgmt=WPA-PSK
+rsn_pairwise=CCMP
+```
+- sudo systemctl enable hostapd
+- sudo systemctl start hostapd
+
+- sudo apt install dnsmasq
+- sudo vim /etc/dnsmasq.conf
+```
+# Disable DNS functionality
+port=0
+
+# Listen on the specific WLAN interface for DHCP requests
+interface=wlp2s0
+bind-interfaces
+
+# Define the DHCP range and lease time
+dhcp-range=10.10.100.10,10.10.100.50,255.255.255.0,24h
+```
+- sudo systemctl enable dnsmasq
+- sudo systemctl start dnsmasq
+
+- sudo vim /home/red/ap-mode.sh
+```
+#!/bin/bash
+# This script will enble ip forward and NAT so that wlp2s0 can work like an AP
+sudo sysctl net.ipv4.ip_forward=1
+sudo iptables -t nat -F POSTROUTING
+sudo iptables -t nat -A POSTROUTING -o enp3s0 -j MASQUERADE
+sudo iptables -t nat -L -v
+```
+- sudo chmod +x /home/red/ap-mode.sh
+- sudo /bin/bash /home/red/ap-mode.sh

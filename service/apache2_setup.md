@@ -30,7 +30,7 @@ sudo apt install php8.1 php8.1-cli php8.1-common php8.1-curl php8.1-fpm php8.1-g
 ```
 # install from apt
 sudo apt update
-sudo apt install apache2
+sudo apt install apache2 libapache2-mod-php8.1
 
 # set to start at boot
 sudo systemctl enable apache2
