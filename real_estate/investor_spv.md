@@ -57,4 +57,13 @@ This is a standard [Property Management Agreement] between [PROPERTY HOLDING INC
 
 
 ### [INVESTMENT SPV INC.]
-[INVESTMENT SPV INC.] is the entity where various different types of return plans can be implemented to different groups of 
+
+[INVESTMENT SPV INC.] serves as the entity within which various return plans can be implemented to accommodate the diverse objectives of different investor groups. Typically, three classes of shares will be issued:
+
+- Class A - Common shares endowed with full voting rights, designated for [INVESTMENT MANAGEMENT INC.].
+- Class B - Preferred shares without voting rights, suited for investors seeking a fixed return.
+
+- Class C - Preferred shares without voting rights, suited for investors seeking a variable return.
+
+In the event of liquidation, the liquidation preference is structured such that investors holding Class B and Class C (Preferred Shares) are accorded priority over [INVESTMENT MANAGEMENT INC.], which holds Class A (Common Shares).
+
