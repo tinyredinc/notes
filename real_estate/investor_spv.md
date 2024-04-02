@@ -126,7 +126,9 @@ Typical responsibilities include, but are not limited to, tenant management, ren
 
 All terms and conditions related to investment returns shall be expressly defined within this Special Purpose Vehicle (SPV), acting as an isolation layer. Should any disputes arise from individual investors, such disputes shall be resolved within the confines of the SPV, ensuring that the property ownership layer remains unaffected.
 
-- Share Class - Three classes of shares shall be issued:
+The agreement should incorporate the following key terms:
+
+- Class of Shares - Three classes of shares shall be issued.
 
     - Class A - Common Share
 
@@ -135,17 +137,18 @@ All terms and conditions related to investment returns shall be expressly define
     - Class B - Preferred Share (Fixed Return)
 
         - With no voting rights, Class B preferred shares are designated for investors seeking a fixed investment return. Investors holding Class B preferred shares will receive a fixed [n%] return on cash distributions, non-compounding annually, and disbursed [quarterly].
+
         - In the event that the underlying [INCOME GENERATING PROPERTY] underperforms and does not generate sufficient net income to cover the fixed return for Class B preferred share investors, it is the responsibility of [INVESTMENT MANAGEMENT INC.] to cover the shortfall. Conversely, should the [INCOME GENERATING PROPERTY] overperform, resulting in excess net income beyond the fixed return for Class B preferred share investors, [INVESTMENT MANAGEMENT INC.] is entitled to retain the surplus.
 
     - Class C - Preferred Share (Variable Return)
 
         - With no voting rights, Class C preferred shares are designated for investors seeking for a variable investment return. Investors with Class C preferred shares are entitled to a variable return on cash distributions, reflective of the performance and net income of the underlying [INCOME GENERATING PROPERTY].
 
--  Share Issuance - The total number of shares issued, encompassing all classes, should be equivalent to the number of common shares that [INVESTMENT SPV INC.] owns in [PROPERTY HOLDING INC.]. For example, if [INVESTMENT SPV INC.] owns 20,000 out of 41,000 common shares in [PROPERTY HOLDING INC.], then [INVESTMENT SPV INC.] should issue a total of 20,000 shares across all classes.
+-  Issuance of Shares - The total number of shares issued, encompassing all classes, should correspond to the quantity of common shares that [INVESTMENT SPV INC.] owns in [PROPERTY HOLDING INC.]. For example, if [INVESTMENT SPV INC.] owns 20,000 out of 41,000 common shares in [PROPERTY HOLDING INC.], then [INVESTMENT SPV INC.] should issue a total of 20,000 shares across all classes. Preferred Shares may be issued at varying prices, contingent upon the timing and scale of investment; however, the rights attributed to each share class shall remain consistent.
 
 - Order of Priority - In the event of liquidation, the liquidation preference ensures that investors with Class B and Class C (Preferred Share) see their investment principal prioritized over [INVESTMENT MANAGEMENT INC.], which possesses Class A (Common Share). In the scenario where assets remain post the settlement of all investment principal, the residual profits will be allocated among all three classes in accordance with their respective share percentages.
 
-- Share Transfer - 
+- Share Transfer - Investors in possession of Class B and Class C preferred shares are prohibited from transferring their shares without the express consent of [INVESTMENT MANAGEMENT INC.]. Correspondingly, [INVESTMENT MANAGEMENT INC.] holds the primary right of purchase at the same rate. Should [INVESTMENT MANAGEMENT INC.] decline this option, other existing preferred shareholders are granted secondary priority to purchase the shares. If neither party opts to acquire them, the preferred shares may then be offered for sale on the open market.
 
 ### 6. Article of Incorporation for [INVESTMENT MANAGEMENT INC.]
 
