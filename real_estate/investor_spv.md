@@ -152,7 +152,14 @@ The agreement should incorporate the following key terms:
 
 ### 10. Investment Agreement of [INVESTMENT SPV INC.]
 
-- WIP
+- Investment Package - Investors are offered the opportunity to subscribe to one of the following investment packages:
+    - Package B1: 311.6K CAD for 600 Class B Preferred Share (Fixed Return)
+    - Package B2: 934.8K CAD for 1,890 Class B Preferred Share (Fixed Return)
+    - Package B3: 1,869.6K CAD for 3,960 Class B Preferred Share (Fixed Return)
+    - Package C1: 311.6K CAD for 630 Class B Preferred Share (Variable Return)
+    - Package C2: 934.8K CAD for 1,950 Class B Preferred Share (Variable Return)
+    - Package C3: 1,869.6K CAD for 4,080 Class B Preferred Share (Variable Return)
+    - *Note - Guiding Principles for Designing Investment Packages: Subscribing to a larger quantity of shares generally yields a more favorable unit price; fixed return packages typically command a higher price due to the associated costs of hedging market risk.
 
 ### 11. Article of Incorporation for [INVESTMENT MANAGEMENT INC.]
 
