@@ -121,28 +121,25 @@ Typical responsibilities include, but are not limited to, tenant management, ren
 
 - The entity should be registered if it does not already exist.
 
+### 9. Article of Incorporation for [INVESTMENT MANAGEMENT INC.]
 
-### 9. Shareholder Agreement of [INVESTMENT SPV INC.]
+- The entity should be registered if it does not already exist.
+
+### 10. Shareholder Agreement of [INVESTMENT SPV INC.]
 
 All terms and conditions related to investment returns shall be expressly defined within this Special Purpose Vehicle (SPV), acting as an isolation layer. Should any disputes arise from individual investors, such disputes shall be resolved within the confines of the SPV, ensuring that the property ownership layer remains unaffected.
 
 The agreement should incorporate the following key terms:
 
-- Class of Shares - Three classes of shares shall be issued.
+- Class of Shares - Two classes of shares shall be issued.
 
     - Class A - Common Share
 
         - Endowed with full voting rights and designated for [INVESTMENT MANAGEMENT INC.], the Class A common share assigns the shareholder the responsibility of providing specified investor services to holders of Preferred Shares. This includes issuing cash distributions and providing reports and tax forms. Costs associated with these services are reimbursable but must not exceed [2%] of the total revenue. In the event of cost overruns, the management company is required to cover any shortfall.
 
-    - Class B - Preferred Share (Fixed Return)
+    - Class B - Preferred Share
 
-        - With no voting rights, Class B preferred shares are designated for investors seeking a fixed investment return. Investors holding Class B preferred shares will receive a fixed [n%] return on cash distributions, non-compounding annually, and disbursed [quarterly].
-
-        - In the event that the underlying [INCOME GENERATING PROPERTY] underperforms and does not generate sufficient net income to cover the fixed return for Class B preferred share investors, it is the responsibility of [INVESTMENT MANAGEMENT INC.] to cover the shortfall. Conversely, should the [INCOME GENERATING PROPERTY] overperform, resulting in excess net income beyond the fixed return for Class B preferred share investors, [INVESTMENT MANAGEMENT INC.] is entitled to retain the surplus.
-
-    - Class C - Preferred Share (Variable Return)
-
-        - With no voting rights, Class C preferred shares are designated for investors seeking for a variable investment return. Investors with Class C preferred shares are entitled to a variable return on cash distributions, reflective of the performance and net income of the underlying [INCOME GENERATING PROPERTY].
+        - With no voting rights, investors with Class B preferred shares are entitled to a variable return on cash distributions, reflective of the performance and net income of the underlying [INCOME GENERATING PROPERTY].
 
 -  Issuance of Shares - The total number of shares issued, encompassing all classes, should correspond to the quantity of common shares that [INVESTMENT SPV INC.] owns in [PROPERTY HOLDING INC.]. For example, if [INVESTMENT SPV INC.] owns 20,000 out of 41,000 common shares in [PROPERTY HOLDING INC.], then [INVESTMENT SPV INC.] should issue a total of 20,000 shares across all classes. Preferred Shares may be issued at varying prices, contingent upon the timing and scale of investment; however, the rights attributed to each share class shall remain consistent.
 
@@ -150,17 +147,16 @@ The agreement should incorporate the following key terms:
 
 - Share Transfer - Investors in possession of Class B and Class C preferred shares are prohibited from transferring their shares without the express consent of [INVESTMENT MANAGEMENT INC.]. Correspondingly, [INVESTMENT MANAGEMENT INC.] holds the primary right of purchase at the same rate. Should [INVESTMENT MANAGEMENT INC.] decline this option, other existing preferred shareholders are granted secondary priority to purchase the shares. If neither party opts to acquire them, the preferred shares may then be offered for sale on the open market.
 
-### 10. Investment Agreement of [INVESTMENT SPV INC.]
+### 11 
+
+### 12. Investment Agreement of [INVESTMENT SPV INC.]
 
 - Investment Package - Investors are offered the opportunity to subscribe to one of the following investment packages:
-    - Package B1: 311.6K CAD for 600 Class B Preferred Share (Fixed Return)
-    - Package B2: 934.8K CAD for 1,890 Class B Preferred Share (Fixed Return)
-    - Package B3: 1,869.6K CAD for 3,960 Class B Preferred Share (Fixed Return)
+    - Package B1: 311.6K CAD for 600 Class B Preferred Share with Total Return Swap(Fixed Return)
+    - Package B2: 934.8K CAD for 1,890 Class B Preferred Share with Total Return Swap(Fixed Return)
+    - Package B3: 1,869.6K CAD for 3,960 Class B Preferred Share with Total Return Swap(Fixed Return)
     - Package C1: 311.6K CAD for 630 Class B Preferred Share (Variable Return)
     - Package C2: 934.8K CAD for 1,950 Class B Preferred Share (Variable Return)
     - Package C3: 1,869.6K CAD for 4,080 Class B Preferred Share (Variable Return)
     - *Note - Guiding Principles for Designing Investment Packages: Subscribing to a larger quantity of shares generally yields a more favorable unit price; fixed return packages typically command a higher price due to the associated costs of hedging market risk.
 
-### 11. Article of Incorporation for [INVESTMENT MANAGEMENT INC.]
-
-- The entity should be registered if it does not already exist.
