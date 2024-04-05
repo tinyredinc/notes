@@ -147,7 +147,11 @@ The agreement should incorporate the following key terms:
 
 - Share Transfer - Investors in possession of Class B and Class C preferred shares are prohibited from transferring their shares without the express consent of [INVESTMENT MANAGEMENT INC.]. Correspondingly, [INVESTMENT MANAGEMENT INC.] holds the primary right of purchase at the same rate. Should [INVESTMENT MANAGEMENT INC.] decline this option, other existing preferred shareholders are granted secondary priority to purchase the shares. If neither party opts to acquire them, the preferred shares may then be offered for sale on the open market.
 
-### 11 
+### 11 Total Return Swap Agreement
+
+- Term - 3 years, 36 swaps
+- Total Return Swap - Party A receives variable cash distribution, pays fixed amount. Party B receives fixed amount, pay cash distribution
+- Settlement Netting
 
 ### 12. Investment Agreement of [INVESTMENT SPV INC.]
 
