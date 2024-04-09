@@ -6,6 +6,14 @@ This document serves as a guideline for legal experts to establish such a struct
 
 It's important to note that implementing such a structure using corporate entities (or companies) is not considered tax-efficient within Ontario's jurisdiction. Replacing all instances of "INC." with a GP/LP partnership or a Trust could establish a tax flow-through structure. This change may offer improved tax efficiency but might also lead to higher implementation costs and increased complexity.
 
+## Revisions
+- V1.240401 
+    - Initial draft version.
+
+- V2.240409 
+    - Reduced the share classes of [INVESTMENT SPV INC.] to two.
+    - Implemented fixed return investment through a Dividend Swap Agreement.
+    - Utilized Convertible Loans to finance the development period.
 
 ## SPV Structure
 
@@ -135,32 +143,82 @@ The agreement should incorporate the following key terms:
 
     - Class A - Common Share
 
-        - Endowed with full voting rights and designated for [INVESTMENT MANAGEMENT INC.], the Class A common share assigns the shareholder the responsibility of providing specified investor services to holders of Preferred Shares. This includes issuing cash distributions and providing reports and tax forms. Costs associated with these services are reimbursable but must not exceed [2%] of the total revenue. In the event of cost overruns, the management company is required to cover any shortfall.
+        - Endowed with full voting rights and designated for [INVESTMENT MANAGEMENT INC.], are entitled to a variable return on cash distributions, reflective of the performance and net income of the underlying [INCOME GENERATING PROPERTY].
 
     - Class B - Preferred Share
 
         - With no voting rights, investors with Class B preferred shares are entitled to a variable return on cash distributions, reflective of the performance and net income of the underlying [INCOME GENERATING PROPERTY].
 
--  Issuance of Shares - The total number of shares issued, encompassing all classes, should correspond to the quantity of common shares that [INVESTMENT SPV INC.] owns in [PROPERTY HOLDING INC.]. For example, if [INVESTMENT SPV INC.] owns 20,000 out of 41,000 common shares in [PROPERTY HOLDING INC.], then [INVESTMENT SPV INC.] should issue a total of 20,000 shares across all classes. Preferred Shares may be issued at varying prices, contingent upon the timing and scale of investment; however, the rights attributed to each share class shall remain consistent.
+- Liquidation Priority: In the event of liquidation, the liquidation preference ensures that investors with Class B Preferred Share see their investment principal prioritized over [INVESTMENT MANAGEMENT INC.], which possesses Class A (Common Share). In the scenario where assets remain post the settlement of all investment principal, the residual profits will be allocated among all classes in accordance with their respective share percentages.
 
-- Order of Priority - In the event of liquidation, the liquidation preference ensures that investors with Class B and Class C (Preferred Share) see their investment principal prioritized over [INVESTMENT MANAGEMENT INC.], which possesses Class A (Common Share). In the scenario where assets remain post the settlement of all investment principal, the residual profits will be allocated among all three classes in accordance with their respective share percentages.
+- Issuance of Shares: The total number of shares issued, encompassing all classes, should correspond to the quantity of common shares that [INVESTMENT SPV INC.] owns in [PROPERTY HOLDING INC.]. For example, if [INVESTMENT SPV INC.] owns 20,000 out of 41,000 common shares in [PROPERTY HOLDING INC.], then [INVESTMENT SPV INC.] should issue a total of 20,000 shares across all classes. Preferred Shares may be issued at varying prices, contingent upon the timing and scale of investment; however, the rights attributed to each share class shall remain consistent.
 
-- Share Transfer - Investors in possession of Class B and Class C preferred shares are prohibited from transferring their shares without the express consent of [INVESTMENT MANAGEMENT INC.]. Correspondingly, [INVESTMENT MANAGEMENT INC.] holds the primary right of purchase at the same rate. Should [INVESTMENT MANAGEMENT INC.] decline this option, other existing preferred shareholders are granted secondary priority to purchase the shares. If neither party opts to acquire them, the preferred shares may then be offered for sale on the open market.
+- Investment Management: [INVESTMENT MANAGEMENT INC.] is engaged as the investment management company for [INVESTMENT SPV INC.], tasked with delivering investor services to shareholders. These services encompass the issuance of cash distributions, as well as the providing reports and tax forms. The costs associated with the provision of these services are subject to reimbursement, provided that they do not exceed an annual limit of [NUMBER] dollars. Should the costs incurred surpass this threshold, it shall be incumbent upon the management company to address and finance the resultant shortfall.
 
-### 11 Total Return Swap Agreement
+- Share Transfer: Investors in possession of Class B preferred shares are prohibited from transferring their shares without the express consent of [INVESTMENT MANAGEMENT INC.]. Correspondingly, [INVESTMENT MANAGEMENT INC.] holds the primary right of purchase at the same rate. Should [INVESTMENT MANAGEMENT INC.] decline this option, other existing shareholders are granted secondary priority to purchase the shares. If neither party opts to acquire them, the preferred shares may then be offered for sale on the open market.
 
-- Term - 3 years, 36 swaps
-- Total Return Swap - Party A receives variable cash distribution, pays fixed amount. Party B receives fixed amount, pay cash distribution
+- Monthly Distribution: [INVESTMENT SPV INC.] has no provision for retain earnings; hence, all net income is required to be fully distributed to its shareholders on a monthly basis. The designated date for such distributions shall be the 15th of each month.
+
+### 11 Dividend Swap Agreement
+
+- Parties
+    - Party A, [INVESTMENT MANAGEMENT INC.], is the management company of [INVESTMENT SPV INC.]
+    - Party B, [INVESTOR], is the holder of [NUMBER] Class B Preferred Shares of [INVESTMENT SPV INC.]
+
+- Recitals
+    - WHEREAS, Party B is the holder of [NUMBER] Class B Preferred Shares in [INVESTMENT SPV INC.] and is entitled to receive monthly dividends from such shares;
+    - WHEREAS, Party A, as the management company of [INVESTMENT SPV INC.], desires to enter into a dividend swap arrangement with Party B;
+    - WHEREAS, both parties wish to engage in a dividend swap where Party A receives the monthly dividends of the preferred shares, and pays Party B a fixed amount monthly, and vice versa, using settlement netting instead of exchanging cash flow;
+
+- Dividend Swap
+    - Party A agrees to receive the monthly dividends from Party B’s [NUMBER] Class B Preferred Shares of [INVESTMENT SPV INC.].
+    - In return, Party A shall pay Party B a fixed monthly payment of $[NUMBER] dollars (the "Fixed Payment").
+
+- Swap Term
+    - This Agreement shall commence on [DATE] and shall extend for a duration of [NUMBER] years, concluding on [DATE]. This period encompasses a total of [NUMBER] monthly payments (hereinafter referred to as the "Term").
+    - The effectiveness of this Agreement is contingent upon Party B exercising the convertible loan rights and subsequently becoming the holder of Class B Preferred Shares in [INVESTMENT SPV INC.].
+
 - Settlement Netting
+    - The parties shall engage in settlement netting to fulfill their obligations under this Agreement. The net amount to be settled each month shall be determined by the difference between the Fixed Payment due from Party A to Party B and the monthly dividend amount from the preferred shares due from Party B to Party A.
 
 ### 12. Investment Agreement of [INVESTMENT SPV INC.]
 
-- Investment Package - Investors are offered the opportunity to subscribe to one of the following investment packages:
-    - Package B1: 311.6K CAD for 600 Class B Preferred Share with Total Return Swap(Fixed Return)
-    - Package B2: 934.8K CAD for 1,890 Class B Preferred Share with Total Return Swap(Fixed Return)
-    - Package B3: 1,869.6K CAD for 3,960 Class B Preferred Share with Total Return Swap(Fixed Return)
-    - Package C1: 311.6K CAD for 630 Class B Preferred Share (Variable Return)
-    - Package C2: 934.8K CAD for 1,950 Class B Preferred Share (Variable Return)
-    - Package C3: 1,869.6K CAD for 4,080 Class B Preferred Share (Variable Return)
+- Parties
+    - Party A, [INVESTMENT SPV INC.], (hereinafter referred to as the "SPV"),
+    - Party B, [INVESTOR], (hereinafter referred to as the "Investor"),
+
+- Recitals
+    - WHEREAS, the SPV is a special purpose vehicle qualified to invest in convertible loans issued by [PROPERTY HOLDING INC.].
+
+    - WHEREAS, [PROPERTY HOLDING INC.] is the registered owner and developer of the [INCOME GENERATING PROPERTY].
+
+    - WHEREAS, the Investor possesses the intention and goodwill to invest in [PROPERTY HOLDING INC.] through the SPV.
+
+    - WHEREAS, the Investor commits to invest in [PROPERTY HOLDING INC.] by providing convertible loans to the SPV, which, in turn, shall be directed into the convertible loan issued by [PROPERTY HOLDING INC.].
+
+    - WHEREAS, the convertible loans shall bear no interest for a term of two years and are subject to conversion into Class B Preferred Shares of the SPV.
+
+- Investment Package - Investors are presented with the opportunity to subscribe to one of the following investment packages:
+
+    - Package B1: A two-year, interest-free convertible loan of 311.6K CAD to the SPV, convertible into 600 Class B Preferred Shares, accompanied by a Dividend Swap (Fixed Return).
+
+    - Package B2: A two-year, interest-free convertible loan of 934.8K CAD to the SPV, convertible into 1,890 Class B Preferred Shares, with a Dividend Swap (Fixed Return).
+    
+    - Package B3: A two-year, interest-free convertible loan of 1,869.6K CAD to the SPV, convertible into 3,960 Class B Preferred Shares, including a Dividend Swap (Fixed Return).
+
+    - Package C1: A two-year, interest-free convertible loan of 311.6K CAD to the SPV, convertible into 630 Class B Preferred Shares (Variable Return).
+
+    - Package C2: A two-year, interest-free convertible loan of 934.8K CAD to the SPV, convertible into 1,950 Class B Preferred Shares (Variable Return).
+
+    - Package C3: A two-year, interest-free convertible loan of 1,869.6K CAD to the SPV, convertible into 4,080 Class B Preferred Shares (Variable Return).
+
     - *Note - Guiding Principles for Designing Investment Packages: Subscribing to a larger quantity of shares generally yields a more favorable unit price; fixed return packages typically command a higher price due to the associated costs of hedging market risk.
 
+- Converible Option: the Invetor has right to excersise following options by the end of the 2 year term.
+    - Option A, convert to Class B Preferred Shares of SPV. the Investor is required to consent to the Shareholder Agreement of the SPV as a condition of excersise this option.
+    - Option B, 
+
+
+- Fund Allocation: All funds raised through the issuance of convertible loans by the SPV shall be exclusively allocated to the investment in the convertible loan of [PROPERTY HOLDING INC.] and related expenses.
+
+- Investment Term: The minimum term of the investment shall be five (5) years. The term may be extended indefinitely, subject to unanimous consent from all shareholders of [PROPERTY HOLDING INC.], should there be a collective decision to continue the operation of the [INCOME GENERATING PROPERTY].
