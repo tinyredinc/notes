@@ -238,6 +238,6 @@ The agreement should incorporate the following key terms:
 
     - Investment Term: The minimum term of the investment shall be five (5) years. The term may be extended indefinitely, subject to unanimous consent from all shareholders of [PROPERTY HOLDING INC.], should there be a collective decision to continue the operation of the [INCOME GENERATING PROPERTY].
 
-    - Payment Schedule: The Investor shall advance the convertible loan to SPV Corp. as follows: TBD
+    - Payment Schedule: The Investor shall provide the convertible loan to SPV Corp. according to the following schedule: TBD
 
-    - Appendix: Documents needed to disclouse to the investor such as "9. Shareholder Agreement of [INVESTMENT SPV INC.]"
+    - Appendix: Documents required for disclosure to the Investor include, but are not limited to, the "9. Shareholder Agreement of [INVESTMENT SPV INC.]."
