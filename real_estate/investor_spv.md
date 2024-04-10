@@ -68,13 +68,23 @@ Typical responsibilities include, but are not limited to, tenant management, ren
 
 - The entity should be registered if it does not already exist.
 
+### 2. Article of Incorporation for [PROPERTY MANAGEMENT INC.]
 
-### 2. Proof of the Ownership for [INCOME GENERATING PROPERTY]
+- The entity should be registered if it does not already exist.
+
+### 3. Article of Incorporation for [INVESTMENT SPV INC.]
+
+- The entity should be registered if it does not already exist.
+
+### 4. Article of Incorporation for [INVESTMENT MANAGEMENT INC.]
+
+- The entity should be registered if it does not already exist.
+
+### 5. Proof of the Ownership for [INCOME GENERATING PROPERTY]
 
 - To prove that [INCOME GENERATING PROPERTY] is an asset owned by [PROPERTY HOLDING INC.], such documentation might include a Parcel Register from Ontario's land registration system, demonstrating clear title and ownership.
 
-
-### 3. Shareholder Agreement of [PROPERTY HOLDING INC.] 
+### 6. Shareholder Agreement of [PROPERTY HOLDING INC.] 
 
 - [PROPERTY HOLDING INC.] shall issue a single class of common shares, totaling [n] shares. It is recommended that the quantity of common shares issued reflects the characteristics of the [INCOME GENERATING PROPERTY]. For instance, if the Bennett Residence located at 15 Glen Morris Street comprises 41 similar rental units, it is suggested that a total of 41,000 shares be issued.
 
@@ -100,40 +110,39 @@ Typical responsibilities include, but are not limited to, tenant management, ren
 
         - Revisions or amendments to the current Shareholder Agreement.
 
+### 7. Convertible Loan Investment Agreement of [PROPERTY HOLDING INC.]
 
-### 4. Share Transfer Agreement of [PROPERTY HOLDING INC.]
+- Parties
+    - Party A, [PROPERTY HOLDING INC.], (hereinafter referred to as the "Borrower")
+    - Party B, [INVESTMENT SPV INC.], (hereinafter referred to as the "Lender")
 
-- This agreement shall be a standard share transfer agreement, permitting the founder of [PROPERTY HOLDING INC.] to distribute the common shares of [PROPERTY HOLDING INC.] to specified entities at variable prices. All new shareholders are required to consent to the Shareholder Agreement of [PROPERTY HOLDING INC.] as a condition of their share acquisition.
+- Recitals
+    - WHEREAS, the Borrower is the registered owner and developer of the [INCOME GENERATING PROPERTY].
 
+    - WHEREAS, the Borrower seeks to finance the development of the [INCOME GENERATING PROPERTY] through the issuance of a two-year convertible loan, which may be converted into common shares of the Borrower.
 
-### 5. Share Option Contract of [PROPERTY HOLDING INC.]
+    - WHEREAS, the Lender is an individual or entity who is willing and has been pre-qualified to participate in the investment of the Convertible Loan issued by the Borrower.
 
-- Given the uncertainties inherent in fundraising efforts, there is no guarantee regarding the amount of funds [INVESTMENT SPV INC.] can raise within a predetermined timeframe. Consequently, an American-style share option shall be issued to each SPV, granting them the right to purchase up to [n] shares of common share from [PROPERTY HOLDING INC.] at a strike price of [n] dollars per share before the [Expiry Date]. 
+- Terms
+    - Issuance of Convertible Loan: The Borrower shall issue a Convertible Loan to the Lender, subject to an aggregate principal amount of up to CAD 12,464,000.
 
-- Upon reaching the [Expiry Date], each SPV is obligated to exercise the option in accordance with the total funds raised. Subsequently, the formal Share Transfer Agreement of [PROPERTY HOLDING INC.] will be formalized and executed.
+    - Term: The Convertible Loan shall mature two (2) years from the date of issuance (the "Maturity Date"), unless earlier converted into Common Shares of the Borrower in accordance with the terms of this Agreement.
 
+    - Interest: The Convertible Loan shall accrue no interest.
 
-### 6. Article of Incorporation for [PROPERTY MANAGEMENT INC.]
+    - Conversion Rights: At the Maturity Date, the Lender shall have the right, but not the obligation, to convert any outstanding principal amount of the Convertible Loan into Common Shares of the Borrower at a conversion rate of 1,000 Common Shares for each CAD 311,600 of the Convertible Loan.
 
-- The entity should be registered if it does not already exist.
+    - Payment Schedule: Upon signing this Agreement, the Lender shall have up to [NUMBER] months to prepare the funds. The minimum subscription shall be no less than CAD 311,600, and the maximum subscription is contingent upon the total issuance of the Convertible Loan.
 
+    - Oversubscription: In the event the total amount subscribed by the Lenders exceeds the total issuance capacity of the Convertible Loan, the Borrower agrees to refund any excess amounts to the Lenders. These refunds will be executed in accordance with the chronological sequence of the Lenders' financial commitments, wherein those who contributed funds earlier will be allocated the Convertible Loan, and those who contributed later will receive refunds.
 
-### 7. Property [Management Agreement] 
+### 8. Property [Management Agreement] 
 
 - This agreement will constitute a standard property management contract between [PROPERTY HOLDING INC.] and [PROPERTY MANAGEMENT INC.], wherein responsibilities and compensations are precisely defined. A special provision to be included is that the shareholders of [PROPERTY HOLDING INC.] shall have priority in renting properties at market rates.
 
 - The agreement shall be structured predominantly in favor of [PROPERTY MANAGEMENT INC.] by offering flexibility, considering that [PROPERTY HOLDING INC.] is subject to a strict Shareholder Agreement regarding Operational Costs and Retained Earnings.
 
-
-### 8. Article of Incorporation for [INVESTMENT SPV INC.]
-
-- The entity should be registered if it does not already exist.
-
-### 9. Article of Incorporation for [INVESTMENT MANAGEMENT INC.]
-
-- The entity should be registered if it does not already exist.
-
-### 10. Shareholder Agreement of [INVESTMENT SPV INC.]
+### 9. Shareholder Agreement of [INVESTMENT SPV INC.]
 
 All terms and conditions related to investment returns shall be expressly defined within this Special Purpose Vehicle (SPV), acting as an isolation layer. Should any disputes arise from individual investors, such disputes shall be resolved within the confines of the SPV, ensuring that the property ownership layer remains unaffected.
 
@@ -159,7 +168,7 @@ The agreement should incorporate the following key terms:
 
 - Monthly Distribution: [INVESTMENT SPV INC.] has no provision for retain earnings; hence, all net income is required to be fully distributed to its shareholders on a monthly basis. The designated date for such distributions shall be the 15th of each month.
 
-### 11 Dividend Swap Agreement
+### 10 Dividend Swap Agreement
 
 - Parties
     - Party A, [INVESTMENT MANAGEMENT INC.], is the management company of [INVESTMENT SPV INC.]
@@ -167,25 +176,29 @@ The agreement should incorporate the following key terms:
 
 - Recitals
     - WHEREAS, Party B is the holder of [NUMBER] Class B Preferred Shares in [INVESTMENT SPV INC.] and is entitled to receive monthly dividends from such shares;
+
     - WHEREAS, Party A, as the management company of [INVESTMENT SPV INC.], desires to enter into a dividend swap arrangement with Party B;
+
     - WHEREAS, both parties wish to engage in a dividend swap where Party A receives the monthly dividends of the preferred shares, and pays Party B a fixed amount monthly, and vice versa, using settlement netting instead of exchanging cash flow;
 
 - Dividend Swap
     - Party A agrees to receive the monthly dividends from Party B’s [NUMBER] Class B Preferred Shares of [INVESTMENT SPV INC.].
+
     - In return, Party A shall pay Party B a fixed monthly payment of $[NUMBER] dollars (the "Fixed Payment").
 
 - Swap Term
     - This Agreement shall commence on [DATE] and shall extend for a duration of [NUMBER] years, concluding on [DATE]. This period encompasses a total of [NUMBER] monthly payments (hereinafter referred to as the "Term").
+
     - The effectiveness of this Agreement is contingent upon Party B exercising the convertible loan rights and subsequently becoming the holder of Class B Preferred Shares in [INVESTMENT SPV INC.].
 
 - Settlement Netting
     - The parties shall engage in settlement netting to fulfill their obligations under this Agreement. The net amount to be settled each month shall be determined by the difference between the Fixed Payment due from Party A to Party B and the monthly dividend amount from the preferred shares due from Party B to Party A.
 
-### 12. Investment Agreement of [INVESTMENT SPV INC.]
+### 11. Investment Agreement of [INVESTMENT SPV INC.]
 
 - Parties
-    - Party A, [INVESTMENT SPV INC.], (hereinafter referred to as the "SPV"),
-    - Party B, [INVESTOR], (hereinafter referred to as the "Investor"),
+    - Party A, [INVESTMENT SPV INC.], (hereinafter referred to as the "SPV")
+    - Party B, [INVESTOR], (hereinafter referred to as the "Investor")
 
 - Recitals
     - WHEREAS, the SPV is a special purpose vehicle qualified to invest in convertible loans issued by [PROPERTY HOLDING INC.].
@@ -198,27 +211,33 @@ The agreement should incorporate the following key terms:
 
     - WHEREAS, the convertible loans shall bear no interest for a term of two years and are subject to conversion into Class B Preferred Shares of the SPV.
 
-- Investment Package - Investors are presented with the opportunity to subscribe to one of the following investment packages:
+- Terms
+    - Investment Package - Investors are presented with the opportunity to subscribe to one of the following investment packages:
 
-    - Package B1: A two-year, interest-free convertible loan of 311.6K CAD to the SPV, convertible into 600 Class B Preferred Shares, accompanied by a Dividend Swap (Fixed Return).
+        - Package B1: A two-year, interest-free convertible loan of 311.6K CAD to the SPV, convertible into 600 Class B Preferred Shares, accompanied by a Dividend Swap (Fixed Return).
 
-    - Package B2: A two-year, interest-free convertible loan of 934.8K CAD to the SPV, convertible into 1,890 Class B Preferred Shares, with a Dividend Swap (Fixed Return).
-    
-    - Package B3: A two-year, interest-free convertible loan of 1,869.6K CAD to the SPV, convertible into 3,960 Class B Preferred Shares, including a Dividend Swap (Fixed Return).
+        - Package B2: A two-year, interest-free convertible loan of 934.8K CAD to the SPV, convertible into 1,890 Class B Preferred Shares, with a Dividend Swap (Fixed Return).
+        
+        - Package B3: A two-year, interest-free convertible loan of 1,869.6K CAD to the SPV, convertible into 3,960 Class B Preferred Shares, including a Dividend Swap (Fixed Return).
 
-    - Package C1: A two-year, interest-free convertible loan of 311.6K CAD to the SPV, convertible into 630 Class B Preferred Shares (Variable Return).
+        - Package C1: A two-year, interest-free convertible loan of 311.6K CAD to the SPV, convertible into 630 Class B Preferred Shares (Variable Return).
 
-    - Package C2: A two-year, interest-free convertible loan of 934.8K CAD to the SPV, convertible into 1,950 Class B Preferred Shares (Variable Return).
+        - Package C2: A two-year, interest-free convertible loan of 934.8K CAD to the SPV, convertible into 1,950 Class B Preferred Shares (Variable Return).
 
-    - Package C3: A two-year, interest-free convertible loan of 1,869.6K CAD to the SPV, convertible into 4,080 Class B Preferred Shares (Variable Return).
+        - Package C3: A two-year, interest-free convertible loan of 1,869.6K CAD to the SPV, convertible into 4,080 Class B Preferred Shares (Variable Return).
 
-    - *Note - Guiding Principles for Designing Investment Packages: Subscribing to a larger quantity of shares generally yields a more favorable unit price; fixed return packages typically command a higher price due to the associated costs of hedging market risk.
+        - *Note - Guiding Principles for Designing Investment Packages: Subscribing to a larger quantity of shares generally yields a more favorable unit price; fixed return packages typically command a higher price due to the associated costs of hedging market risk.
 
-- Converible Option: the Invetor has right to excersise following options by the end of the 2 year term.
-    - Option A, convert to Class B Preferred Shares of SPV. the Investor is required to consent to the Shareholder Agreement of the SPV as a condition of excersise this option.
-    - Option B, 
+    - Conversion Rights - The Investor is endowed with the right to exercise the following options upon the conclusion of the two-year term:
 
+        - Option A - Conversion into Class B Preferred Shares of the SPV. As a prerequisite for exercising this option, the Investor must accept and adhere to the Shareholder Agreement of the SPV.
+        
+        - Option B - Transfer of the convertible loan, along with all related rights, to [INVESTMENT MANAGEMENT INC.], the investment management entity of the SPV, at a simple 10.0% per annum interest, non-compounding.
 
-- Fund Allocation: All funds raised through the issuance of convertible loans by the SPV shall be exclusively allocated to the investment in the convertible loan of [PROPERTY HOLDING INC.] and related expenses.
+    - Fund Allocation: All funds raised through the issuance of convertible loans by the SPV shall be exclusively allocated to the investment in the convertible loan of [PROPERTY HOLDING INC.] and related expenses.
 
-- Investment Term: The minimum term of the investment shall be five (5) years. The term may be extended indefinitely, subject to unanimous consent from all shareholders of [PROPERTY HOLDING INC.], should there be a collective decision to continue the operation of the [INCOME GENERATING PROPERTY].
+    - Investment Term: The minimum term of the investment shall be five (5) years. The term may be extended indefinitely, subject to unanimous consent from all shareholders of [PROPERTY HOLDING INC.], should there be a collective decision to continue the operation of the [INCOME GENERATING PROPERTY].
+
+    - Payment Schedule: The Investor shall advance the convertible loan to SPV Corp. as follows: TBD
+
+    - Appendix: Documents needed to disclouse to the investor such as "9. Shareholder Agreement of [INVESTMENT SPV INC.]"
