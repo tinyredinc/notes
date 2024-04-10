@@ -230,14 +230,16 @@ The agreement should incorporate the following key terms:
 
     - Conversion Rights - The Investor is endowed with the right to exercise the following options upon the conclusion of the two-year term:
 
-        - Option A - Conversion into Class B Preferred Shares of the SPV. As a prerequisite for exercising this option, the Investor must accept and adhere to the Shareholder Agreement of the SPV.
+        - Option A - Convert the loan into Class B Preferred Shares of the SPV. To exercise this option, the Investor must agree to and comply with the Shareholder Agreement of the SPV.
         
-        - Option B - Transfer of the convertible loan, along with all related rights, to [INVESTMENT MANAGEMENT INC.], the investment management entity of the SPV, at a simple 10.0% per annum interest, non-compounding.
+        - Option B - Transfer of the convertible loan, along with all related rights, to [INVESTMENT MANAGEMENT INC.], the investment management entity of the SPV, accruing interest at a simple rate of 10.0% per annum, not compounded.
 
     - Fund Allocation: All funds raised through the issuance of convertible loans by the SPV shall be exclusively allocated to the investment in the convertible loan of [PROPERTY HOLDING INC.] and related expenses.
 
-    - Investment Term: The minimum term of the investment shall be five (5) years. The term may be extended indefinitely, subject to unanimous consent from all shareholders of [PROPERTY HOLDING INC.], should there be a collective decision to continue the operation of the [INCOME GENERATING PROPERTY].
+    - Investment Term: The convertible loan is set for a duration of two years. Should the Investor elect to convert the loan into Class B Preferred Shares of the SPV, the term may be indefinitely extended, contingent upon unanimous approval from all shareholders of [PROPERTY HOLDING INC.], in the event of a joint resolution to perpetuate the operation of the [INCOME GENERATING PROPERTY].
 
-    - Payment Schedule: The Investor shall provide the convertible loan to SPV Corp. according to the following schedule: TBD
+    - Investment Schedule: 
+        - The Investor shall advance the convertible loan to the SPV according to the following schedule: 1st payment, 2nd payment, 3rd payment... TBD
+        - Investor(s) failing to comply with this schedule will see their convertible loan reclassified as non-convertible and interest-free. The principal amount shall be repaid at the end of the two-year period.
 
     - Appendix: Documents required for disclosure to the Investor include, but are not limited to, the "9. Shareholder Agreement of [INVESTMENT SPV INC.]."
