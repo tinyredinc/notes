@@ -1,6 +1,5 @@
-# CONFIDENTIAL INVESTMENT TERM SHEET
-
-V20240201
+# INVESTMENT TERM SHEET (Intuitive Edition)
+V20240527
 
 ## The Fund
 
@@ -8,37 +7,25 @@ The CoFund Rental Apartment Investment Fund ("RAIF" or "Fund") is a closed-end p
 
 ## Units Offered
 
-Three classes of limited partnership units (the "Units") of the Fund will be created and offered for sale:
-
-- CLASS A: for Regular Investors
-- CLASS B: for Accredited Investors
-- CLASS I: for Institutional Investors
-
-Each class has different subscription requirements and profit distribution mechanisms. For more information, refer to the sections 'Subscription' and 'GP Performance Incentive.
-
-## Subscription  
-
 Units will only be available to accredited investors and investors who meet certain exemptions under securities laws. Non-Residents of Canada will be excluded from investing in Units.
 
 - Price per Unit - $1,000.00 per Unit (the "Subscription Amount").
-- Minimum Offering - 16,000 Units ($16,000,000)
+- Minimum Offering - 1,000 Units ($1,000,000)
 - Maximum Offering - 50,000 Units ($50,000,000)
-- Closing Date (Closing): May 31, 2024
 
-- For CLASS A (Regular)  
-  - Minimum Subscription: $25,000.00, or 25 Units.
-  - 20% deposit is due on Term Sheet signed, starting from Jan 2024
-  - 80% remaining balance is due on May 31, 2024
+The subscription closings for Units under the Placement are scheduled to take place in several tranches (each referred to as a 'Closing'), at dates specified by the General Partner (each a 'Closing Date'). These closings will occur no later than December 31, 2025. The initial tranche is anticipated to close on or around May 29, 2024, designated as the 'Tranche 1 Closing Date.' All Units will be issued in registered form.
 
-- For CLASS B (Accredited)  
+Two classes of limited partnership units (the "Units") of the Fund will be created and offered for sale:
+
+- CLASS A ($150,000 Minimum)
   - Minimum Subscription: $150,000.00, or 150 Units.
-  - 20% deposit is due on Term Sheet signed, starting from Jan 2024
-  - 80% remaining balance is due on May 31, 2024
+  - Management fee of 2% of the NAV per year.
+  - Profit distribution refers to section 'GP Performance Incentive'
 
-- For CLASS I (Institutional)  
+- CLASS B ($1,000,000 Minimum)
   - Minimum Subscription: $1,000,000.00, or 1,000 Units.
-  - 20% deposit is due on Term Sheet signed, starting from Jan 2024
-  - 80% remaining balance is due on May 31, 2024
+  - Management fee of 1.6% of the NAV per year.
+  - Profit distribution refers to section 'GP Performance Incentive'
 
 
 ## Fund Structure
@@ -49,50 +36,39 @@ Units will only be available to accredited investors and investors who meet cert
 The Fund Initiator, CoStone Group, is committed to subscribing to 16,000 Class P Units (equivalent to $16,000,000) through its investment Special Purpose Vehicle (SPV), COSTONE INVESTMENT CORPORATION (CIC).
 
 ## General Partner
-
-Cofund RAIF is a limited partnership set to be established in Ontario. COFUND RAIF GP INC., a corporation incorporated in Ontario, will serve as the "General Partner" of the RAIF. An affiliated organization, CoFund Management Inc., will be appointed as the Fund Manager to oversee the day-to-day operations of the RAIF.
+Cofund RAIF is a limited partnership set to be established in Ontario. COFUND RAIF GP INC., a corporation incorporated in Ontario, will serve as the "General Partner" of the RAIF. An affiliated organization, CoFund Management Inc., will be appointed as the Fund Manager to oversee the day-to-day operations of the RAIF. The sole shareholder of the General Partner and Fund Manager is CoFund Asset Management Corporation (CAM)
 
 ## Quarterly Distributions
-
 The Fund intends to provide a fixed 6% annualized cash distribution on the investment capital, payable quarterly, to Unit holders. 
 
 ## GP Performance Incentive
+(AS OF 2024-05-24)
 
 Different investment classes have distinct waterfall performance incentive mechanisms:  
 
-| CLASS A (Regular) | |
+| CLASS A (Minimum Subscription $150,000) | |
 | ----------- | ----------- |  
 | Annualized ROI Buckets | GP Performance Incentive |
 | 0% - 6% | 0% (for the portion below 6%)|
-| Above 6% up to 18% | 10% (for the portion exceeding 6%)|
-| 18% and above | 65%  (for the portion exceeding 18%)|
+| Above 6% up to 12% | 15% (for the portion exceeding 6%)|
+| 12% and above | 50%  (for the portion exceeding 12%)|
 
-| CLASS A (Accredited) | |
+| CLASS B (Minimum Subscription $1,000,000) | |
 | ----------- | ----------- |  
 | Annualized ROI Buckets | GP Performance Incentive |
 | 0% - 6% | 0% (for the portion below 6%)|
-| Above 6% up to 18% | 10% (for the portion exceeding 6%)|
-| 18% and above | 50%  (for the portion exceeding 18%)|
-
-| CLASS I (Institutional) | |
-| ----------- | ----------- |  
-| Annualized ROI Buckets | GP Performance Incentive |
-| 0% - 6% | 0% (for the portion below 6%)|
-| Above 6% up to 18% | 5% (for the portion exceeding 6%)|
-| 18% and above | 35%  (for the portion exceeding 18%)|
+| Above 6% up to 15% | 10% (for the portion exceeding 6%)|
+| 15% and above | 35%  (for the portion exceeding 15%)|
 
 The annualized ROI (Return on Investment) will be calculated based on the NAV (Net Asset Value) YoY (Year over Year), in accordance with IFRS (International Financial Reporting Standards). The value of assets will be reassessed each year by a third-party appraiser, and financial reports will be audited by a third-party accounting firm.
 
 ## Investment Period
-
-The Fund will invest the proceeds from the Placement as outlined in the 'Investment Objective.' This investment will take place between the Closing date and the earliest of either the five-year anniversary of the Closing or a potential one-year extension.
+The Fund will invest the proceeds from the Placement as outlined in the 'Investment Objective.' This investment will take place between the Closing date and the earliest of either the five-year anniversary of the Closing or a potential one-year extension. Further extension requires the approval of the Management Committee and the Special Resolution of the Limited Partners.
 
 ## Transferability of Units
-
 Units cannot be transferred without the consent of the General Partner, subject to certain conditions and compliance with securities laws.
 
 ## Fund Manager
-
 COFUND MANAGEMENT INC., an affiliated organization, will be appointed as the Fund Manager to oversee and provide services pertinent to the day-to-day operations of the Fund.
 
 Fund operational responsiblities include:
@@ -118,7 +94,7 @@ Fund operational responsiblities include:
 
 ## Management Fee
 
-The Fund Manager will charge the Fund a management fee of 2% of the Fund's Net Asset Value (NAV) annually, payable in quarterly installments, to cover operating expenses. If the actual operational costs incurred by the Fund exceed 2% of the NAV, the Fund Manager will be responsible for covering the excess.
+The Fund Manager will charge a management fee of 2% of the Fund's Net Asset Value (NAV) annually to Class A unitholders, and a management fee of 1.6% of the NAV to Class B unitholders, payable in quarterly installments, to cover operating expenses. Should the actual operational costs incurred by the Fund exceed the management fee, the Fund Manager will be responsible for covering the excess.
 
 Expenses for services typically provided by third parties, which fall outside the Fund's operational costs, will be billed directly to the Fund. These expenses include:
 
@@ -146,21 +122,31 @@ The Fund Manager is required to disclose any instances in which affiliated entit
 
 The General Partner shall establish a Management Committee to represent the interests of the CoFund Rental Apartment Investment Fund's Unitholders and to deliberate on significant decisions impacting the Fund.
 
-The Management Committee shall comprise five members: one Chairman and four Directors. The Chairman is to be appointed by the General Partner, while one Director shall be appointed by the Fund Manager. The majority of the Committee, consisting of three Directors who must be independent and not affiliated with either the General Partner or the Fund Manager, shall be elected by the Unitholders (Limited Partners or LPs).
+The Management Committee shall be composed of up to 6 members in total. This includes up to 3 members from the General Partner and Fund Manager, one of whom shall serve as the chairman. Additionally, up to 3 independent members, who are not affiliated with either the General Partner or the Fund Manager.
 
 The initial board of independent Directors will be appointed directly by the General Partner for a term of one year. Upon the expiration of this term, a subsequent election will be conducted during the investor meeting, where the re-election of the same individual is permitted.
 
-Each member of the board possesses one vote in matters concerning significant decisions. Notwithstanding, the Chairman is endowed with a special veto right. For a decision to be ratified, it necessitates the concurrence of a majority of the board members, contingent upon the Chairman not exercising his veto right.
+Each member of the Management Committee shall have one vote in matters concerning significant decisions, with a majority of votes to govern. If there is a tie vote, the Chairman is entitled to a second or casting vote.
 
 Significant decisions include:
+- modifications to the legal structure of the Fund;
+-	amendments to the Management Agreement with the Manager;
+-	issuance of new securities;
+-	subdividing or consolidating the Units;
+-	acquisition or disposition of assets that exceed 25% of the AUM within a three-month period;
+-	approval of property transactions (acquisition or disposition) affiliated with either the General Partner or the Manager;
+-	approval of new vendors affiliated with either the General Partner or the Manager;
+-	authorization of special cash distributions to Unitholders that exceed the Preferred Return;
+-	suspension of early redemption in response to potential liquidity risks; and
+-	extension or early termination of the Fund.
 
-- Modifications to the legal structure of the Fund
-- Amendments to the Management Agreement with the Fund Manager.
-- Acquisition or disposition of assets that exceed 25% of the Assets Under Management (AUM) within a three-month period.
-- Approval of new vendors associated with either the General Partner or the Fund Manager.
-- Authorization of special cash distributions to Unitholders that exceed the promised 6% per annum.
-- Suspension of early redemption in response to potential liquidity risks.
-- Extension or early termination of the fund.
+Management Committee Members are obligated to declare any direct or indirect interests, along with any potential conflicts of interest, concerning the voting matter before proceeding to vote. In the scenarios listed below, Management Committee Members are required to completely abstain from the voting process:
+
+- A. When the fund is acquiring properties from individuals or entities that the members own, either directly or indirectly, partially or fully.
+- B. When the fund is selling properties to individuals or entities that the members own, either directly or indirectly, partially or fully.
+- C. When the fund is entering into new service contracts with vendors that the members own, either directly or indirectly, partially or fully.
+- D. In any other transactions with the fund from which they may directly receive any form of monetary gain, such as consulting fees, commissions, etc.
+
 
 ## Investment Strategy
 
