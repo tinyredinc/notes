@@ -30,7 +30,7 @@ Two classes of limited partnership units (the "Units") of the Fund will be creat
 
 ## Fund Structure
 
-![REIF STRUCTURE](https://raw.githubusercontent.com/tinyredinc/notes/master/real_estate/img/raif_struct.png)
+![REIF STRUCTURE](img/raif_struct.png)
 
 ## COSTONE INVESTMENT CORPORATION
 The Fund Initiator, CoStone Group, is committed to subscribing to 16,000 Class P Units (equivalent to $16,000,000) through its investment Special Purpose Vehicle (SPV), COSTONE INVESTMENT CORPORATION (CIC).
