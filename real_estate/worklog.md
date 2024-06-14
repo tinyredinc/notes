@@ -10,7 +10,7 @@
 - (RAIF) Will be drafting the Committee Charter, Resolution, and Vote Templates.
 - (DATA) Will negotiate with CoStar for commercial real estate data access.
 
-[ROADBLOCK]
+[ROAD BLOCK]
 - N/A
 
 ### SAM - WEEKLY REPORT - 240403
@@ -23,7 +23,7 @@
 - Aim to complete the review of the RAIF LPA, discuss the highlights and notes internally, and hopefully finalize and send a revised Version 2 to the lawyer.
 - Begin working on the "Management Committee Charter" that outlines the process for hiring committee members, their compensation, responsibilities and rights, the proceedings of the committee, and how committee resolutions are recorded.
 
-[ROADBLOCK]
+[ROAD BLOCK]
 - Need confirmation from Eric on all uncertain highlights to finalize the LPA.
 
 ### SAM - WEEKLY REPORT - 240401
@@ -38,5 +38,5 @@
 - Finalize SPV Structure Design v1 and consult with lawyers for implementation.
 - Design and implement the new mechanism for weekly report and meeting.
 
-[ROADBLOCK]
+[ROAD BLOCK]
 - The retainer for our security lawyer has been depleted.
