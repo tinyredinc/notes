@@ -1,4 +1,4 @@
-# Guide for Weekly Report - v240403RED
+# Guide for Weekly Report - v240614 RED
 
 This mechanism for weekly report and meeting, derived from the concepts of Scrum Master and Agile Management, is designed to balance management and reporting overhead. It is optimized for universal application across all types of organizations and is ideally suited for groups of fewer than 10 people. For groups larger than 10, implementing a management hierarchy is recommended to ensure efficient reporting. 
 
@@ -6,10 +6,10 @@ This mechanism for weekly report and meeting, derived from the concepts of Scrum
 ## STRUCTURE 
 The weekly report should answer and only answer three key questions:
 
-1. What was accomplished in the past week?
+1. What was accomplished in the LAST WEEK?
     - Up to 3 most significant accomplishment in bullet points.
 
-2. What are the plans for the next week?
+2. What are the plans for the THIS WEEK?
     - Up to 3 most significant task in bullet points.
 
 3. Are there any roadblocks?
@@ -30,14 +30,14 @@ The weekly report should answer and only answer three key questions:
 
 ## EXAMPLE
 
-[WEEKLY REPORT - 240401 - RED]
+[SAM - WEEKLY REPORT - 240401]
 
-[PAST WEEK]
+[LAST WEEK]
 - RAIF Subscription Agreement v1 completed, reviewed completed, discussion completed, notes and questions are marked.
 - Progressed on SPV Structure Design v1, EST 80% completed, ETA next week.
 - Letter of Intent (LOI) v1 has been drafted for potential SPV investors to place a deposit.
 
-[NEXT WEEK]
+[THIS WEEK]
 - Address concerns with security lawyer and work for a revised RAIF Subscription Agreement V2.
 - Finalize SPV Structure Design v1 and consult with lawyers for implementation.
 - Design and implement the new mechanism for weekly report and meeting.
