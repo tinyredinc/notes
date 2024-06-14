@@ -4,6 +4,7 @@ This mechanism for weekly report and meeting, derived from the concepts of Scrum
 
 
 ## STRUCTURE 
+
 The weekly report should answer and only answer three key questions:
 
 1. What was accomplished in the LAST WEEK?
@@ -30,7 +31,7 @@ The weekly report should answer and only answer three key questions:
 
 ## EXAMPLE
 
-[SAM - WEEKLY REPORT - 240401]
+### SAM - WEEKLY REPORT - 240401
 
 [LAST WEEK]
 - RAIF Subscription Agreement v1 completed, reviewed completed, discussion completed, notes and questions are marked.
