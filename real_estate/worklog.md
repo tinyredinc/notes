@@ -1,3 +1,19 @@
+### SAM - WEEKLY REPORT 240709
+
+[LAST WEEK]
+- (RAIF) MSA with the accounting firm was signed; arranged a site visit to start the service.
+- (RAIF) Finalized Committee Charter V1, pending internal review.
+- (UTGM) Assisted Harry with a significant potential investor, Steven.
+
+[THIS WEEK]
+- (RAIF) Meet with the accounting firm to work on setting up the framework of the accounting system.
+- (RAIF) Finish the internal review of Committee Charter V1 and begin collaborating with the lawyer to finalize the legal document.
+- (RAIF) Complete V1 of the Resolution and Vote Form (templates), and conduct an internal review.
+- (COFUND) Draft a Statement of Work (SOW) for COFUND WEB V2, which will include updates to the information and functionalities of the investor portal.
+
+[ROAD BLOCK]
+- Retainer need to be paid to security lawyer
+
 ### SAM - WEEKLY REPORT 240702
 
 [LAST WEEK]
