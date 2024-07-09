@@ -4,28 +4,38 @@ COFUND RENTAL APARTMENT INVESTMENT LIMITED PARTNERSHIP
 
 ## ARTICLE 1 GENERAL
 
-1.1 The MANAGEMENT COMMITTEE (hereinafter referred to as the "COMMITTEE") is established by COFUND RAIF GP INC. (hereinafter referred to as the "GENERAL PARTNER") on behalf of COFUND RENTAL APARTMENT INVESTMENT LIMITED PARTNERSHIP (hereinafter referred to as the "PARTNERSHIP"), in accordance with the LIMITED PARTNERSHIP AGREEMENT OF COFUND RENTAL APARTMENT INVESTMENT LIMITED PARTNERSHIP (hereinafter referred to as the "LPA").
+### 1.1 ESTABLISHMENT OF THE COMMITTEE
+The Management Committee (hereinafter referred to as the "Committee") is established by COFUND RAIF GP INC. (hereinafter referred to as the "General Partner" or "GP") on behalf of COFUND RENTAL APARTMENT INVESTMENT LIMITED PARTNERSHIP (hereinafter referred to as the "Partnership"), in accordance with the LIMITED PARTNERSHIP AGREEMENT OF COFUND RENTAL APARTMENT INVESTMENT LIMITED PARTNERSHIP (hereinafter referred to as the "LPA").
 
-1.2 The purpose of this MANAGEMENT COMMITTEE CHARTER (hereinafter referred to as the "CHARTER") is to develop a more effective governance system and enhance supervisory capabilities for the PARTNERSHIP. The members of the COMMITTEE (hereinafter referred to as the "MEMBERS") are expected to adhere strictly to the CHARTER, provide strategic business advice efficiently, and approve significant decisions for the GENERAL PARTNER in good faith.
+### 1.2 PURPOSE OF THE CHARTER
+The purpose of this Management Committee Charter (hereinafter referred to as the "Charter") is to develop a more effective governance system and enhance supervisory capabilities for the Partnership. The Members of the Committee (hereinafter referred to as the "Members") are required to agree to, sign, and strictly adhere to the Charter, and to make significant decisions for the Partnership in good faith.
 
-1.3 The terms of the CHARTER shall not contravene the LPA. Should any specific term of the CHARTER be found invalid, it will not affect the validity of the remaining terms, which will continue to be effective. Unless otherwise expressly provided, the words and phrases used in this CHARTER shall have the same definitions and interpretations as those in the LPA.
+### 1.3 CONFORMANCE TO THE LPA
+The terms of the Charter shall not contravene the LPA. Should any specific term of the Charter be found invalid, it will not affect the validity of the remaining terms, which will continue to be effective.
+
+### 1.4 DEFINITIONS AND INTERPRETATIONS
+Unless otherwise expressly provided, the words and phrases used in this Charter shall have the same definitions and interpretations as those in the LPA.
 
 
 ## ARTICLE 2 COMMITTEE MEMBER
 
-2.1 The COMMITTEE shall be composed of up to six (6) MEMBERS in total. This includes up to three (3) MEMBERS from the GENERAL PARTNER and FUND MANAGER, one of whom shall serve as the COMMITTEE CHAIRMAN. Additionally, up to three (3) INDEPENDENT MEMBERS, who are not affiliated with either the GENERAL PARTNER or the FUND MANAGER.
+### 2.1 COMPOSITION OF THE COMMITTEE
+The Committee shall be composed of up to six (6) Members in total. This includes up to three (3) Members from the General Partner and Fund Manager, one of whom shall serve as the Committee Chairman. Additionally, there will be up to three (3) Independent Members, who are not affiliated with either the General Partner or the Fund Manager. The initial Members, including up to three (3) Independent Members, shall be appointed by the General Partner on or before the Tranche 1 Closing Date.
 
-2.2 Up to six (6) initial MEMBERS, including up to three (3) INDEPENDENT MEMBERS, of the COMMITTEE are to be appointed by the GENERAL PARTNER on or before the Tranche 1 Closing Date. INDEPENDENT MEMBERS will be re-elected by the Limited Partners at the first annual meeting of Partners, with all classes of Units voting together as a single class.
+### 2.2 TERM OF COMMITTEE MEMBERS
+The term of Committee Members shall be one (1) year. Members from the General Partner and Fund Manager will be re-appointed by the General Partner, and Independent Members will be re-elected from nominees by Limited Partners, with all classes of Units voting together as a single class, at each annual meeting of Partners.
 
-2.3 In order to be a nominee of INDEPENDENT MEMBERS, candidate must obtain the written support from Limited Partners holding in the aggregate 5% or more of all Units, 90 days prior to the annual meeting of Partners. Exsiting INDEPENDENT MEMBERS will automatically be nomineed for re-election. 
+### 2.3 INDEPENDENT MEMBERS
+To be nominated as an Independent Member candidate, they must obtain written support from Limited Partners holding, in aggregate, 5% or more of all Units, 90 days prior to the annual meeting of Partners. Existing Independent Members will automatically be nominated for re-election. Nominees require a minimum of 50% of the votes cast at a meeting of Limited Partners to be elected.
 
-2.4 One (1) COMMITTEE SECRETARY is to be appointed by the GENERAL PARTNER, who will have no voting rights but will serve as the contact person for COMMITTEE MEMBERS, the host and witness of the COMMITTEE MEETINGS, and the documentalist of all COMMITTEE files such as RESOLUTIONS, VOTES, AND ANNOUNCEMENTS.
+### 2.4 COMMITTEE SECRETARY
+One (1) Committee Secretary shall be appointed by the General Partner. The Secretary will have no voting rights but will serve as the contact person for Committee Members, the host and witness of the Committee Meetings, and the documentalist of all Committee files, such as Resolutions, Votes, and Announcements.
 
 
 ## ARTICLE 3 COMMITTEE RESOLUTION
 
 ### 3.1 SCOPE
-The scenarios that mandatorily require a RESOLUTION by the COMMITTEE include:
+In accordance with the LPA - ARTICLE 11 - COMMITTEES, Section 11.2 - Matters Requiring Consultation with the Management Committee, a Committee Resolution is mandatorily required with respect to the following matters:
 
 - Modifications to the legal structure of the PARTNERSHIP;
 - Amendments to the Management Agreement with the FUND MANAGER;
@@ -36,69 +46,43 @@ The scenarios that mandatorily require a RESOLUTION by the COMMITTEE include:
 - Approval of new vendors affiliated with either the GENERAL PARTNER or the FUND MANAGER;
 - Authorization of special cash distributions to Unitholders that exceed the Preferred Return;
 - Suspension of early redemptions in response to potential liquidity risks;
-- Extension or early termination of the Fund.
+- Extension of Term of the Partnership or early termination of the Partnership.
 
-For scenarios not covered in the above items, such as generic performance reviews and business advice, having a COMMITTEE RESOLUTION is optional.
+For scenarios not covered in the above items, such as generic performance reviews and business advice, having a Committee Resolution is optional.
 
 ### 3.2 PROCEDURE
-The procedure for a COMMITTEE RESOLUTION is: DRAFT RESOLUTION >> COMMITTEE MEETING >> RESOLUTION ANNOUNCEMENT.
+The procedure for a Committee Resolution is as follows: Draft Resolution → Committee Meeting (Vote) → Resolution Announcement.
 
-3.2.1 DRAFT RESOLUTION
+#### 3.2.1 DRAFT RESOLUTION
+- Only the General Partner, Fund Manager, and Committee Members may draft a Resolution.
+- The sponsor should prepare the Draft Resolution by completing the Resolution Form provided in APPENDIX A and attach any additional materials, if applicable.
+- Once the Draft Resolution is ready, the sponsor should contact the Committee Secretary to schedule a Committee Meeting.
+- The Committee Secretary will coordinate the schedules of the Committee Members and arrange for the Committee Meeting.
+- The Draft Resolution must be distributed at least one day prior to the Committee Meeting.
 
-- Only the GENERAL PARTNER, FUND MANAGER, and COMMITTEE MEMBERS may draft a RESOLUTION.
-- The sponsor should prepare the RESOLUTION documents by completing the resolution template form provided in APPENDIX A and attach all additional materials, if any.
-- Once the RESOLUTION documents are ready, the sponsor should contact the COMMITTEE SECRETARY to schedule a COMMITTEE MEETING.
-- The COMMITTEE SECRETARY will align the schedules of COMMITTEE MEMBERS and arrange for the COMMITTEE MEETING.
-- The RESOLUTION documents must be distributed at least one day prior to the COMMITTEE MEETING.
+#### 3.2.2 COMMITTEE MEETING
+- Committee Meetings can be hosted either onsite, online, or in a hybrid format.
+- Voice and screen recordings may be made by the Committee Secretary for record-keeping purposes.
+- Attending Committee Meetings and voting are the primary responsibilities of each Committee Member. If a member is unable to participate directly, they must delegate a representative to vote on their behalf, or they will be recorded as absent.
+- Unless otherwise noted, each Committee Meeting will follow the agenda below:
+	- The sponsor presents and explains the Draft Resolution (up to 30 minutes).
+	- Question and answer session for the Committee Members (up to 20 minutes).
+	- Committee Members vote, followed by the counting and announcing of the voting results (up to 10 minutes).
+- Vote for Draft Resolution:
+	- Each Committee Member is entitled to one vote on a Draft Resolution, by filling out the Vote Form provided in APPENDIX B.
+	- There are three (3) voting options: Favor, Against, or Abstention, with a majority of votes to govern.
+	- In the event of a tie, the Committee Chairman is entitled to a second or casting vote.
 
-3.2.2 COMMITTEE MEETING
-- COMMITTEE MEETINGS can be hosted either onsite, online, or in a hybrid format.
-- Voice and screen recordings may be made by the COMMITTEE SECRETARY for record-keeping purposes.
-- Attending COMMITTEE meetings and voting are the primary responsibilities of each COMMITTEE MEMBER. If a MEMBER is unable to participate directly, they must delegate a representative to vote on their behalf, or they will be recorded as absent.
-- Unless otherwise noted, each COMMITTEE MEETING will last one hour and will strictly follow the agenda below:
-- The SPONSOR presents and explains the RESOLUTION (up to 30 minutes).
-Question and answer session for the COMMITTEE MEMBERS (up to 20 minutes).
-- COMMITTEE MEMBERS vote, followed by counting and announcing the voting results (up to 10 minutes).
-
-## ARTICLE 4 PROCEDURE OF RESOLUTION
-
-4.1 The procedure of a COMMITTEE RESOLUTION is: DRAFT RESOLUTION >> COMMITTEE REVIEW >> COMMITTEE MEETING >> ANNOUNCEMENT
-
-4.2 DRAFT RESOLUTION
-	- Only GENERAL PARTNER, FUND MANAGER and COMMITTEE MEMBERS can draft a RESOLUTION
-	- The SPONSOR should fill the RESOLUTION template given in APPENDIX A and having all additionaly matrials attached if any.
-	- Once the RESOLUTION documents are prepared, the SPONSOR should contact the COMMITTEE SECRETARY and call for COMMITTEE REVIEW and MEETING
-4.3 COMMITTEE REVIEW
-	- All COMMITTEE MEMBERS are given up to 7 days to review the the RESOLUTION documents prior to the COMMITTEE MEETING
-	- The COMMITTEE SECRETARY will align COMMITTEE MEMBERS' schedule and arrange for a COMMITTEE MEETING
-4.4 COMMITTEE MEETING
-	- COMMITTEE MEETINGS can be hosted either onsite or online or both
-	- Voice and screen may be recoreded by the COMMITTEE SECRETARY for record keeping purpose
-	- Attending COMMITTEE meetings and voting are the primary responsibilities of each Committee member. In the event that COMMITTEE MEMBERS are unable to participate directly, they must delegate a representative to vote on their behalf, or they will be counted and anouced as absence.
-	- Unless speciafically noticed, each COMMITTEE MEETING will be 1 hour and strictly follows the following agenda
-		- The SPONSOR presents and explains the RESOLUTION(up to 30 min)
-		- The question and answer session for the COMMITTEE MEMBERS(up to 20 min)
-		- The COMMITTEE MEMBERS vote, and then count the voting result(up to 10 min)
-
-4.4  ANNOUNCEMENT
-	- COMMITTEE CHAIRMAN will anounce the result to GENERAL PARTNER, FUND MANAGER and LIMITED PARTNERS.
-	- The electronic copy of the RESOLUTION will be archived and avaible to review for all LIMITED PARTNERS
+#### 3.2.3 RESOLUTION ANNOUNCEMENT
+- If a Draft Resolution is rejected by the Committee, it will be archived without any announcement.
+- If a Draft Resolution is adopted by the Committee, it will become an official Resolution of the Management Committee. The original Draft Resolution and the Vote Forms of each Committee Member will be attached for the record.
+- The official Resolution of the Management Committee will be announced to all Unitholders and made available to view on the online investor portal.
 
 
-## ARTICLE 4 VOTE FOR RESOLUTION 
-- Each member of the COMMITTEE shall have one VOTE for a sepcific RESOLUTION
-- There are three(3) voting options: FAVOR or AGAINST or ABSTENTION, with a majority of votes to govern.
-- If there is a tie VOTE, the COMMITTEE CHAIRMAN is entitled to a second or casting VOTE
+## ARTICLE 4 COMMITTEE EXPENSE
+The costs of running the Management Committee will be billed to the Partnership as Partnership Expenses in accordance with LPA ARTICLE 12 - EXPENSES, Section 12.2 - Expenses of the Partnership.
 
-
-## ARTICLE 5 COMMITTEE MEETING
-
-
-
-
-
-The Resolution
-
-VOTE FAVOR/AGAINST/ABSTENTION
-
-The Resolution has been ADOPTED/REJECTED
+### 4.1 COMMITTEE MEMBER'S FEE
+- Committee Members will be paid at a rate of $200.00 per hour for the 2024 financial year. This rate may be subject to change annually, depending on the human resources market.
+- Committee Members can claim their hours spent on each Draft Resolution in their Vote Form (APPENDIX B).
+- Committee Members will be paid by the end of each quarter based on their total hours of service from the previous quarter.

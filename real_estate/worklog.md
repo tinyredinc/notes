@@ -1,4 +1,35 @@
-### SAM - WEEKLY REPORT 240603
+### SAM - WEEKLY REPORT 240702
+
+[LAST WEEK]
+- (RAIF) Finalized the Master Service Agreement with accounting firm.
+- (UTGM) Finalized the amendment to the investor agreement to address the potential linkage flaw.
+
+[THIS WEEK]
+- (RAIF) Sign MSA and start the service this week.
+- (RAIF) Will try to finalize the Committee Charter V1 and work on the Resolution and Vote templates.
+- (COFUND) Will draft a SOW for COFUND WEB V2, including information updates and functionalities for the investor portal.
+
+[ROAD BLOCK]
+- Retainer need to be paid to the accounting firm
+
+### SAM - WEEKLY REPORT 240625
+
+[LAST WEEK]
+- (DATA) Scheduled a meeting with Costar. A new quotation was acquired, but later Eric requested delaying the subscription until September.
+- (RAIF/UTGM) Co-served a client with Harry. A potential flaw was identified in the contracts.
+- (RAIF) Engaged with Dong Yi for a total accounting and tax solution. A ready-to-sign MSA is prepared.
+- (RAIF) Completed draft v1 of the Committee Charter. Will begin internal review and comments.
+
+[THIS WEEK]
+- (RAIF) Will push to sign the MSA with the accounting firm and aim to start the service this week.
+- (RAIF) Will try to finalize the Committee Charter V1 and work on the Resolution and Vote templates.
+- (COFUND) Will draft a SOW for COFUND WEB V2, including information updates and functionalities for the investor portal.
+- (RAIF/UTGM)Will draft an amendment to the investor agreement to address the potential flaw.
+
+[ROAD BLOCK]
+- N/A
+
+### SAM - WEEKLY REPORT 240618
 
 [LAST WEEK]
 - (RAIF) Finalized and archived the record book for TR1 and TR2, including updating the dates on TR1.
@@ -13,7 +44,7 @@
 [ROAD BLOCK]
 - N/A
 
-### SAM - WEEKLY REPORT - 240403
+### SAM - WEEKLY REPORT - 240416
 
 [LAST WEEK]
 - RAIF LPA(Limited Partnership Agreement) Draft v1 completed. Reviewed 12 of the 21 articles; notes and highlights will be added during the review process.
@@ -26,7 +57,7 @@
 [ROAD BLOCK]
 - Need confirmation from Eric on all uncertain highlights to finalize the LPA.
 
-### SAM - WEEKLY REPORT - 240401
+### SAM - WEEKLY REPORT - 240402
 
 [LAST WEEK]
 - RAIF Subscription Agreement v1 completed, reviewed completed, discussion completed, notes and questions are marked.
