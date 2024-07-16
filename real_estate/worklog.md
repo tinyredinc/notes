@@ -1,4 +1,4 @@
-### SAM - WEEKLY REPORT 240709
+### SAM - WEEKLY REPORT 240716
 
 [LAST WEEK]
 - (RAIF) Met the accounting firm, the action plan has been in place for the accouting framework.
