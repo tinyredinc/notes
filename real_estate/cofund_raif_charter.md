@@ -86,3 +86,4 @@ The costs of running the Management Committee will be billed to the Partnership 
 - Committee Members will be paid at a rate of $200.00 per hour for the 2024 financial year. This rate may be subject to change annually, depending on the human resources market.
 - Committee Members can claim their hours spent on each Draft Resolution in their Vote Form (APPENDIX B).
 - Committee Members will be paid by the end of each quarter based on their total hours of service from the previous quarter.
+- Committee Members 
