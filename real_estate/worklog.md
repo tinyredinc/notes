@@ -1,6 +1,22 @@
 ### SAM - WEEKLY REPORT 240709
 
 [LAST WEEK]
+- (RAIF) Met the accounting firm, the action plan has been in place for the accouting framework.
+- (RAIF) Committee Charter V1 has been internally reviewed.
+- (RAIF) Draft Version of Committee Resolution and Vote Form (templates) has been completed.
+- (UTGM) Identified and addressed some significant flaws in UTGM legal documents
+
+[THIS WEEK]
+- (RAIF) Work with security lawyer, finalize the formal Charter/Resolution/Vote legal docs.
+- (RAIF) Start to working on 5 resolutions that are needed for RAIF Committee
+- (COFUND) Continue work on Statement of Work (SOW) for COFUND WEB V2
+
+[ROAD BLOCK]
+- Retainer need to be paid to security lawyer
+
+### SAM - WEEKLY REPORT 240709
+
+[LAST WEEK]
 - (RAIF) MSA with the accounting firm was signed; arranged a site visit to start the service.
 - (RAIF) Finalized Committee Charter V1, pending internal review.
 - (UTGM) Assisted Harry with a significant potential investor, Steven.
