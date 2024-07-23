@@ -1,3 +1,22 @@
+### SAM - WEEKLY REPORT 240723
+
+[LAST WEEK]
+- (RAIF) The formal Charter/Resolution/Vote legal documents has been prepared.
+- (UTGM) Significant flaws in UTGM legal documents have been fixed with Peter.
+- (MKT) Brain stormed a proposal for future perodic seminars plan. 
+
+[THIS WEEK]
+- (RAIF) Close tranch 3 trasection with CIC
+- (RAIF) Committee Draft Resolution 1 - Aquisation of UTGM
+- (RAIF) Committee Draft Resolution 2 - Land loan to Lindsay
+- (RAIF) Committee Draft Resolution 3 - MSA with Vendor Urbanway
+- (RAIF) Committee Draft Resolution 4 - MSA with Vendor Yetaverse
+- (MKT) Continue think and work on perodic seminars plan
+- (COFUND) Continue work on Statement of Work (SOW) for COFUND WEB V2
+
+[ROAD BLOCK]
+- Retainer need to be paid to security lawyer
+
 ### SAM - WEEKLY REPORT 240716
 
 [LAST WEEK]
