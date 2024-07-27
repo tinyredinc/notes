@@ -142,18 +142,55 @@ The obligation to maintain confidentiality continues even after a Committee Memb
 ### 6.4 BREACH OF CONFIDENTIALITY
 Any breach of confidentiality may result in disciplinary action, including removal from the Committee, and may also result in legal action.
 
+[THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK.]
 
 IN WITNESS WHEREOF, the undersigned have executed this Management Committee Charter on behalf of COFUND RENTAL APARTMENT INVESTMENT LIMITED PARTNERSHIP, effective as of the date first written above.
 
-COFUND RENTAL APARTMENT INVESTMENT LIMITED PARTNERSHIP, by its general partner, CoFund RAIF GP Inc.
-Per:
-Name:
-Title:
-Date:
+## SIGNING PAGE 
+COFUND RENTAL APARTMENT INVESTMENT LIMITED PARTNERSHIP,   
+by its General Partner, COFUND RAIF GP INC.  
+Per:  
+Name:  
+Title:  
+Date:  
 
 
-Committee Member 
-Per: 
-Name: 
-Title: 
-Date: 
+Committee Member  
+Per:   
+Name:   
+Title:   
+Date:   
+
+## APPENDIX A - RESOLUTION FORM
+
+- Resolution Number (Input Box)
+- Resolution Name (Input Box)
+- Resolution Description (Text Area)
+- Resolution Sponsor
+- Supporting Material (Table)
+	- File Number
+	- File Name
+	- File Description
+- Matters Requiring Consultation (Select One or Many)
+	- Modifications to the legal structure of the PARTNERSHIP;
+	- Amendments to the Management Agreement with the FUND MANAGER;
+	- Issuance of new securities;
+	- Subdividing or consolidating the Units;
+	- Acquisition or disposition of assets exceeding 25% of the Assets Under Management (AUM) within a three-month period;
+	- Approval of property transactions (acquisition or disposition) affiliated with either the GENERAL PARTNER or the FUND MANAGER;
+	- Approval of new vendors affiliated with either the GENERAL PARTNER or the FUND MANAGER;
+	- Authorization of special cash distributions to Unitholders that exceed the Preferred Return;
+	- Suspension of early redemptions in response to potential liquidity risks;
+	- Extension of Term of the Partnership or early termination of the Partnership.
+- Resolution Submission Date (Input Box)
+- Signature of Committee Secretary (Input Box)
+
+- Committee Meeting Date (Input Box)
+- Committee Vote Result (Radio Box)
+	- Adopted
+	- Rejected
+- Signature of Commitee Chair (Input Box)
+
+## APPENDIX A - VOTE FORM
+- Resolution Number (Input Box)
+- Resolution Name (Input Box)
