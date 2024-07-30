@@ -1,3 +1,29 @@
+please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
+
+### SAM - WEEKLY REPORT 240730
+
+[LAST WEEK]
+- (RAIF) The Charter/Resolution/Vote documents have been reviewed, updated, and signed by Richard.
+- (RAIF) Began drafting resolutions; the effort required is more extensive than anticipated, possibly extending completion by one or two weeks.
+- (MKT) Drafted the content structure for the periodic seminars plan.
+- (COFUND) Listed the functionality requirements for the investor portal.
+
+
+[THIS WEEK]
+- (RAIF) Close Tranche 3 transaction with CIC.
+- (RAIF) Committee Draft Resolution 1 - Acquisition of UTGM.
+- (RAIF) Committee Draft Resolution 2 - Land loan to Lindsay.
+- (RAIF) Committee Draft Resolution 3 - MSA with Vendor Urbanway.
+- (RAIF) Committee Draft Resolution 4 - MSA with Vendor Yetaverse.
+- (RAIF) Communicate with committee members to get the Charter signed.
+- (MKT) Start internal communications regarding the content structure of periodic seminars.
+- (COFUND) Begin internal communications for updating content on COFUND WEB V2.
+
+[ROAD BLOCK]
+- Retainer need to be paid to security lawyer
+- Need informational help on drafting committee resolutions
+
+
 ### SAM - WEEKLY REPORT 240723
 
 [LAST WEEK]
