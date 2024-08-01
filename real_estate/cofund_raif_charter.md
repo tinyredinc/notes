@@ -115,11 +115,8 @@ Committee Members shall conduct their duties with the highest standards of integ
 In accordance with LPA ARTICLE 13 - CONFLICTS AND CONFIDENTIALITY, Section 13.4 - Transactions with Partners, Committee Members are obligated to declare any direct or indirect interests, along with any potential conflicts of interest, concerning the voting matter in the Vote Form (APPENDIX B). In the scenarios listed below, Committee Members are required to completely abstain from the voting process:
 
 - When the Partnership proposes to acquire properties or assets from individuals or entities that the Committee Members own or control, either directly or indirectly;
-
 - When the Partnership proposes to sell properties or assets to individuals or entities that the Committee Members own or control, either directly or indirectly;
-
 - When the Partnership proposes to enter new service contracts with vendors that the Committee Members own or control, either directly or indirectly; and
-
 - In any other transactions with the Partnership from which Committee Members may directly receive any form of monetary gain, such as consulting fees, commissions, etc.
 
 ### 5.3 PROFESSIONAL CONDUCT
@@ -167,11 +164,12 @@ Date:
 - Resolution Name (Input Box)
 - Resolution Description (Text Area)
 - Resolution Sponsor
+- Sponsor Signature
 - Supporting Material (Table)
 	- File Number
 	- File Name
 	- File Description
-- Matters Requiring Consultation (Select One or Many)
+- Matters Requiring Consultation (Select One or Many that may apply)
 	- Modifications to the legal structure of the PARTNERSHIP;
 	- Amendments to the Management Agreement with the FUND MANAGER;
 	- Issuance of new securities;
@@ -182,6 +180,7 @@ Date:
 	- Authorization of special cash distributions to Unitholders that exceed the Preferred Return;
 	- Suspension of early redemptions in response to potential liquidity risks;
 	- Extension of Term of the Partnership or early termination of the Partnership.
+	- Other (Please Specify)
 - Resolution Submission Date (Input Box)
 - Signature of Committee Secretary (Input Box)
 
@@ -191,6 +190,20 @@ Date:
 	- Rejected
 - Signature of Commitee Chair (Input Box)
 
-## APPENDIX A - VOTE FORM
+## APPENDIX B - VOTE FORM
 - Resolution Number (Input Box)
 - Resolution Name (Input Box)
+- COI Disclosure (Text Area)
+- Please check the scenarios below if they apply to you:
+	- When the Partnership proposes to acquire properties or assets from individuals or entities that the Committee Members own or control, either directly or indirectly
+	- When the Partnership proposes to sell properties or assets to individuals or entities that the Committee Members own or control, either directly or indirectly
+	- When the Partnership proposes to enter new service contracts with vendors that the Committee Members own or control, either directly or indirectly
+	- In any other transactions with the Partnership from which Committee Members may directly receive any form of monetary gain, such as consulting fees, commissions, etc.
+- VOTE FOR ONE:
+	- Favor
+	- Against
+	- Abstention
+- Effort on the Resolution (Hours)
+- Committee Meeting Date (Input Box)
+- Committee Member Name (Input Box)
+- Committee Member Title (Input Box)
