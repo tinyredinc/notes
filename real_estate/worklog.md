@@ -1,5 +1,30 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
+### SAM - WEEKLY REPORT 240806
+
+[LAST WEEK]
+
+- (RAIF) The Committee Charter documents have been signed by all except Joel.
+- (RAIF) Progress on Committee Draft Resolution 3 - MSA with Vendor Urbanway, and Committee Draft Resolution 4 - MSA with Vendor Yetaverse.
+- (COFUND) Initiated internal communications to update content on COFUND WEB V2.
+
+[THIS WEEK]
+
+- (RAIF) Finalize Tranche 3 transaction with CIC.
+- (RAIF) Obtain Joel’s signature on the Committee Charter.
+- (RAIF) Address Committee Draft Resolution 1 - Acquisition of UTGM.
+- (RAIF) Address Committee Draft Resolution 2 - Land loan to Lindsay.
+- (RAIF) Finalize Committee Draft Resolution 3 - MSA with Vendor Urbanway.
+- (RAIF) Finalize Committee Draft Resolution 4 - MSA with Vendor Yetaverse.
+- (COFUND) Develop a proposal for the COFUND WEB V2 content update.
+- (COFUND) Potential collabration with "Tian Feng Fund" security borkerage/firm.
+- (MKT) (Low Priority) Begin internal discussions about the content structure for periodic seminars.
+
+[ROADBLOCKS]
+- Payment due to the security lawyer for retainer.
+
+
+
 ### SAM - WEEKLY REPORT 240730
 
 [LAST WEEK]
