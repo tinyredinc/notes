@@ -17,7 +17,7 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 - (RAIF) Finalize Committee Draft Resolution 3 - MSA with Vendor Urbanway.
 - (RAIF) Finalize Committee Draft Resolution 4 - MSA with Vendor Yetaverse.
 - (COFUND) Develop a proposal for the COFUND WEB V2 content update.
-- (COFUND) Potential collabration with "Tian Feng Fund" security borkerage/firm.
+- (COFUND) Potential collabration with "TF International" security borkerage/firm.
 - (MKT) (Low Priority) Begin internal discussions about the content structure for periodic seminars.
 
 [ROADBLOCKS]
