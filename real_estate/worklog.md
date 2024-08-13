@@ -2,30 +2,24 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 ### SAM - WEEKLY REPORT 240813
 
 [LAST WEEK]
-
-
-- (COFUND) Performed background research and proposal review of "TF International", comments has been made.
-
-
-
-- (RAIF) The Committee Charter documents have been signed by all except Joel.
-- (RAIF) Progress on Committee Draft Resolution 3 - MSA with Vendor Urbanway, and Committee Draft Resolution 4 - MSA with Vendor Yetaverse.
-- (COFUND) Initiated internal communications to update content on COFUND WEB V2.
+- (COFUND) Conducted background research and reviewed the proposal for "TF International." Comments have been provided.
+- (COFUND) Emails and phone calls have been made to Joel, requesting him to sign and return the Charter.
+- (MODULAR) Participated in two meetings discussing the feasibility study and action plan for importing containerized home products.
+- (BRIARS) Participated in a meeting to discuss the revised plan for the Briars Forbes Club.
+- (RAIF) Prepared all documents for the Tranche 3 transaction with CIC, contacted the lawyer, and are now pending signature.
 
 [THIS WEEK]
-
-- (RAIF) Finalize Tranche 3 transaction with CIC.
-- (RAIF) Obtain Joel’s signature on the Committee Charter.
+- (MODULAR) Further participate the project of importing containerized home products from China.
 - (RAIF) Address Committee Draft Resolution 1 - Acquisition of UTGM.
 - (RAIF) Address Committee Draft Resolution 2 - Land loan to Lindsay.
 - (RAIF) Finalize Committee Draft Resolution 3 - MSA with Vendor Urbanway.
 - (RAIF) Finalize Committee Draft Resolution 4 - MSA with Vendor Yetaverse.
-- (COFUND) Develop a proposal for the COFUND WEB V2 content update.
-- (COFUND) Potential collabration with "TF International" security borkerage/firm.
+- (COFUND) (Low Priority) Develop a proposal for the COFUND WEB V2 content update.
 - (MKT) (Low Priority) Begin internal discussions about the content structure for periodic seminars.
 
 [ROADBLOCKS]
 - Payment due to the security lawyer for retainer.
+- Obtain Joel’s signature on the Committee Charter.
 
 
 ### SAM - WEEKLY REPORT 240806
