@@ -11,10 +11,18 @@ Marketing Plan for Expandable Homes
 
 ### [Wholesale]
 - Target Audience
-- Minimum Purchase Quantity 10+?
+	- Resort Owner
+	- Real Estate Developer/Investor
+	- Trailer Park Owner
+	- Affordable Projects from GOV
+- Minimum Purchase Quantity
+	- At least 10 or 10+
 - Estimated Price Range per Unit
+	- Negotiable base on terms and scales
 - Service & Product Options
+	- Demand driven customization
 - Key Selling Points
+	- Matching 
 
 ## Marketing Materials
 - Brand Name and Logo
