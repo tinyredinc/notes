@@ -1,24 +1,23 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
-### SAM - WEEKLY REPORT 240813
+### SAM - WEEKLY REPORT 240813 & 240820
 
 [LAST WEEK]
-- (COFUND) Conducted background research and reviewed the proposal for "TF International." Comments have been provided.
-- (COFUND) Emails and phone calls have been made to Joel, requesting him to sign and return the Charter.
-- (MODULAR) Participated in two meetings discussing the feasibility study and action plan for importing containerized home products.
-- (BRIARS) Participated in a meeting to discuss the revised plan for the Briars Forbes Club.
-- (RAIF) Prepared all documents for the Tranche 3 transaction with CIC, contacted the lawyer, and are now pending signature.
+- (COFUND) Conducted background research and reviewed the proposal for "TF International." Provided comments and feedback.
+- (COFUND) Sent emails and made phone calls to Joel, requesting him to sign and return the Charter.
+- (MODULAR) Participated in meetings discussing the feasibility study and action plan for importing containerized home products.
+- (MODULAR) Conducted a site visit to Lindsay to explore potential business opportunities for containerized home products.
+- (MODULAR) Drafted a marketing plan for both the Lindsay show and containerized home products.
+- (BRIARS) Participated in meetings to discuss the revised plan for the Briars Forbes Club.
+- (RAIF) Prepared all documents for the Tranche 3 transaction with CIC, contacted the lawyer, and are now awaiting signatures.
 
 [THIS WEEK]
-- (MODULAR) Further participate the project of importing containerized home products from China.
-- (RAIF) Address Committee Draft Resolution 1 - Acquisition of UTGM.
-- (RAIF) Address Committee Draft Resolution 2 - Land loan to Lindsay.
-- (RAIF) Finalize Committee Draft Resolution 3 - MSA with Vendor Urbanway.
-- (RAIF) Finalize Committee Draft Resolution 4 - MSA with Vendor Yetaverse.
+- (MODULAR) Continue involvement in the project of importing containerized home products from China.
+- (MODULAR) Ensure internal alignment on the marketing plan for containerized home products.
+- (RAIF) (Low Priority) Finalize Committee Draft Resolutions for the Acquisition of UTGM, Land loan to Lindsay, MSA with Vendor Yetaverse, and MSA with Vendor Urbanway.
 - (COFUND) (Low Priority) Develop a proposal for the COFUND WEB V2 content update.
-- (MKT) (Low Priority) Begin internal discussions about the content structure for periodic seminars.
+- (MKT) (Low Priority) Initiate internal discussions on the content structure for periodic seminars.
 
 [ROADBLOCKS]
-- Payment due to the security lawyer for retainer.
 - Obtain Joel’s signature on the Committee Charter.
 
 
