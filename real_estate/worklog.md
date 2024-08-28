@@ -1,4 +1,12 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
+### SAM - WEEKLY REPORT 240827
+
+[LAST WEEK]
+- (RAIF) Tranche 3 files signed and completed and a copy of record book forward to lawyer for archiving.
+- (RAIF) RAIF Committee charter has been acceptted and signed by all appointed members.
+- (MODULAR) 
+
+
 ### SAM - WEEKLY REPORT 240813 & 240820
 
 [LAST WEEK]
