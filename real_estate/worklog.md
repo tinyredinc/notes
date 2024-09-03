@@ -1,10 +1,19 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
-### SAM - WEEKLY REPORT 240827
+### SAM - WEEKLY REPORT 240827 & 240903
 
 [LAST WEEK]
-- (RAIF) Tranche 3 files signed and completed and a copy of record book forward to lawyer for archiving.
-- (RAIF) RAIF Committee charter has been acceptted and signed by all appointed members.
-- (MODULAR) 
+- (RAIF) Tranche 3 files were signed and completed, and a copy of the record book was forwarded to the lawyer for archiving.
+- (RAIF) The RAIF Committee charter was accepted and signed by all appointed members.
+- (MODULAR) Coordinated general communication and arrangements for the Lindsay Show, including booking, booth setup, and furniture.
+- (MODULAR) Gathered marketing materials for expandable containerized homes for the Lindsay Show.
+- (MODULAR) 3D models for containized homes were booked for manufacture, with expected on-time arrival.
+- (HR) Interviewed a candidate, a recent graduate of Schulich Business School, and provided feedback.
+
+[THIS WEEK]
+- Reviewed my workload and pending tasks; there are too many items on my plate, so prioritization or re-assignment is needed.
+
+[ROADBLOCKS]
+- N/A
 
 
 ### SAM - WEEKLY REPORT 240813 & 240820
