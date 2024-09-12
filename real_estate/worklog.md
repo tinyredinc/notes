@@ -1,4 +1,23 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
+
+### SAM - WEEKLY REPORT 240910
+
+[LAST WEEK]
+
+- (RAIF) Tranche 3 files were validated and confirmed by the lawyer, then archived for record keeping.
+- (OTHER) Current pending workloads were reviewed and re-prioritized.
+- (MODULAR) Collected information for marketing materials from the vendor and coordinated the delivery of 3D display models.
+- (SEMINAR) Researched "real estate outlook/report" from large institutions and started drafting a content structure.
+
+[THIS WEEK]
+- (MODULAR) Continue coordinating general communication and arrangements for the Lindsay Show.
+- (MODULAR) Developing marketing materials for capsule and expandable homes for the Lindsay Show.
+- (SEMINAR) Aligning internally on the content structure and confirming data sources for economic indicators.
+
+[ROADBLOCKS] 
+- The information collected from the manufacturer does not meet the requirements for drafting marketing content.
+
+
 ### SAM - WEEKLY REPORT 240827 & 240903
 
 [LAST WEEK]
