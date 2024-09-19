@@ -1,5 +1,21 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
+### SAM - WEEKLY REPORT 240919
+
+[LAST WEEK]
+- (MODULAR) Coordinated general communication and logistics for the Lindsay Show.
+- (SEMINAR) (SEMINAR) Conducted research on "real estate consumer market indicators," focusing on major condo, townhouse, and detached home markets, as well as core areas vs. urban edges of the GTA.
+- (MODULAR) Working on Designing the information architecture for the FlexHomes website.
+- (1415MT) Managed the vendor to deliver 3D renderings of 1415 Military Trail.
+
+[THIS WEEK]
+- (MODULAR) Writing content to populate the information architecture for the FlexHomes website.
+- (MODULAR) Continuing to coordinate general communication and logistics for the Lindsay Show.
+- (MKT) Studying, researching, and providing constructive advisory input for the "internal strategic plan and business plan."
+
+[ROADBLOCKS] 
+- NA
+
 ### SAM - WEEKLY REPORT 240910
 
 [LAST WEEK]
