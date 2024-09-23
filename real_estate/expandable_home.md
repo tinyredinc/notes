@@ -59,7 +59,18 @@ full_name - [v1] [required], [string(1-64)], full name of lead
 phone_number - [v1] [required/optional], [digits(10-14)], either phone or email is required
 email_address - [v1] [required/optional], [string(5-128)], either phone or email is required, email will verify mx record of domain, so email like "random@fakemail.com" wont pass the validation
 inquiry_message - [v1] [required], [json], inquiry information in json format
-
+{
+  "product": [
+    "Flex-E20",
+    "Flex-A30"
+  ],
+  "quantity": "5-10",
+  "scenario": [
+    "Generic Home",
+    "Rental Income"
+  ],
+  "interest_level": "Planning to Buy"
+}
 ```
 
 ```
