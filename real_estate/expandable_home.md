@@ -91,9 +91,8 @@ Senario - What is the intended use for our products?
 
 Interest Level: Which option best describes your situation?
 <radio, text>
-Exploring: I am gathering information and not ready to commit yet.
-Interested: I would like to receive updates on future products.
-Planning: I am planning to make a purchase in the next 6-12 months.
-Ready to Buy: I would like to place a deposit and receive priority service.
-
+Exploring: I’m gathering information and not ready to commit yet.
+Interested: I’d like to receive updates on your products.
+Planning: I’m planning to make a purchase in the next 6–12 months.
+Ready to Buy: I’d like to place a deposit and receive priority service.
 ```
