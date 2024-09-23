@@ -93,7 +93,7 @@ Interest Level: Which option best describes your situation?
 <radio, text>
 Exploring: I am gathering information and not ready to commit yet.
 Interested: I would like to receive updates on future products.
-Planning to Buy: I am planning to make a purchase in the next 6-12 months.
+Planning: I am planning to make a purchase in the next 6-12 months.
 Ready to Buy: I would like to place a deposit and receive priority service.
 
 ```
