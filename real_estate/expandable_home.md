@@ -81,18 +81,29 @@ Phone:
 Email:
 
 Product - Which model are you interested in?
-<select multiple, text with pictures>: Flex-E20, Flex-E40, Flex-A20, Flex-A30, Flex-C20, Flex-C40
+<select multiple, text with pictures>
+1. EP-40(840 sqft, 40ft Expanable Home)
+2. EP-20(430 sqft, 20ft Expanable Home)
+3. AP-402(840 sqft, 40ft Stacked Apple Cabin Home)
+4. AP-40(370 sqft, 40ft Apple Cabin Home)
+5. AP-30(270 sqft, 30ft Apple Cabin Home)
+6. CP-40(410 sqft, 40ft Capsule Home)
+7. CP-30(300 sqft, 30ft Capsule Home)
 
 Quantity - How many expandable/capsule houses do you need?
 <radio, text>: 1,2,3-5,5-10,10-50,50-100,100+
 
-Senario - What is the intended use for our products?
+Scenario - What is the intended use for our products?
 <select multiple, text>: Generic Home, Garden Suite, Rental Income, Vacation Cottage, Resort/Trailer Park, Affordable Housing Development, Other
 
-Interest Level: Which option best describes your situation?
+Interest Level - Which option best describes your situation?
 <radio, text>
 Exploring: I’m gathering information and not ready to commit yet.
 Interested: I’d like to receive updates on your products.
 Planning: I’m planning to make a purchase in the next 6–12 months.
 Ready to Buy: I’d like to place a deposit and receive priority service.
 ```
+
+## Web Content
+
+##
