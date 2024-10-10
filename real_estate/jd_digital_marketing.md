@@ -7,7 +7,7 @@ Type: Full-time, Permanent
 As an innovative real estate developer and investor, we are seeking a passionate digital marketer to join our marketing team. The ideal candidate will have a solid understanding of planning, executing, and optimizing marketing strategies to help us achieve our business goals.
 
 ## Key Responsibilities:
-- Participate in the full life cycle of digital marketing:
+- Participate in the full lifecycle of marketing for various projects:
 	- Develop marketing strategies (Plan)
 	- Create marketing materials (Content)
 	- Launch marketing campaigns (Traffic)
