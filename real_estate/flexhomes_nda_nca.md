@@ -22,6 +22,10 @@
     - Technical specifications  
     - Designs and drawings  
     - Manufacturing methods  
+    - Construction methods 
+    - Weatherproof technology  
+    - Interconnection technology  
+    - Thermal insulation technology  
     - Materials used  
     - Business plans  
     - Client lists  
