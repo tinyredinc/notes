@@ -1,4 +1,31 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
+### SAM - WEEKLY REPORT 241217  
+[LAST WEEK]  
+- (MODULAR) Collaborated with the lawyer on NDA/NCA legal documents.  
+- (MODULAR) Negotiated with Peter and convinced him to accept the key terms of the NDA/NCA.  
+- (MKT) Yetaverse Website - Stage I: SOW confirmed, and work arranged.  
+- (MODULAR) Renderings completed for 2STRY-4BED and 1STRY-2BED designs (2/4).  
+
+[THIS WEEK]  
+- (MODULAR) Finalize the first version of the NDA/NCA with the lawyer.  
+- (MODULAR) Review the legal draft of the NDA/NCA with Peter, with the goal of obtaining signatures.  
+- (MKT) Continue working on the Yetaverse Website - Stage I.  
+- (MODULAR) Complete renderings for the remaining designs.  
+
+[ROADBLOCK]  
+- N/A
+
+
+### SAM - WEEKLY REPORT 241210
+[LAST WEEK]
+1. NDA/NCA Keyterms draft completed
+
+[THIS WEEK]
+
+
+[ROADBLOCK] 
+
+
 ### SAM - WEEKLY REPORT 241203
 [LAST WEEK]
 - (CONSTR) Local Market Research for Wall Panels(MCM/PU/Plywood/Solidwood) in CN, samples brought back
@@ -12,7 +39,7 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 - (MKT) Continuing to work on new Yetaverse Website
 - (MODULAR) Discuss and share information for MODULAR construction
 
-[ROADBLOCKS] 
+[ROADBLOCK] 
 - NA
 
 
