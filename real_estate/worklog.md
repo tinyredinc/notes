@@ -18,7 +18,7 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 
 ### SAM - WEEKLY REPORT 241210
 [LAST WEEK]
-- NDA/NCA Keyterms draft completed
+- NDA/NCA Keyterms draft version completed, seeking a bilingual lawyer to prepare the legal copies.
 
 [THIS WEEK]
 
@@ -28,7 +28,7 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 
 ### SAM - WEEKLY REPORT 241203
 [LAST WEEK]
-
+- Prepare NDA/NCA for potential collabration with Peter and his factory
 
 [THIS WEEK]
 
