@@ -18,7 +18,7 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 
 ### SAM - WEEKLY REPORT 241210
 [LAST WEEK]
-1. NDA/NCA Keyterms draft completed
+- NDA/NCA Keyterms draft completed
 
 [THIS WEEK]
 
@@ -28,16 +28,10 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 
 ### SAM - WEEKLY REPORT 241203
 [LAST WEEK]
-- (CONSTR) Local Market Research for Wall Panels(MCM/PU/Plywood/Solidwood) in CN, samples brought back
-- (CONSTR) Site visit OPPEIN for Cabinetary Market Research, design and quotes obtained
-- (MODULAR) Site visit for BaiDaMingSheng Factory(Hebei Hengshui Via Guo Jiang)
-- (MODULAR) Site Visit for GuJian Engineering Group(Shandong Weifang Via Peter Jiang)
-- (SHIPPING) Site Visit for BoYuanYunTong Logistics(Guangdong Shenzhen)
-- (MKT) Working on new Yetaverse Website
+
 
 [THIS WEEK]
-- (MKT) Continuing to work on new Yetaverse Website
-- (MODULAR) Discuss and share information for MODULAR construction
+
 
 [ROADBLOCK] 
 - NA
