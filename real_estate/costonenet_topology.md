@@ -75,7 +75,6 @@
 - 22 Secure Shell(SSH)
 - 80/433 VHost & Reverse Proxy
 - 500/4500 L2TP/IPSec VPN
-- 1194 OpenVPN
 - 9090 Cockpit Console
 
 ### [CGS66 - Data Server]
