@@ -1,10 +1,11 @@
 # CostoneNet
 
-## Network Scheme
-- General
+## Scheme
+- General Info
     - Subnetting: 10.10.10.0/24
     - Default Gateway: 10.10.10.2
     - DNS Servers: 8.8.8.8, 8.8.4.4
+    - DDNS: costone.duckdns.org
 - Address Allocation
     - 10.10.10.0 ~ 10.10.10.19: Network Infrastructures
     - 10.10.10.20 ~ 10.10.10.49: Reserved IPs
@@ -27,7 +28,7 @@
 ## Network Topology
 ![REIF STRUCTURE](img/CostoneNet-Topology.png)
 
-## Server & Service
+## Servers & Services
 ### [AC01 WLAN Router]
 - TP-LINK TL-XVR3000G
 - 4C:10:D5:C6:1C:1E
@@ -73,7 +74,7 @@
 - 10.10.10.65
 - 22 Secure Shell(SSH)
 - 80/433 VHost & Reverse Proxy
-- 500/1701/4500 L2TP/IPSec VPN
+- 500/4500 L2TP/IPSec VPN
 - 1194 OpenVPN
 - 9090 Cockpit Console
 
