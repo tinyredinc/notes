@@ -1,4 +1,21 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
+
+### SAM - WEEKLY REPORT 250114  
+[LAST WEEK]  
+- (IT) Construction of the new Wi-Fi 6 CostoneNet for the new office completed.
+- (IT) Local NAS setup finalized, currently used for internal file sharing and OneDrive backups.
+- (MARKETING) Yetaverse Website - Stage I, Revision 3, completed and pending review.
+- (FLEXHOMES) Kickoff Meeting with Peter, Richard and Eric for panel construction system.
+- (FLEXHOMES) Renderings revised and finalized for all four models (4/4).
+
+[THIS WEEK]  
+- (FLEXHOMES) Preparing the scope of work for Peter's consulting services.
+- (FLEXHOMES) Finalizing related paperwork and potentially drafting an appropriate contract with Peter.
+- (MARKETING) Launching Yetaverse Website - Stage I.
+
+[ROADBLOCK]  
+- N/A
+
 ### SAM - WEEKLY REPORT 241217  
 [LAST WEEK]  
 - (MODULAR) Collaborated with the lawyer on NDA/NCA legal documents.  
