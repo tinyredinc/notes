@@ -1,5 +1,24 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
+
+Here’s a revised version of your report for clarity and a more natural tone:
+
+### SAM - WEEKLY REPORT 250121
+
+[LAST WEEK]
+- (IT) Set up LAN NAS accounts for staff and monitored the OneDrive auto-backup service.
+- (FLEXHOMES) Negotiated final terms of the NDA/NCA with Peter.
+- (OFFICE) Obtained quotations for the office front desk.
+
+[THIS WEEK]
+- (FLEXHOMES) Sign the NDA/NCA with Peter and initiate official business collaboration.
+- (OFFICE) Place the order for the office front desk.
+- (MARKETING) Launch Stage I of the Yetaverse website.
+
+[ROADBLOCK]
+None
+
+
 ### SAM - WEEKLY REPORT 250114  
 [LAST WEEK]  
 - (IT) Construction of the new Wi-Fi 6 CostoneNet for the new office completed.
