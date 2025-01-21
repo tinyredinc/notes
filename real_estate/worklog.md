@@ -1,8 +1,5 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
-
-Here’s a revised version of your report for clarity and a more natural tone:
-
 ### SAM - WEEKLY REPORT 250121
 
 [LAST WEEK]
