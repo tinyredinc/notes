@@ -1,5 +1,23 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
+### SAM - WEEKLY REPORT 250204
+[LAST WEEK]
+- (IT) Monitored the NAS OneDrive auto-backup service; everything is working properly so far.
+- (FLEXHOMES) Final version of the NDA with Peter confirmed verbally; signing is expected soon.
+- (FLEXHOMES) Initiated business collaboration with Peter; weekly meetings are expected to continue.
+- (OFFICE) Confirmed the reception desk style and placed the order for manufacturing.
+- (MARKETING) Stage I of the Yetaverse website has been launched.
+
+[THIS WEEK]
+- (IT) Continue monitoring the NAS OneDrive auto-backup service and set up NAS accounts for staff.
+- (FLEXHOMES) Get the NDA signed with Peter ASAP.
+- (FLEXHOMES) Discuss the panel system and obtain quotations for consulting fees and manufacturing costs.
+- (OFFICE) Manufacturing is expected to be completed this week; follow up with the international shipping company.
+- (MARKETING) Begin planning for Stage II of the Yetaverse website.
+
+[ROADBLOCK]
+None
+
 ### SAM - WEEKLY REPORT 250121
 
 [LAST WEEK]
