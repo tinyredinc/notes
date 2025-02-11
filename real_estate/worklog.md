@@ -1,5 +1,25 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
+### SAM - WEEKLY REPORT 250211  
+
+**[LAST WEEK]**  
+- **(FLEXHOMES)** Peter has signed the NDA with FlexHomes.  
+- **(FLEXHOMES)** Held two meetings on the panel system, focusing on designs and materials.  
+- **(FLEXHOMES)** 3D design and printing of a demo model for marketing purposes.  
+- **(URBANWAY)** Provided consulting on UrbanWay rebranding and content revision.  
+- **(OFFICE)** The reception desk is ready; awaiting shipment of the kitchen table.  
+
+**[THIS WEEK]**  
+- **(OFFICE)** Follow up on office furniture imports.  
+- **(FLEXHOMES)** Work on the terms of the consulting contract with Peter.  
+- **(FLEXHOMES)** Hold meetings with Peter and Richard to further align designs and materials.  
+- **(FLEXHOMES)** Continue working on 3D design and printing of the demo model for marketing purposes.  
+- **(MARKETING)** Begin planning for Stage II of the Yetaverse website.  
+- **(IT)** Continue monitoring the NAS OneDrive auto-backup service and set up NAS accounts for staff.  
+
+**[ROADBLOCK]**  
+None  
+
 ### SAM - WEEKLY REPORT 250204
 [LAST WEEK]
 - (IT) Monitored the NAS OneDrive auto-backup service; everything is working properly so far.
