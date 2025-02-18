@@ -1,5 +1,23 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
+### SAM - WEEKLY REPORT 250218 
+[LAST WEEK] 
+- (OFFICE) Furniture is at the port warehouse for packaging.
+- (FLEXHOMES) Held two meetings on the panel system to further align designs and materials.
+- (FLEXHOMES) For the first floor of the model, 3D modeling is 80% complete, and 3D printing is 50% complete.
+- (FLEXHOMES) Reached verbal agreement on the budget for Peter's consulting contract.
+- (URBANWAY) Provided information architecture design for UrbanWay rebranding.
+
+[THIS WEEK] 
+- (OFFICE) Follow up on office furniture imports.
+- (FLEXHOMES) Continue working on the terms of the consulting contract with Peter.
+- (FLEXHOMES) Hold meetings with Peter and Richard; oversee 3D solid modeling.
+- (FLEXHOMES) Continue working on 3D design and printing of the demo model for marketing purposes.
+- (IT) Continue monitoring the NAS OneDrive auto-backup service.
+
+[ROADBLOCK]  
+None  
+
 ### SAM - WEEKLY REPORT 250211  
 
 [LAST WEEK] 
