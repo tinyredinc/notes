@@ -1,5 +1,25 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
+### SAM - WEEKLY REPORT 250226 
+[LAST WEEK] 
+- (OFFICE) Imported furniture is packed and awaiting payment for shipment.
+- (FLEXHOMES) Held meetings regarding wall panel design; a solid design review is scheduled for this Thursday.
+- (FLEXHOMES) The 3D model is 90% complete in terms of design, and 3D printing is 50% complete overall.
+- (FLEXHOMES) Further aligned numbers and key terms in Peter's consulting contract.
+- (URBANWAY) The draft design is complete and pending review.
+
+[THIS WEEK] 
+- (OFFICE) Follow up on office furniture imports.
+- (FLEXHOMES) Continue working on the terms of the consulting contract with Peter.
+- (FLEXHOMES) Continue holding meetings with Peter and Richard to push progress forward.
+- (FLEXHOMES) Continue working on design and printing of the demo 3D model for marketing purposes.
+- (URBANWAY) Continue supervising the development of the UrbanWay website.
+- (IT) Continue monitoring the NAS OneDrive auto-backup service.
+
+[ROADBLOCK]  
+None  
+
+
 ### SAM - WEEKLY REPORT 250218 
 [LAST WEEK] 
 - (OFFICE) Furniture is at the port warehouse for packaging.
