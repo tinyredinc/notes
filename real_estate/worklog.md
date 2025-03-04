@@ -2,6 +2,25 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 
 ### SAM - WEEKLY REPORT 250226 
 [LAST WEEK] 
+- (IT) Rebuilt the CostoneNet network after an accidental router reset.
+- (OFFICE) Imported furniture has been shipped; tracking number provided.
+- (FLEXHOMES) Completed the initial review of the Solid panel design and provided feedback.
+- (FLEXHOMES) The 3D model is 90% complete in terms of design, and 3D printing is also 90% complete.
+- (URBANWAY) The design is finalized and pending review.
+
+[THIS WEEK] 
+- (OFFICE) Follow up on imported office furniture.
+- (FLEXHOMES) Draft Peter's consulting contract.
+- (FLEXHOMES) Continue meetings with Peter and Richard to drive progress forward.
+- (FLEXHOMES) Finalize the design and printing of the demo 3D model for marketing purposes.
+- (URBANWAY) Oversee the development of the UrbanWay website.
+- (IT) Continue monitoring the NAS OneDrive auto-backup service.
+
+[ROADBLOCK]  
+None  
+
+### SAM - WEEKLY REPORT 250226 
+[LAST WEEK] 
 - (OFFICE) Imported furniture is packed and awaiting payment for shipment.
 - (FLEXHOMES) Held meetings regarding wall panel design; a solid design review is scheduled for this Thursday.
 - (FLEXHOMES) The 3D model is 90% complete in terms of design, and 3D printing is 50% complete overall.
