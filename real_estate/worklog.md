@@ -1,23 +1,21 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
 
-### SAM - WEEKLY REPORT 250226 
+### SAM - WEEKLY REPORT 250311
 [LAST WEEK] 
-- (IT) Rebuilt the CostoneNet network after an accidental router reset.
-- (OFFICE) Imported furniture has been shipped; tracking number provided.
-- (FLEXHOMES) Completed the initial review of the Solid panel design and provided feedback.
-- (FLEXHOMES) The 3D model is 90% complete in terms of design, and 3D printing is also 90% complete.
-- (URBANWAY) The design is finalized and pending review.
+- (OFFICE) Imported furniture is en route by sea, expected to arrive in BC by March 22.
+- (FLEXHOMES) The 3D model frame is ready; exterior detailing is 50% complete.
+- (FLEXHOMES) The payment schedule for Peter's consulting contract has been finalized.
+- (URBANWAY) The UrbanWay website is in the development stage.
 
 [THIS WEEK] 
-- (OFFICE) Follow up on imported office furniture.
-- (FLEXHOMES) Draft Peter's consulting contract.
 - (FLEXHOMES) Continue meetings with Peter and Richard to drive progress forward.
-- (FLEXHOMES) Finalize the design and printing of the demo 3D model for marketing purposes.
+- (FLEXHOMES) Finalize the consulting contract with Peter.
+- (FLEXHOMES) Continue working on the 3D printed model for marketing.
+- (FLEXHOMES) Prepare the FlexHomes sales pitch presentation.
 - (URBANWAY) Oversee the development of the UrbanWay website.
-- (IT) Continue monitoring the NAS OneDrive auto-backup service.
 
 [ROADBLOCK]  
-None  
+- (FLEXHOMES) Wall panel design is delayed, awaiting feedback from the structural engineer.
 
 ### SAM - WEEKLY REPORT 250226 
 [LAST WEEK] 
