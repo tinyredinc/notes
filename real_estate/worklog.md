@@ -1,4 +1,19 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
+### SAM - WEEKLY REPORT 250325
+[LAST WEEK] 
+- (OFFICE) Imported furniture has arrived in BC; delivery to the office is expected in 2–3 weeks.
+- (FLEXHOMES) The 3D model for marketing is approximately 95% complete.
+- (FLEXHOMES) Phase I of the FlexHomes 3D animation for marketing has been completed.
+- (URBANWAY) The initial draft of the UrbanWay website has been delivered and is pending review.
+
+[THIS WEEK] 
+- (FLEXHOMES) Continue meetings with Peter and Richard to drive progress forward.
+- (FLEXHOMES) Continue working on the consulting contract with Peter.
+- (FLEXHOMES) Continue working on marketing materials for flexhomes.
+- (URBANWAY) Oversee the development of the UrbanWay website.
+
+[ROADBLOCK]  
+None
 
 ### SAM - WEEKLY REPORT 250311
 [LAST WEEK] 
@@ -10,7 +25,7 @@ please review the grammar and adjust as needed to ensure clarity and a native sp
 [THIS WEEK] 
 - (FLEXHOMES) Continue meetings with Peter and Richard to drive progress forward.
 - (FLEXHOMES) Finalize the consulting contract with Peter.
-- (FLEXHOMES) Continue working on the 3D printed model for marketing.
+- (FLEXHOMES)  working on the 3D printContinueed model for marketing.
 - (FLEXHOMES) Prepare the FlexHomes sales pitch presentation.
 - (URBANWAY) Oversee the development of the UrbanWay website.
 
