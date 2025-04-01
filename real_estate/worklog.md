@@ -1,4 +1,21 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
+### SAM - WEEKLY REPORT 250401
+[LAST WEEK] 
+- (OFFICE) Imported furniture has been unloaded and is currently on a train for secondary transportation.
+- (FLEXHOMES) The second MINI version 3D model has been prepared for client engagement.
+- (FLEXHOMES) Aligned on the engineering sample of the wall/floor panel; awaiting the second revised version.
+- (URBANWAY) In progress: UrbanWay Revised Version 2.
+- (HIRING) Conducted three interviews for the marketing position.
+
+[THIS WEEK] 
+- (FLEXHOMES) Continue meetings with Peter and Richard to drive progress forward.
+- (FLEXHOMES) Continue working on the consulting contract with Peter.
+- (FLEXHOMES) Continue working on marketing materials for flexhomes.
+- (URBANWAY) Oversee the development of the UrbanWay website.
+
+[ROADBLOCK]  
+None
+
 ### SAM - WEEKLY REPORT 250325
 [LAST WEEK] 
 - (OFFICE) Imported furniture has arrived in BC; delivery to the office is expected in 2–3 weeks.
