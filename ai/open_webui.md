@@ -111,3 +111,41 @@ pip install -U open-webui
 ```
 open-webui serve
 ```
+5. open-webui.service
+- sudo vim /home/red/anaconda3/envs/open-webui/start-open-webui.sh
+```
+#!/bin/bash
+conda activate open-webui
+exec open-webui serve
+```
+```
+chmod +x /home/red/anaconda3/envs/open-webui/start-open-webui.sh
+```
+- sudo vim /etc/systemd/system/open-webui.service
+```
+[Unit]
+Description=OpenWebUI Service
+After=network.target
+
+[Service]
+Environment="PATH=/home/red/anaconda3/bin:/home/red/anaconda3/envs/open-webui/bin:$PATH"
+WorkingDirectory=/home/red/anaconda3/envs/open-webui
+User=red
+Group=red
+ExecStart=/home/red/anaconda3/envs/open-webui/start-open-webui.sh
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target
+```
+```
+sudo systemctl daemon-reload
+sudo systemctl enable open-webui
+sudo systemctl start open-webui
+
+journalctl -u open-webui -f
+
+sudo systemctl restart open-webui
+sudo systemctl stop open-webui
+```
