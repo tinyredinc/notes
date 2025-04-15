@@ -1,4 +1,19 @@
 please review the grammar and adjust as needed to ensure clarity and a native speaker tone:
+### SAM - WEEKLY REPORT 250415
+[LAST WEEK] 
+- (OFFICE) Imported furniture is expected to arrive by the end of this week or early next week.
+- (FLEXHOMES) Continued negotiations and drafting of the consulting contract with Peter.
+- (FLEXHOMES) Met with the structural engineer; significant revisions were made to the steel structure.
+- (YETAVERSE) Designed backend logic for passcode verification.
+
+[THIS WEEK] 
+- (FLEXHOMES) Continue working on the production design with Peter and Richard.
+- (FLEXHOMES) Continue finalizing the consulting contract with Peter.
+- (YETAVERSE) Oversee development of the Yetaverse V2 website.
+
+[ROADBLOCK]  
+None
+
 ### SAM - WEEKLY REPORT 250401
 [LAST WEEK] 
 - (OFFICE) Imported furniture has been unloaded and is currently on a train for secondary transportation.
